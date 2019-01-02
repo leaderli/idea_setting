@@ -1,0 +1,9 @@
+<list display="quick">
+  <action id="SplitVertically" />
+  <action id="QuickList.$Separator$" />
+  <action id="QuickImplementations" />
+  <action id="QuickList.$Separator$" />
+  <action id="QuickJavaDoc" />
+  <action id="QuickList.$Separator$" />
+  <action id="Tool_External Tools_byte" />
+</list>

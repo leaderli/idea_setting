@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Test.java" type="PLAIN_TEXT" />
+      <mapping ext="tbl" type="PLAIN_TEXT" />
+      <mapping pattern="logj4" type="Properties" />
+      <mapping ext="flow" type="XML" />
+    </extensionMap>
+  </component>
+</application>
