@@ -6,8 +6,10 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ChooseRunConfiguration" />
+  <action id="CodeCompletion" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.SelectRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
@@ -57,6 +59,9 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ShowErrorDescription" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="f3" />
