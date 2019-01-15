@@ -484,6 +484,7 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/JavaClassFileObject.java" timestamp="1547567799350" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1b8668b0-6191-4ba1-be0b-b8699d64711e/console.sql" timestamp="1541382213393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="7" />
@@ -651,13 +652,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot2/src/main/resources/application.yml" timestamp="1545631704387">
-        <mark key="'" line="8" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/util/Constant.java" timestamp="1537108176385">
         <mark key="[" line="6" column="58" />
         <mark key="]" line="10" column="47" />
@@ -800,6 +794,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/TestDynamicJava.java" timestamp="1547566903358">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/java/li/config/Web.java" timestamp="1545037834743">
         <mark key="[" line="7" column="0" />
@@ -1006,6 +1005,9 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/Print.java" timestamp="1547567224526">
+        <mark key="[" line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/com/avaya/sce/runtime/Phrase.java" timestamp="1543983610612">
         <mark key="[" line="77" column="38" />
         <mark key="]" line="77" column="37" />
@@ -1041,6 +1043,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/ClassFileManager.java" timestamp="1547567946631">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/JavaWeb/src/main/java/HelloServlet.java" timestamp="1539330507478">
         <mark key="[" line="13" column="31" />
@@ -1687,13 +1694,6 @@
         <mark key="." line="43" column="21" />
         <mark key="^" line="43" column="21" />
       </file>
-      <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/chinese/phrasesets/Notice.java" timestamp="1545318225316">
-        <mark key="'" line="18" column="58" />
-        <mark key="[" line="331" column="2" />
-        <mark key="]" line="331" column="8" />
-        <mark key="." line="331" column="8" />
-        <mark key="^" line="331" column="8" />
-      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/TestMemorize.java" timestamp="1523147014199">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="35" />
@@ -1801,9 +1801,6 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/SCESession.class" timestamp="1546586104519">
-        <mark key="'" line="69" column="30" />
-      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Array.java" timestamp="1523519154048">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -1900,6 +1897,11 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/a.java" timestamp="1547567034736">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/server/AsyncTask.java" timestamp="1541470579280">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="17" />
@@ -1948,6 +1950,12 @@
         <mark key="^" line="45" column="37" />
         <mark key="." line="45" column="37" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/Test1.java" timestamp="1547566028629">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/src/com/li/test.java" timestamp="1531883485496">
         <mark key="[" line="8" column="52" />
         <mark key="]" line="9" column="46" />
@@ -1962,7 +1970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/Event.class" />
       <jump line="33" column="24" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/Event.class" />
       <jump line="39" column="16" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/Event.class" />
       <jump line="66" column="11" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
@@ -2062,6 +2069,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
       <jump line="7" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
       <jump line="27" column="92" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
+      <jump line="60" column="23" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/ClassFileManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2075,10 +2083,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEVsZW1lbnRzIGVsZW1lbnRzOwogIHByaXZhdGUgRmlsZXIgZmlsZXI7CiAgcHJpdmF0ZSBNZXNzYWdlciBtZXNzYWdlcjsKICBwcml2YXRlIFR5cGVzIHR5cGVzOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgSmF2YUZpbGVPYmplY3QgZ2V0SmF2YUZpbGVGb3JPdXRwdXQoTG9jYXRpb24gbG9jYXRpb24sIFN0cmluZyBjbGFzc05hbWUsIEphdmFGaWxlT2JqZWN0LktpbmQga2luZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlsZU9iamVjdCBzaWJsaW5nKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgY2xhc3NGaWxlT2JqZWN0ID0gbmV3IEphdmFDbGFzc0ZpbGVPYmplY3QoY2xhc3NOYW1lLCBraW5kKTsKICAgIHJldHVybiBjbGFzc0ZpbGVPYmplY3Q7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>System.currentTimeMillis();</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
@@ -2087,31 +2095,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNpbXBsZURhdGVGb3JtYXQuZm9ybWF0KG5ldyBEYXRlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSkrIiAiK3RocmVhZEF2YWlsYWJsZS5nZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEVsZW1lbnRzIGVsZW1lbnRzOwogIHByaXZhdGUgRmlsZXIgZmlsZXI7CiAgcHJpdmF0ZSBNZXNzYWdlciBtZXNzYWdlcjsKICBwcml2YXRlIFR5cGVzIHR5cGVzOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgSmF2YUZpbGVPYmplY3QgZ2V0SmF2YUZpbGVGb3JPdXRwdXQoTG9jYXRpb24gbG9jYXRpb24sIFN0cmluZyBjbGFzc05hbWUsIEphdmFGaWxlT2JqZWN0LktpbmQga2luZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlsZU9iamVjdCBzaWJsaW5nKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgY2xhc3NGaWxlT2JqZWN0ID0gbmV3IEphdmFDbGFzc0ZpbGVPYmplY3QoY2xhc3NOYW1lLCBraW5kKTsKICAgIHJldHVybiBjbGFzc0ZpbGVPYmplY3Q7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGVzID0gZW52LmdldFR5cGVVdGlscygpOwogICAgZWxlbWVudHMgPSBlbnYuZ2V0RWxlbWVudFV0aWxzKCk7CiAgICBmaWxlciA9IGVudi5nZXRGaWxlcigpOwogICAgbWVzc2FnZXIgPSBlbnYuZ2V0TWVzc2FnZXIoKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0ago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZXIucHJpbnRNZXNzYWdlKERpYWdub3N0aWMuS2luZC5FUlJPUiwgU3RyaW5nLmZvcm1hdCgiKioqKioiLCAiYWFhYWEiKSwgYW5ub3RhdGlvbik7CiAgICAgIHRyeSB7CiAgICAgICAgSmF2YUZpbGVPYmplY3Qgc291cmNlID0gZmlsZXIuY3JlYXRlU291cmNlRmlsZSgiY29tLnp5YW84OS5kZW1vcHJvY2Vzc29yLmF1dG8uVGVzdCIpOwogICAgICAgIFdyaXRlciB3cml0ZXIgPSBzb3VyY2Uub3BlbldyaXRlcigpOwogICAgICAgIHdyaXRlci53cml0ZSgiZnVja3lvdSIpOwogICAgICAgIHdyaXRlci5mbHVzaCgpOwogICAgICAgIHdyaXRlci5jbG9zZSgpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAg5L2c6ICF77ya5pil5paH56eL5q2mCiAgICDmnaXmupDvvJpDU0ROCiAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvd2h1cWluL2FydGljbGUvZGV0YWlscy80OTgxODMwOSAKICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJrmmKXmlofnp4vmraYKICAgIOadpea6kO+8mkNTRE4KICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC93aHVxaW4vYXJ0aWNsZS9kZXRhaWxzLzQ5ODE4MzA5IAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIGEgewp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKDAgIT0gZXhpdFZhbHVlKSB7CiAgICAgICAgbG9nLmVycm9yKCJjYWxsIHNoZWxsIGZhaWxlZC4gZXJyb3IgY29kZSBpcyA6IiArIGV4aXRWYWx1ZSk7CiAgICAgIH0KICAgIH0gY2F0Y2ggKFRocm93YWJsZSBlKSB7CiAgICAgIGxvZy5lcnJvcigiY2FsbCBzaGVsbCBmYWlsZWQuICIgKyBlKTsKICAgIH0KICAgIFJ1bnRpbWUgcnVuVGltZSA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpOwogICAgUHJvY2VzcyBwcm8gPSBydW5UaW1lLmV4ZWMoKTsKICAgIEJ1ZmZlcmVkUmVhZGVyIGlucHV0ID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihwcm8uZ2V0SW5wdXRTdHJlYW0oKSkpOwogICAgUHJpbnRXcml0ZXIgb3V0cHV0ID0gbmV3IFByaW50V3JpdGVyKG5ldyBPdXRwdXRTdHJlYW1Xcml0ZXIocHJvLmdldE91dHB1dFN0cmVhbSgpKSk7CiAgICBTdHJpbmcgbGluZTsKICAgIFN0cmluZyByZXR1cm5TdHJpbmcgPSIiOwogICAgd2hpbGUgKChsaW5lID0gaW5wdXQucmVhZExpbmUoKSkgIT0gbnVsbCkgewogICAgICByZXR1cm5TdHJpbmcgPSByZXR1cm5TdHJpbmcgKyBsaW5lICsgIlxuIjsKICAgIH0KICAgIGlucHV0LmNsb3NlKCk7CiAgICBvdXRwdXQuY2xvc2UoKTsKICAgIHByby5kZXN0cm95KCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLSIpOwo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJrmmKXmlofnp4vmraYKICAgIOadpea6kO+8mkNTRE4KICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC93aHVxaW4vYXJ0aWNsZS9kZXRhaWxzLzQ5ODE4MzA5IAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKDAgIT0gZXhpdFZhbHVlKSB7CiAgICAgICAgbG9nLmVycm9yKCJjYWxsIHNoZWxsIGZhaWxlZC4gZXJyb3IgY29kZSBpcyA6IiArIGV4aXRWYWx1ZSk7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIGEgewp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBsaW5lOwo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJrmmKXmlofnp4vmraYKICAgIOadpea6kO+8mkNTRE4KICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC93aHVxaW4vYXJ0aWNsZS9kZXRhaWxzLzQ5ODE4MzA5IAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICgobGluZSA9IGlucHV0LnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgU3RyaW5nIHJldHVyblN0cmluZyA9IHJldHVyblN0cmluZyArIGxpbmUgKyAiXG4iOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIENsYXNzLmZvck5hbWUoImxpLkZ1Y2tNYWluIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
