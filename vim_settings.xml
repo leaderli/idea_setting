@@ -39,6 +39,9 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="30" column="25" />
       </file>
+      <file name="/a.dummy" timestamp="1548076972728">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/CountDownLatchTest.java" timestamp="1523170947159">
         <mark key="[" line="16" column="78" />
         <mark key="]" line="17" column="27" />
@@ -664,11 +667,11 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" timestamp="1548072604383">
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="13" />
+      <file name="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" timestamp="1548079722431">
+        <mark key="[" line="172" column="58" />
+        <mark key="]" line="168" column="19" />
+        <mark key="^" line="168" column="19" />
+        <mark key="." line="168" column="19" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/unify/Select.java" timestamp="1528872798948">
         <mark key="[" line="2" column="20" />
@@ -1914,8 +1917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="16" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/Event.class" />
-      <jump line="66" column="11" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
       <jump line="64" column="61" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
       <jump line="53" column="118" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
       <jump line="47" column="33" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
@@ -2014,6 +2015,8 @@
       <jump line="27" column="92" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
       <jump line="60" column="23" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/ClassFileManager.java" />
       <jump line="20" column="8" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/Parse.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
+      <jump line="54" column="15" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2026,44 +2029,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nQnVmZmVyIHNiID0gbmV3IFN0cmluZ0J1ZmZlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>expression.toCharArray().</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>expression.toCharArray().</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0aWMgTWFwPFN0cmluZywgU3RyaW5nPiBsb2NhbCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlX2lubmVyX3NiID0gc2I7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nQnVmZmVyIHNiID0gbmV3IFN0cmluZ0J1ZmZlcigpOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoY2hhciBjIDogZXhwcmVzc2lvbi50b0NoYXJBcnJheSgpKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAxOyBpIDwgY2hhcnMubGVuZ3RoIC0gMjsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoY2hhciBjIDogZXhwcmVzc2lvbi50b0NoYXJBcnJheSgpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW5uZXJfZXhlY3V0ZT0iICsgZXhlY3V0ZShpbm5lcl9leHByZXNzaW9uLnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yZGVyID0gCg==</text>
+        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YXRlPSIgKyBzdGF0ZSArICIgLS0tLT4gIiArIGMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTdHJpbmdCdWZmZXIK</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIuZm9yCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyByICA9IHJlc3VsdC50b1N0cmluZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXIpOwo=</text>
+        <text encoding="base64">ICAgIGlmKHJlc3VsdC5lbikK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
