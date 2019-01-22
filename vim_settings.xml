@@ -480,7 +480,6 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/JavaClassFileObject.java" timestamp="1547567799350" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1b8668b0-6191-4ba1-be0b-b8699d64711e/console.sql" timestamp="1541382213393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="7" />
@@ -703,7 +702,6 @@
         <mark key="^" line="63" column="8" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.2.RELEASE/spring-core-4.0.2.RELEASE-sources.jar!/org/springframework/core/env/StandardEnvironment.java" timestamp="1547643224403" />
       <file name="$USER_HOME$/java/workspace/test/src/test/java/study/stack/StackUtilTest.java" timestamp="1533136763564">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="41" />
@@ -1355,6 +1353,12 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/Announce.java" timestamp="1548158863976">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/algorithms/SingelLink.java" timestamp="1524098876391">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="3" column="0" />
@@ -1517,7 +1521,6 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestController.java" timestamp="1547643793047" />
       <file name="$USER_HOME$/java/workspace/common/pom.xml" timestamp="1536646853450">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="16" />
@@ -1572,7 +1575,6 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" timestamp="1547643064969" />
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/util/Log.java" timestamp="1536640417568">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -1591,7 +1593,13 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/stereotype/Controller.java" timestamp="1547642954555" />
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" timestamp="1548158988976">
+        <mark key="'" line="9" column="33" />
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/TestHttp.java" timestamp="1546440027613">
         <mark key="[" line="45" column="91" />
       </file>
@@ -1917,7 +1925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="61" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
       <jump line="53" column="118" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
       <jump line="47" column="33" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
       <jump line="46" column="35" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/ExternalPhrasesetPhrase.class" />
@@ -2017,6 +2024,7 @@
       <jump line="20" column="8" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/Parse.java" />
       <jump line="36" column="0" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
       <jump line="54" column="15" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
+      <jump line="9" column="33" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2029,44 +2037,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>addVoiceInCurrentVoiceList</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>addVoiceInCurrentVoiceList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdm9pY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0YXRlICsgIj09PiIgKyBzYik7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdm9pY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoY2hhciBjIDogZXhwcmVzc2lvbi50b0NoYXJBcnJheSgpKSB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gYWRkKE9iamVjdCBvKSB7CiAgICAgIHJldHVybiBzdXBlci5hZGQobyk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoY2hhciBjIDogZXhwcmVzc2lvbi50b0NoYXJBcnJheSgpKSB7Cg==</text>
+        <text encoding="base64">ICB2b2lkIGRpZ2l0cygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW5uZXJfZXhlY3V0ZT0iICsgZXhlY3V0ZShpbm5lcl9leHByZXNzaW9uLnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YXRlPSIgKyBzdGF0ZSArICIgLS0tLT4gIiArIGMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0YXRlICsgIj09PiIgKyBzYik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
