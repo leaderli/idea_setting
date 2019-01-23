@@ -27,13 +27,6 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/TtsEngine.java" timestamp="1548164526629">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/resource/Config_uat.json" timestamp="1537194531588">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="17" />
@@ -45,6 +38,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="30" column="25" />
+      </file>
+      <file name="/a.dummy" timestamp="1548159745052">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/CountDownLatchTest.java" timestamp="1523170947159">
         <mark key="[" line="16" column="78" />
@@ -64,6 +60,9 @@
         <mark key="." line="103" column="41" />
         <mark key="^" line="103" column="41" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/resource/readme.md" timestamp="1548165759342">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/UnifyApp/src/huzm/xcommander/GUID.java" timestamp="1532073500357">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -75,12 +74,6 @@
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounce.java" timestamp="1548227657828">
-        <mark key="[" line="74" column="45" />
-        <mark key="]" line="74" column="45" />
-        <mark key="^" line="74" column="44" />
-        <mark key="." line="74" column="45" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/queue/BlockQueue.java" timestamp="1533630912624">
         <mark key="[" line="14" column="0" />
@@ -95,6 +88,9 @@
         <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/resource/touda.properties" timestamp="1548209514616" />
+      <file name="$USER_HOME$/java/workspace/test/src/main/java/parse/parse.java" timestamp="1547911897050">
+        <mark key="[" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/algorithms/SingleLink.java" timestamp="1524099111538">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -161,11 +157,6 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/.gitignore" timestamp="1548226181671">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/java/li/annotation/LogAnnotation.java" timestamp="1547563077085">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="28" />
@@ -226,17 +217,23 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/spring/Spring.java" timestamp="1548222415012">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/spring/Spring.java" timestamp="1548231938782">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="79" />
+        <mark key="^" line="20" column="79" />
+        <mark key="." line="20" column="79" />
       </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/pccc/touda/proxy/processor/LoadBalanceProcessor.java" timestamp="1523542297979">
         <mark key="[" line="22" column="116" />
         <mark key="]" line="22" column="121" />
         <mark key="^" line="22" column="121" />
         <mark key="." line="22" column="121" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounceFactoryImpl.java" timestamp="1548231933510">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/MyConfig.java" timestamp="1543805439385">
         <mark key="[" line="8" column="46" />
@@ -329,17 +326,17 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/Iflytek.java" timestamp="1548227212447">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="10" column="14" />
-      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/Node.java" timestamp="1522508130616">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
         <mark key="^" line="17" column="48" />
         <mark key="." line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/util/FileFilter.java" timestamp="1548233714721">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/test/java/TestMybatis.java" timestamp="1543476926866">
         <mark key="[" line="13" column="39" />
@@ -382,6 +379,9 @@
         <mark key="]" line="13" column="60" />
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/Announce2.java" timestamp="1548165446718">
+        <mark key="[" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/java/workspace/Huntaway/src/cn/huro/huntaway/core/HuntFactory.java" timestamp="1539840862615">
         <mark key="[" line="58" column="12" />
@@ -497,6 +497,9 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/src/chinese/phrasesets/Notice.java" timestamp="1545316273237">
+        <mark key="[" line="2444" column="3" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/thread/TestSync.java" timestamp="1533794665344">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="10" column="20" />
@@ -581,6 +584,12 @@
         <mark key="]" line="9" column="9" />
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/test/test/FileUtilsTest.java" timestamp="1548234441481">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/fn/TestFn.java" timestamp="1523418970636">
         <mark key="[" line="16" column="40" />
@@ -695,6 +704,11 @@
         <mark key="]" line="8" column="2" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/test/com/sip/util/FileUtilsTest.java" timestamp="1548234939469">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/unify/FlowHandler.java" timestamp="1528873570221">
         <mark key="[" line="21" column="8" />
@@ -892,10 +906,8 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548226539281">
+      <file name="/Dummy.txt" timestamp="1548234727812">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/MyMCSLock.java" timestamp="1522984297407">
         <mark key="[" line="79" column="34" />
@@ -1017,11 +1029,12 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/Session.java" timestamp="1548208285244">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/Session.java" timestamp="1548231195355">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/resource/application.properties" timestamp="1548219558926">
         <mark key="[" line="3" column="27" />
@@ -1041,6 +1054,9 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="/fragment.java" timestamp="1548234869013">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/css/Slider.html" timestamp="1535614779258">
         <mark key="[" line="112" column="13" />
         <mark key="]" line="112" column="15" />
@@ -1052,6 +1068,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/Print.java" timestamp="1547567224526">
+        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/com/avaya/sce/runtime/Phrase.java" timestamp="1543983610612">
         <mark key="[" line="77" column="38" />
@@ -1105,6 +1124,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="8" column="2" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/src/flow/Start.java" timestamp="1545399166492">
+        <mark key="[" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/unify/flow.xml" timestamp="1528871832614">
         <mark key="[" line="7" column="0" />
@@ -1212,6 +1234,9 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionValueResolver.java" timestamp="1544702126885">
+        <mark key="[" line="421" column="30" />
       </file>
       <file name="$USER_HOME$/java/workspace/Huntaway1.3/src/cn/huro/huntaway/collections/AVAYADataManager.java" timestamp="1539781551086">
         <mark key="[" line="44" column="7" />
@@ -1328,11 +1353,10 @@
         <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/lib/scert-07.01.08.04.jar!/com/avaya/sce/runtime/PromptElement.class" timestamp="1548212842556" />
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/OneSessionDispatch.java" timestamp="1548224115044">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="61" />
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/OneSessionDispatch.java" timestamp="1548231842515">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/JSTest.java" timestamp="1522828313973">
         <mark key="[" line="9" column="50" />
@@ -1345,6 +1369,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/Application.java" timestamp="1545373371358">
+        <mark key="[" line="17" column="65" />
       </file>
       <file name="$USER_HOME$/java/workspace/switch/src/servlet/Core.java" timestamp="1539248482046">
         <mark key="[" line="20" column="0" />
@@ -1406,6 +1433,12 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounceFactory.java" timestamp="1548229989092">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="67" />
+        <mark key="." line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/fn/Test1.java" timestamp="1524030630283">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="28" />
@@ -1453,13 +1486,6 @@
         <mark key="]" line="21" column="14" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/SipPhrase.java" timestamp="1548227569273">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="13" />
-        <mark key="^" line="19" column="67" />
-        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/Downloads/SimpleTomcat-2.0/src/test/java/li/UtilTest.java" timestamp="1531408882137">
         <mark key="[" line="15" column="54" />
@@ -1551,18 +1577,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/SipPhrasePrompt.java" timestamp="1548227446701">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/test/sip/spring/SpringTest.java" timestamp="1548227231478">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/java/workspace/sip/src/test/sip/spring/SpringTest.java" timestamp="1548234417326">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/lib/spring-core-4.1.6.RELEASE.jar!/org/springframework/core/io/support/PropertiesLoaderSupport.class" timestamp="1548165149087" />
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/algorithms/MergeSort.java" timestamp="1525088996650">
@@ -1601,6 +1620,9 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/data/SessionData.java" timestamp="1548159054093">
+        <mark key="[" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/controller/SimpleController.java" timestamp="1543810569335">
         <mark key="[" line="33" column="3" />
         <mark key="]" line="43" column="2" />
@@ -1631,6 +1653,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="/OneSessionDispatch.java" timestamp="1548232589516" />
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/pccc/touda/proxy/processor/RouteProcessor.java" timestamp="1523542720104">
         <mark key="[" line="18" column="110" />
         <mark key="]" line="18" column="115" />
@@ -1691,12 +1714,8 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" timestamp="1548159732082">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
+      <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/TestHttp.java" timestamp="1546440027613">
+        <mark key="[" line="45" column="91" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/unify/ApplicationContext.java" timestamp="1528873603020">
         <mark key="[" line="7" column="30" />
@@ -1728,16 +1747,20 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/ApplicationDispatch.java" timestamp="1548223739720">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/guava/TestOptional.java" timestamp="1524830283863">
         <mark key="[" line="17" column="46" />
         <mark key="]" line="17" column="49" />
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot2/src/main/resources/site/samples/IVRtree.html" timestamp="1545055416365">
+        <mark key="[" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/util/FileUtils.java" timestamp="1548234277754">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+        <mark key="^" line="20" column="55" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/resources/config.properties" timestamp="1543939413585">
         <mark key="[" line="4" column="5" />
@@ -1823,6 +1846,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/test/comsip/util/FileUtilsTest.java" timestamp="1548234457768">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Downloads/SimpleTomcat-2.0/src/test/java/li/TestMain.java" timestamp="1531893967453">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="41" />
@@ -1859,12 +1888,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/util/AssertUtils.java" timestamp="1548212566050">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-      </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/util/AssertUtils.java" timestamp="1548233465139" />
       <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/com/avaya/sce/runtime/ExternalPhrase.java" timestamp="1540794976910">
         <mark key="[" line="34" column="73" />
         <mark key="]" line="34" column="71" />
@@ -2040,9 +2064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="15" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/PromptElement.class" />
-      <jump line="56" column="40" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/PromptElement.class" />
-      <jump line="53" column="15" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/PromptElement.class" />
       <jump line="52" column="40" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/PromptElement.class" />
       <jump line="49" column="15" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/PromptElement.class" />
       <jump line="48" column="40" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scert-07.00.18.01.jar!/com/avaya/sce/runtime/PromptElement.class" />
@@ -2140,6 +2161,9 @@
       <jump line="34" column="3" filename="$USER_HOME$/java/workspace/sip/src/com/sip/spring/AutoConfig.java" />
       <jump line="19" column="66" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounce.java" />
       <jump line="12" column="14" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/SipPhrasePrompt.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/Session.java" />
+      <jump line="11" column="15" filename="$USER_HOME$/java/workspace/sip/src/com/sip/util/AssertUtils.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/util/FileUtils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2152,61 +2176,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZ2cK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>break</text>
+        <text encoding="base64">XDxvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR0cyh2b2ljZSk7Cg==</text>
+        <text encoding="base64">QXNzZXJ0VXRpbHMuYXNzZXJ0Tm90TnVsbChmaWxlLCAiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR0cyh2b2ljZSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4odm9pY2UgKyAiIGRvbGxhciIpOwo=</text>
+        <text encoding="base64">ICAgIExvZ2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2b2ljZSArICIgbnVtYmVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2b2ljZSArICIgcm1iIik7Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMubG9hZChyZWFkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2b2ljZSArICJ0aW1lIik7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIElucHV0U3RyZWFtIGdldFJlc291cmNlQShTdHJpbmcgcGF0aCkgdGhyb3dzIFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24gewogICAgcmV0dXJuIG5ldyBJbnB1dFN0cmVhbVJlYWRlcihQYXRoVXRpbHMuY2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiLyIgKyBwYXRoKSwgInV0Zi04Iik7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2b2ljZSArICIgZGlnaXRzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFubm91bmNlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKFNwcmluZy5JTlNUQSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZUZpbHRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNpcFBocmFzZVByb21wdCBwaHJhc2VQcm9tcHQgPSBuZXcgU2lwUGhyYXNlUHJvbXB0KCI0MzIxIik7IFN5c3RlbS5vdXQucHJpbnRsbihwaHJhc2VQcm9tcHQuZ2V0UGhyYXNlKCkpOwogICAgcGhyYXNlUHJvbXB0ID0gbmV3IFNpcFBocmFzZVByb21wdCgiNDMyMSIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHBocmFzZVByb21wdC5nZXRQaHJhc2UoKSk7CiAgICBwaHJhc2VQcm9tcHQgPSBuZXcgU2lwUGhyYXNlUHJvbXB0KCI0MzIyIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGhyYXNlUHJvbXB0LmdldFBocmFzZSgpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihTcHJpbmcuSU5TVEFOQ0UuZ2V0UHJvcGVydHkoInZvaWNlLnR0cy5jaGluZXNlLjQzMjEiKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVGaWx0ZXIuYWNjZXB0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>break</last-search>
+      <last-search encoding="base64">XDxvXD4=</last-search>
       <last-offset />
-      <last-pattern>break</last-pattern>
+      <last-pattern encoding="base64">XDxvXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJzY3JpYmVyc1w+</entry>
         <entry encoding="base64">XDxjb3JlXD4=</entry>
         <entry encoding="base64">XDxib2FyZFw+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
@@ -2226,6 +2249,7 @@
         <entry encoding="base64">XDxjcmVhdGVBdHRyaWJ1dGVcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>break</entry>
+        <entry encoding="base64">XDxvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\//aaa/g</entry>
