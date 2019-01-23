@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="java">
+      <display-name>SipPhrase.toString (com.sip.announce)</display-name>
+      <place><![CDATA[psiMethod().withName("toString").withParameters().definedInClass("com.sip.announce.SipPhrase")]]></place>
+    </injection>
+  </component>
+</application>
