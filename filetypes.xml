@@ -5,6 +5,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tbl" type="PLAIN_TEXT" />
       <mapping pattern="logj4" type="Properties" />
+      <mapping ext="factories" type="Properties" />
       <mapping ext="flow" type="XML" />
     </extensionMap>
   </component>
