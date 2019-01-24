@@ -58,7 +58,8 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}/java/custom.postfixTemplates" />
+                  <option name="url" value="file:$USER_HOME$/Downloads/math" />
+                  <option name="file" value="${PLUGIN}/java/math.postfixTemplates" />
                 </VFile>
               </list>
             </value>
