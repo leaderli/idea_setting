@@ -364,12 +364,6 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/CacheRelease.java" timestamp="1548257622115">
-        <mark key="'" line="11" column="75" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/JavaWeb/src/main/webapp/index.jsp" timestamp="1539330071403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
@@ -942,10 +936,8 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548257842235">
+      <file name="/Dummy.txt" timestamp="1548434184731">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/MyMCSLock.java" timestamp="1522984297407">
         <mark key="[" line="79" column="34" />
@@ -1539,6 +1531,12 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/sip/resource/git" timestamp="1548433961001">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/java/li/util/Strings.java" timestamp="1544508561196">
         <mark key="[" line="4" column="0" />
