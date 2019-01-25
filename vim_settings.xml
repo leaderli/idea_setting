@@ -936,7 +936,7 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548434184731">
+      <file name="/Dummy.txt" timestamp="1548435098089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/MyMCSLock.java" timestamp="1522984297407">
@@ -1532,11 +1532,11 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/resource/git" timestamp="1548433961001">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/java/workspace/sip/resource/git" timestamp="1548435091198">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/java/li/util/Strings.java" timestamp="1544508561196">
         <mark key="[" line="4" column="0" />
