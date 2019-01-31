@@ -1304,6 +1304,7 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/java/workspace/UP/WEB-INF/jadx/sources/com/avaya/sce/runtimecommon/SCESession.java" timestamp="1548918168123" />
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/concurrency/LockTest3.java" timestamp="1522828889471">
         <mark key="[" line="121" column="16" />
         <mark key="]" line="122" column="18" />
