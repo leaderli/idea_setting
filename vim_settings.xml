@@ -1718,11 +1718,11 @@
       <file name="/fragment.java" timestamp="1548744287213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550715654192">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="14" column="70" />
-        <mark key="^" line="14" column="74" />
-        <mark key="." line="14" column="70" />
+      <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
+        <mark key="[" line="14" column="75" />
+        <mark key="]" line="14" column="75" />
+        <mark key="^" line="14" column="92" />
+        <mark key="." line="14" column="75" />
       </file>
       <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/com/avaya/sce/runtime/Phrase.java" timestamp="1543983610612">
         <mark key="[" line="77" column="38" />
@@ -2396,11 +2396,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkb2Muc2VsZWN0U2luZ2xlTm9kZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>string-length(text())</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>string-length(text())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvXD4=</text>
