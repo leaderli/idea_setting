@@ -562,6 +562,12 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/Main.java" timestamp="1551702932023">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="8" column="71" />
+        <mark key="^" line="8" column="71" />
+      </file>
       <file name="$USER_HOME$/java/workspace/switch/web/test/test.html" timestamp="1534818350635">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="21" column="31" />
@@ -646,6 +652,11 @@
         <mark key="^" line="206" column="37" />
         <mark key="." line="206" column="37" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pactera/Data/CallData.java" timestamp="1551701619911">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/pccc/touda/proxy/serial/JsonExchange.java" timestamp="1523544521918">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="25" />
@@ -675,6 +686,13 @@
         <mark key="]" line="12" column="28" />
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/coral/resource/input.json" timestamp="1551702826465">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/controller/Config.java" timestamp="1543451346454">
         <mark key="[" line="5" column="21" />
@@ -1140,6 +1158,12 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pactera/data/Input.java" timestamp="1551702403109">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/lock/Test.java" timestamp="1522933907143">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="3" column="0" />
@@ -1206,6 +1230,12 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pactera/data/Voice.java" timestamp="1551701734512">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/config/SpringPropertiesLoader.java" timestamp="1548290775429">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -1253,6 +1283,12 @@
         <mark key="]" line="22" column="121" />
         <mark key="^" line="22" column="121" />
         <mark key="." line="22" column="121" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/CallData.java" timestamp="1551701614069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/SecurityConfig.java" timestamp="1544413894586">
         <mark key="[" line="14" column="19" />
@@ -2040,6 +2076,13 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/InputTest.java" timestamp="1551702770507">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/MyScope.java" timestamp="1548764739473">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="5" column="36" />
@@ -2245,6 +2288,13 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/JSON Fragment (InputTest.java:169).json" timestamp="1551702797970">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Sort.java" timestamp="1523521709934">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="57" column="33" />
@@ -2301,11 +2351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/java/workspace/springboot/src/main/java/li/aa.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/li/aa.java" />
-      <jump line="25" column="26" filename="$USER_HOME$/java/workspace/NewUnifyApp/src/test/java/resouce/TestOptional.java" />
-      <jump line="46" column="29" filename="$USER_HOME$/java/workspace/springboot/pom.xml" />
-      <jump line="9" column="23" filename="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/ConfigProperties.java" />
       <jump line="22" column="17" filename="$USER_HOME$/java/workspace/springboot/src/test/java/li/config/ConfigPropertiesTest.java" />
       <jump line="9" column="19" filename="$USER_HOME$/java/workspace/springboot/src/main/java/li/service/AsyncTask.java" />
       <jump line="5" column="10" filename="$USER_HOME$/java/workspace/ssm/src/main/java/controller/DemoEvent.java" />
@@ -2401,6 +2446,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/java/workspace/java8/pom.xml" />
       <jump line="3" column="22" filename="$USER_HOME$/java/workspace/java8/src/test/java/util/PromptTest.java" />
       <jump line="19" column="3" filename="$USER_HOME$/java/workspace/java8/src/test/java/util/PromptTest.java" />
+      <jump line="2" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
+      <jump line="1" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
+      <jump line="29" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
+      <jump line="48" column="20" filename="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/InputTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/java/workspace/coral/resource/input.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2413,44 +2463,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgVAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">SnNvbk1hcHBpbmdFeGNlcHRpb24g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZhODwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+amF2YTg8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICA8c2NvcGU+c3lzdGVtPC9zY29wZT4KICAgICAgPHN5c3RlbVBhdGg+JHtiYXNlZGlyfS9saWIvc2NlcnQtMDcuMDEuMDguMDQuamFyPC9zeXN0ZW1QYXRoPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICJwcm9wZXJ0eSI6IHsKICAgICAgImJhcmdpbiI6IHRydWUsCiAgICAgICJ0aW1lb3V0IjogODAwMAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwcm9tcHQuZ2V0RWxlbWVudHMoMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgVAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb21wdC5nZW5lcmF0ZShuZXcgT3V0cHV0R2VuZXJhdG9yKG51bGwpKTsK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIC4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBBcnJheUxpc3Q8PigpLnN0cmVhbSgpLmZpbHRlcigpCg==</text>
+        <text encoding="base64">ICAiIjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFByb21wdCBwID0gKCkgLSA+e307Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFByb21wdAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbS4K</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEpzb25NYXBwaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFByb21wdCBwcm9tcHQgPSBuZXcgUHJvbXB0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0bWFwcGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNjZXNlcwo=</text>
+        <text encoding="base64">ICAiZXJyb3JUaW1lIjowLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
