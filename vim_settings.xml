@@ -1230,6 +1230,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/java8/pom.xml" timestamp="1551697282301">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="38" column="16" />
+        <mark key="^" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+      </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/test/java/profile/CoreTest.java" timestamp="1543817834519">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="39" column="5" />
