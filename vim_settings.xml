@@ -200,6 +200,12 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="40" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Input.java" timestamp="1551767378647">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/profile/Core.java" timestamp="1543938860640">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -470,12 +476,12 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Voice.java" timestamp="1551765179933">
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Voice.java" timestamp="1551766987602">
         <mark key="'" line="4" column="13" />
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/TiketLock.java" timestamp="1522988305833">
         <mark key="[" line="22" column="28" />
@@ -658,17 +664,17 @@
         <mark key="^" line="20" column="63" />
         <mark key="." line="20" column="63" />
       </file>
-      <file name="/JSON Fragment (TestGson.java:719).json" timestamp="1551755946468">
-        <mark key="[" line="0" column="2" />
+      <file name="/JSON Fragment (TestGson.java:719).json" timestamp="1551767179520">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Data.java" timestamp="1551758592384">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Data.java" timestamp="1551767228486">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/JavaWeb/src/main/java/HelloServlet.java" timestamp="1539330507478">
         <mark key="[" line="13" column="31" />
@@ -777,13 +783,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="21" column="32" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/java8/src/test/java/util/JsonTest.java" timestamp="1551696300924">
-        <mark key="'" line="27" column="30" />
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/resource/Config.json" timestamp="1537194527514">
         <mark key="[" line="3" column="10" />
@@ -1125,11 +1124,23 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="15" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Trade.java" timestamp="1551767241173">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/VoicePromptElement.java" timestamp="1548483424904">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="44" column="37" />
         <mark key="." line="44" column="37" />
         <mark key="^" line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Request.java" timestamp="1551767087420">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/spring/AutoConfig.java" timestamp="1548224622085">
         <mark key="[" line="22" column="0" />
@@ -1840,10 +1851,11 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/data/VoiceTest.java" timestamp="1551765302985">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/data/VoiceTest.java" timestamp="1551767474248">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="42" />
+        <mark key="." line="26" column="42" />
+        <mark key="^" line="26" column="42" />
       </file>
       <file name="$USER_HOME$/java/workspace/switch/src/servlet/Hello.js" timestamp="1534904393216">
         <mark key="[" line="0" column="26" />
@@ -2180,13 +2192,6 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/InputTest.java" timestamp="1551702770507">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/MyScope.java" timestamp="1548764739473">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="5" column="36" />
@@ -2398,13 +2403,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/JSON Fragment (InputTest.java:169).json" timestamp="1551702797970">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="17" />
-        <mark key="^" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Sort.java" timestamp="1523521709934">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="57" column="33" />
@@ -2573,44 +2571,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGpzb24gPSBqc29uLmNsb25lKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1002</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text>1002</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENhbGxEYXRhIGRhdGEgPSBnc29uLmZyb21Kc29uKGdzb24udG9Kc29uKG1hcCksIENhbGxEYXRhLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHZvaWNlLnZvaWNlcy5hZGQoIndhdiMxMDAyIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzb24gPSBqc29uLmNsb25lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9iamVjdAo=</text>
+        <text encoding="base64">ICAiOiB7CiAgICAgICJ0eXBlIjogIiIsCiAgICAgICJ2YWx1ZSI6ICIiLAogICAgICAiZXJyb3JfdGltZSI6IDAsCiAgICAgICJtYXhfZXJyb3JfdGltZSI6IDMsCiAgICAgICJlcnJvcl92b2ljZSI6IHt9LAogICAgICAidGltZW91dF92b2ljZSI6IHt9LAogICAgICAibWF4X2Vycm9yX3ZvaWNlIjoge30sCiAgICAgICJwcm9wZXJ0eSI6IHsKICAgICJ0ZXJtY2hhciI6ICIjIiwKICAgICAgICAiaW50ZXJkaWdpdHRpbWVvdXQiOiA4MDAwLAogICAgICAgICJ0ZXJtdGltZW91dCI6IDgwMDAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpzb24K</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuICJEYXRheyIgKwogICAgICAgICJjYWxsRGF0YT0iICsgY2FsbERhdGEgKwogICAgICAgICIsIGlucHV0PSIgKyBpbnB1dCArCiAgICAgICAgIiwgbW9kdWxlPSIgKyBtb2R1bGUgKwogICAgICAgICIsIHJlcXVlc3Q9IiArIHJlcXVlc3QgKwogICAgICAgICIsIHJlc3BvbnNlPSIgKyByZXNwb25zZSArCiAgICAgICAgIiwgdm9pY2U9IiArIHZvaWNlICsKICAgICAgICAnfSc7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZlcmVkUmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBGaWxlUmVhZGVyKHBhdGgpKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgUmVzcG9uc2UgcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdCBqc29uID0gZ3Nvbi5mcm9tSnNvbihGaWxlVXRpbHMuZ2V0KHBhdGgpLCBPYmplY3QuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgUmVxdWVzdCByZXF1ZXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdzb24uZnJvbWoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgZ3NvIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc0JhcmdpbigpIHsKICAgIHJldHVybiBiYXJnaW47CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRCYXJnaW4oYm9vbGVhbiBiYXJnaW4pIHsKICAgIHRoaXMuYmFyZ2luID0gYmFyZ2luOwogIH0KCiAgcHVibGljIFN0cmluZyBnZXRMYW5ndWFnZSgpIHsKICAgIHJldHVybiBsYW5ndWFnZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldExhbmd1YWdlKFN0cmluZyBsYW5ndWFnZSkgewogICAgdGhpcy5sYW5ndWFnZSA9IGxhbmd1YWdlOwogIH0KCiAgcHVibGljIGludCBnZXRUaW1lb3V0KCkgewogICAgcmV0dXJuIHRpbWVvdXQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUaW1lb3V0KGludCB0aW1lb3V0KSB7CiAgICB0aGlzLnRpbWVvdXQgPSB0aW1lb3V0OwogIH0KCiAgcHVibGljIExpc3Q8U3RyaW5nPiBnZXRWb2ljZXMoKSB7CiAgICByZXR1cm4gdm9pY2VzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0Vm9pY2VzKExpc3Q8U3RyaW5nPiB2b2ljZXMpIHsKICAgIHRoaXMudm9pY2VzID0gdm9pY2VzOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
