@@ -2279,10 +2279,10 @@
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/resources/site/samples/IVRtree.html" timestamp="1545055416365">
         <mark key="[" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" timestamp="1551782279833">
+      <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" timestamp="1551783177795">
         <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/pccc/touda/proxy/processor/UnmarshallProcessor.java" timestamp="1523542234332">
