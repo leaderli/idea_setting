@@ -8,6 +8,7 @@
       <mapping pattern="logj4" type="Properties" />
       <mapping ext="factories" type="Properties" />
       <mapping ext="flow" type="XML" />
+      <mapping ext="factory" type="spring.factories" />
     </extensionMap>
   </component>
 </application>
