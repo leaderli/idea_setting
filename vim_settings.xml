@@ -147,6 +147,12 @@
         <mark key="." line="7" column="67" />
         <mark key="^" line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/TestGson.java" timestamp="1551748980561">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/templates/login.html" timestamp="1541494889203">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="14" />
@@ -562,11 +568,10 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/Main.java" timestamp="1551702932023">
-        <mark key="[" line="8" column="63" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="71" />
+      <file name="$USER_HOME$/java/workspace/coral/src/Main.java" timestamp="1551748677085">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/switch/web/test/test.html" timestamp="1534818350635">
         <mark key="[" line="21" column="28" />
@@ -1230,11 +1235,10 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/com/pactera/data/Voice.java" timestamp="1551701734512">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="37" />
+      <file name="$USER_HOME$/java/workspace/coral/src/com/pactera/data/Voice.java" timestamp="1551748993080">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/config/SpringPropertiesLoader.java" timestamp="1548290775429">
         <mark key="[" line="4" column="17" />
@@ -1398,6 +1402,7 @@
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="49" />
       </file>
+      <file name="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/src/flow/IProjectVariables.java" timestamp="1551748128393" />
       <file name="$USER_HOME$/java/workspace/Huntaway/src/cn/huro/huntaway/core/HuntFactory.java" timestamp="1539840862615">
         <mark key="[" line="58" column="12" />
         <mark key="]" line="57" column="4" />
@@ -2351,7 +2356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="17" filename="$USER_HOME$/java/workspace/springboot/src/test/java/li/config/ConfigPropertiesTest.java" />
       <jump line="9" column="19" filename="$USER_HOME$/java/workspace/springboot/src/main/java/li/service/AsyncTask.java" />
       <jump line="5" column="10" filename="$USER_HOME$/java/workspace/ssm/src/main/java/controller/DemoEvent.java" />
       <jump line="8" column="4" filename="$USER_HOME$/java/workspace/ssm/src/main/java/profile/MyWebInitializer.java" />
@@ -2451,6 +2455,7 @@
       <jump line="29" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
       <jump line="48" column="20" filename="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/InputTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/java/workspace/coral/resource/input.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/TestGson.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2464,7 +2469,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVAo=</text>
+        <text encoding="base64">ICAgIGdzb24K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">SnNvbk1hcHBpbmdFeGNlcHRpb24g</text>
@@ -2476,31 +2481,31 @@
         <text encoding="base64">ICAgICJwcm9wZXJ0eSI6IHsKICAgICAgImJhcmdpbiI6IHRydWUsCiAgICAgICJ0aW1lb3V0IjogODAwMAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVAo=</text>
+        <text encoding="base64">ICAgIGdzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
+        <text encoding="base64">ICAgIEdzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBnc29uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiIjoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jb252ZXJ0ZXIuanNvbi5Hc29uQnVpbGRlclV0aWxzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgIEdzb25CdWlsZGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">Z3Nvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEpzb25NYXBwaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIGdzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0bWFwcGVyCg==</text>
+        <text encoding="base64">ICAgIEdzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZXJyb3JUaW1lIjowLAo=</text>
+        <text encoding="base64">ICAgIGdzb25iCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
