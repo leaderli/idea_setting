@@ -244,13 +244,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/CallData.java" timestamp="1551768275803">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="2" column="5" />
-      </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/profile/WebInitializer.java" timestamp="1543938276198">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -749,13 +742,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="21" column="32" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/java8/src/test/java/util/JsonTest.java" timestamp="1551696300924">
-        <mark key="'" line="27" column="30" />
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/resource/Config.json" timestamp="1537194527514">
         <mark key="[" line="3" column="10" />
@@ -1959,6 +1945,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/util/Demo4.java" timestamp="1552217478766">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/java/workspace/Huntaway1.3/src/cn/huro/huntaway/collections/AVAYADataManager.java" timestamp="1539781551086">
         <mark key="[" line="44" column="7" />
         <mark key="]" line="44" column="0" />
@@ -2157,13 +2149,6 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/InputTest.java" timestamp="1551702770507">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/MyScope.java" timestamp="1548764739473">
         <mark key="[" line="2" column="21" />
@@ -2387,13 +2372,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/JSON Fragment (InputTest.java:169).json" timestamp="1551702797970">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="17" />
-        <mark key="^" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Sort.java" timestamp="1523521709934">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="57" column="33" />
@@ -2562,8 +2540,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZW1vLmNvdW50KTsK</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -2572,34 +2550,34 @@
         <text encoding="base64">XDxvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcC5wdXQoImExIiwgImZ1Y2sxIik7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZW1vLmNvdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlYW51Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlYW51Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yKGludCBpPTA7IGk8MTAwMDAwMDAwOyBpKyspCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJlYW51dGlscwo=</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZ1Y2tRTiBmdWNrUU4gPSBuZXcgRnVja1FOKCk7CiAgICBCZWFudXRpbHMK</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaT0wOyBpPDEwMDAwMDAwMDsgaSsrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuQmVhblV0aWxzOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJlYW5VdGlscy4K</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIERlbW80IHsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZpZWxkLmdldCgpKTsK</text>
+        <text encoding="base64">ICAgIGJlYW51Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJlYW51Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIEJlYW51dGlscwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
