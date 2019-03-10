@@ -77,7 +77,6 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java" timestamp="1551763683422" />
       <file name="$USER_HOME$/java/workspace/sip/test/test/com/sip/dispatch/BaseRunByScessionLanguageTest.java" timestamp="1548484594935">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -221,7 +220,6 @@
         <mark key="^" line="27" column="70" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/FunctionalInterface.java" timestamp="1551797979334" />
       <file name="$USER_HOME$/java/workspace/JavaWeb/src/main/webapp/index.jsp" timestamp="1539330071403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
@@ -1301,7 +1299,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1551943465884" />
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/config/SpringPropertiesLoader.java" timestamp="1548290775429">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -1467,7 +1464,6 @@
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/Announce2.java" timestamp="1548165446718">
         <mark key="[" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/src/flow/IProjectVariables.java" timestamp="1551748128393" />
       <file name="$USER_HOME$/java/workspace/Huntaway/src/cn/huro/huntaway/core/HuntFactory.java" timestamp="1539840862615">
         <mark key="[" line="58" column="12" />
         <mark key="]" line="57" column="4" />
@@ -1723,12 +1719,15 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/lib/scert-07.01.08.04.jar!/com/avaya/sce/runtime/InputCommon.class" timestamp="1552023583661" />
       <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/up/TestWebXml.java" timestamp="1527575070421">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="22" />
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1552215092164">
+        <mark key="[" line="140" column="6" />
+        <mark key="]" line="140" column="6" />
       </file>
       <file name="/JSON Fragment (JsonTest.java:284).json" timestamp="1551696257158">
         <mark key="[" line="0" column="15" />
@@ -1859,7 +1858,6 @@
         <mark key="^" line="77" column="37" />
         <mark key="." line="77" column="37" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/commons-beanutils-1.6.1-sources.jar!/org/apache/commons/beanutils/BeanUtils.java" timestamp="1552033252648" />
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1546440983139">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="18" column="0" />
@@ -2353,7 +2351,6 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/java/workspace/java8/lib/scert-07.01.08.04.jar!/com/avaya/sce/runtime/Prompt.class" timestamp="1551700209112" />
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/MyReenTrantReadWriteLock.java" timestamp="1523150848408">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
@@ -2565,11 +2562,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJlYW51Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvXD4=</text>
