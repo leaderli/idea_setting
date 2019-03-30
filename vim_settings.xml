@@ -1282,11 +1282,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/java/workspace/test/src/test/java/test/TestGson.java" timestamp="1553914441578">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="53" />
-        <mark key="^" line="9" column="53" />
-        <mark key="." line="9" column="53" />
+      <file name="$USER_HOME$/java/workspace/test/src/test/java/test/TestGson.java" timestamp="1553925236919">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+        <mark key="." line="18" column="13" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/queue/BlockQueue.java" timestamp="1533630912624">
         <mark key="[" line="14" column="0" />
@@ -2586,16 +2586,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>hello</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
         <text>啊啊</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjYWNoZS5nZXRDYWNoZShjYWNoZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSAiaGVsbG8iOgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGVsbG8iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIOWSjAo=</text>
