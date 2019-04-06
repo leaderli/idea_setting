@@ -230,11 +230,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1554533657185">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1554539975546">
         <mark key="'" line="651" column="8" />
-        <mark key="[" line="651" column="56" />
-        <mark key="]" line="651" column="14" />
-        <mark key="." line="651" column="14" />
+        <mark key="[" line="674" column="18" />
+        <mark key="]" line="674" column="18" />
+        <mark key="." line="674" column="18" />
         <mark key="^" line="651" column="14" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/Node.java" timestamp="1522508130616">
@@ -2644,10 +2644,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
