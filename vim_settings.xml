@@ -1198,11 +1198,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CountDownLatchTest.java" timestamp="1554547845857">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CountDownLatchTest.java" timestamp="1554551887781">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/plugin/src/test/java/li/util/Execute.java" timestamp="1527681477008">
         <mark key="[" line="3" column="4" />
@@ -2019,6 +2019,7 @@
         <mark key="^" line="99" column="6" />
         <mark key="." line="99" column="6" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1554551988694" />
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/xml/normal.xml" timestamp="1533792732856">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="11" />
@@ -2363,6 +2364,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CyclicBarrierTest.java" timestamp="1554552706627">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/config/TestConfig.java" timestamp="1527002638114">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="15" />
@@ -2532,7 +2539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="26" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="140" column="26" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="142" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="146" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
@@ -2632,6 +2638,7 @@
       <jump line="25" column="14" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/data/HelloCache.java" />
       <jump line="134" column="1" filename="$USER_HOME$/java/workspace/test/src/test/java/test/HMap.java" />
       <jump line="651" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="9" column="23" filename="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CountDownLatchTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2645,10 +2652,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRocmVhZFV0aWwuc2xlZXAoMTAwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2NrLmF3YWl0KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -2657,31 +2664,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRocmVhZFV0aWwuc2xlZXAoMTAwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2NrLmF3YWl0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKS5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY29udGludWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnQiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChCcm9rZW5CYXJyaWVyRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnQiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChqID09IDMpIHsKICAgICAgICAgICAgbG9jay5yZXNldCgpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2suYXdhaXQoKTsK</text>
+        <text encoding="base64">ICAgIExvY2tTdXBwb3J0IGxvY2tTdXBwb3J0ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRocgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gIkhlbGxvV29ybGRNeU5hbWVJc0NhcmwiLnJlcGxhY2VBbGwoIiguKShbQS1aXSkiLCAiJDFfJDIiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkVXRpbC5zbGVlcCg1MDApOwo=</text>
+        <text encoding="base64">ICAgIFRocmVhZFV0aWwuc2xlZXAoMTAwMDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
