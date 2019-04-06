@@ -1198,6 +1198,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CountDownLatchTest.java" timestamp="1554547845857">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="29" column="14" />
+      </file>
       <file name="$USER_HOME$/java/workspace/plugin/src/test/java/li/util/Execute.java" timestamp="1527681477008">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="5" />
@@ -2013,11 +2019,6 @@
         <mark key="^" line="99" column="6" />
         <mark key="." line="99" column="6" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1554542439557">
-        <mark key="[" line="1198" column="0" />
-        <mark key="]" line="1198" column="0" />
-        <mark key="." line="1198" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/xml/normal.xml" timestamp="1533792732856">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="11" />
@@ -2644,43 +2645,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL+e6v+eoizEg6I635Y+W6ZSB5oiQ5YqfCg==</text>
+        <text encoding="base64">ICAgIFRocmVhZFV0aWwuc2xlZXAoMTAwMDAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>／</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihQcmltaXRpdmUuYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGhyZWFkLmN1cnJlbnRUaHJlYWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+e6v+eoizEg6I635Y+W6ZSB5oiQ5YqfCg==</text>
+        <text encoding="base64">ICAgIFRocmVhZFV0aWwuc2xlZXAoMTAwMDAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy/nur/nqIsyIOWwneivleiOt+WPlumUgQo=</text>
+        <text encoding="base64">ICAgICAgKS5zdGFydCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8v5paw5bu66ZSBCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY29udGludWUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIOe6v+eoizEg6I635Y+W6ZSBCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnQiKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cmVlbnRyYW4KICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMb2NrIGxvY2sgPSBuZXcK</text>
+        <text encoding="base64">ICAgIGxvY2suYXdhaXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUHVibGljS2V5KCkK</text>
+        <text encoding="base64">ICAgIFRocgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkVXRpbC5zbGVlcCg1MDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
