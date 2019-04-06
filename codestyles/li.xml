@@ -1,4 +1,5 @@
 <code_scheme name="li" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
   </XML>
@@ -24,7 +25,6 @@
                 <XML_ATTRIBUTE />
               </AND>
             </match>
-            <order>BY_VUE_ATTR</order>
           </rule>
         </section>
       </rules>
@@ -39,33 +39,7 @@
     <arrangement>
       <tokens>
         <token id="visibility" name="visibility">
-          <rules>
-            <rule>
-              <match>
-                <PUBLIC>true</PUBLIC>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <PROTECTED>true</PROTECTED>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <PRIVATE>true</PRIVATE>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <LATEINIT>true</LATEINIT>
-              </match>
-            </rule>
-          </rules>
+          <rules />
         </token>
       </tokens>
       <groups>
