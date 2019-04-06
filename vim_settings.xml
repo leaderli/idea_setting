@@ -230,12 +230,12 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1554539975546">
-        <mark key="'" line="651" column="8" />
-        <mark key="[" line="674" column="18" />
-        <mark key="]" line="674" column="18" />
-        <mark key="." line="674" column="18" />
-        <mark key="^" line="651" column="14" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1554541115942">
+        <mark key="'" line="652" column="8" />
+        <mark key="[" line="673" column="0" />
+        <mark key="]" line="673" column="0" />
+        <mark key="." line="673" column="0" />
+        <mark key="^" line="676" column="9" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/Node.java" timestamp="1522508130616">
         <mark key="[" line="15" column="17" />
@@ -2013,10 +2013,10 @@
         <mark key="^" line="99" column="6" />
         <mark key="." line="99" column="6" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1554534329472">
-        <mark key="[" line="614" column="9" />
-        <mark key="]" line="381" column="0" />
-        <mark key="." line="381" column="0" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1554541107471">
+        <mark key="[" line="1198" column="0" />
+        <mark key="]" line="1198" column="0" />
+        <mark key="." line="1198" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/xml/normal.xml" timestamp="1533792732856">
         <mark key="[" line="8" column="12" />
@@ -2643,11 +2643,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL+e6v+eoizEg6I635Y+W6ZSB5oiQ5YqfCg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>／</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -2655,32 +2655,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihQcmltaXRpdmUuYSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmVlbnRyYW4KICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL+e6v+eoizEg6I635Y+W6ZSB5oiQ5YqfCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMb2NrIGxvY2sgPSBuZXcK</text>
+        <text encoding="base64">ICAgICAgLy/nur/nqIsyIOWwneivleiOt+WPlumUgQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUHVibGljS2V5KCkK</text>
+        <text encoding="base64">ICAgIC8v5paw5bu66ZSBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIOe6v+eoizEg6I635Y+W6ZSBCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cmVlbnRyYW4KICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEphckNhY2hlVXRpbC4K</text>
+        <text encoding="base64">ICBMb2NrIGxvY2sgPSBuZXcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGludCBhID0gMTsK</text>
+        <text encoding="base64">ICAgICAgUHVibGljS2V5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
