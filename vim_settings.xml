@@ -568,6 +568,9 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1554738109512">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/model/BookRepository.java" timestamp="1540965277583">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1831,11 +1834,12 @@
         <mark key="." line="18" column="57" />
         <mark key="^" line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/java/workspace/test/src/test/java/test/nios/TestRead.java" timestamp="1554720799312">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="46" column="21" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/java/workspace/test/src/test/java/test/nios/TestRead.java" timestamp="1554737332661">
+        <mark key="'" line="53" column="18" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="79" column="3" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/ThreadStopping.java" timestamp="1522848445322">
         <mark key="[" line="5" column="0" />
@@ -2557,7 +2561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="229" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="230" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="245" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
@@ -2657,6 +2660,7 @@
       <jump line="9" column="23" filename="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CountDownLatchTest.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="443" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="53" column="18" filename="$USER_HOME$/java/workspace/test/src/test/java/test/nios/TestRead.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2670,43 +2674,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZS5nZXRNb2RpZmllcnMoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eXRlQnVmZmVyIA==</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLnRvQmluYXJ5U3RyaW5nKHJ1bm5pbmcpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLnRvQmluYXJ5U3RyaW5nKHJ1bm5pbmcpLmxlbmd0aCgpKTsK</text>
+        <text encoding="base64">ICAgIG1vZGlmaWVyLnNldCh2YWx1ZSwgdmFsdWUuZ2V0TW9kaWZpZXJzKCkgJiB+TW9kaWZpZXIuRklOQUwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZS5nZXRNb2RpZmllcnMoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZS5nZXQoc3RyKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLlhpnlhaXplb/luqYgIiArIGxlbik7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZS5nZXQoc3RyKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICgobGVuID0gY2hhbm5lbC53cml0ZShzcmMpKSAhPSAwKSB7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBsZW4gPSAwOwo=</text>
+        <text encoding="base64">ICAgIHZhbHVlID0gU3RyaW5nLmNsYXNzLmdldERlY2xhcmVkRmllbGQoInZhbHVlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbGVDaGFubmVsIAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZS5oYXNoQ29kZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJ5dGVCdWZmZXIgc3JjID0gQnl0ZUJ1ZmZlci5jb250ZW50Owo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZS5nZXQoc3RyKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBwYXRoID0gIi9Vc2Vycy9saS9Eb3dubG9hZHMvbWFwLmphdmEiOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihNb2RpZmllci50b1N0cmluZygxOCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -2717,7 +2721,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxlbHNlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-substitute encoding="base64">XDxlbHNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
