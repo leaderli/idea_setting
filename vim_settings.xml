@@ -267,6 +267,9 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="/RegExp Fragment (RegexTest.java:68).regexp" timestamp="1557369174637">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/annotation/Config.java" timestamp="1537091024452">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="24" />
@@ -1344,6 +1347,12 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/test/java/study/RegexTest.java" timestamp="1557368898746">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/queue/BlockQueue.java" timestamp="1533630912624">
         <mark key="[" line="14" column="0" />
