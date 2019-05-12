@@ -406,6 +406,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/test/java/study/TestCons.java" timestamp="1557561442492">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/GCTest.java" timestamp="1541429752271">
         <mark key="[" line="89" column="5" />
         <mark key="]" line="90" column="14" />
@@ -2661,11 +2667,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFycmF5cy5zdHJlYW0oU3ViRXguY2xhc3MuZ2V0QW5ub3RhdGlvbihCYXNlLmNsYXNzKS52YWx1ZSgpKS5mb3JFYWNoKHgtPlN5c3RlbS5vdXQucHJpbnRsbih4KSk7CiAgICBBcnJheXMuc3RyZWFtKFN1YkV4LmNsYXNzLmdldEFubm90YXRpb25zQnlUeXBlKFN1Yi5jbGFzcykpLmZvckVhY2goeC0+U3lzdGVtLm91dC5wcmludGxuKHgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
