@@ -249,6 +249,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/pom.xml" timestamp="1558082422321">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/profile/WebInitializer.java" timestamp="1543938276198">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1769,6 +1775,13 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/test/java/HelloWorld.java" timestamp="1558082883359">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
       <file name="/JSON Fragment (JsonTest.java:284).json" timestamp="1551696257158">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -2119,6 +2132,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/test/java/SpringTest.java" timestamp="1558082831554">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="45" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/lang/annotation/Repeatable.java" timestamp="1557468874455">
         <mark key="[" line="41" column="19" />
@@ -2506,6 +2525,12 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
+      <file name="$USER_HOME$/Downloads/jbcd-0.0.1/jbcd.jar!/edu/ucsb/ccs/jbcd/JBCD.class" timestamp="1558081932593">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/pom.xml" timestamp="1539231568608">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="18" column="30" />
@@ -2538,9 +2563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
-      <jump line="245" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
-      <jump line="246" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="381" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="382" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="41" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
@@ -2638,6 +2660,9 @@
       <jump line="443" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="53" column="18" filename="$USER_HOME$/java/workspace/test/src/test/java/test/nios/TestRead.java" />
       <jump line="37" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.2.RELEASE/spring-core-4.0.2.RELEASE-sources.jar!/org/springframework/core/type/filter/AnnotationTypeFilter.java" />
+      <jump line="5" column="2" filename="$USER_HOME$/java/workspace/ssm/src/test/java/HelloWorld.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/java/workspace/ssm/src/test/java/HelloWorld.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/java/workspace/ssm/src/test/java/HelloWorld.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2651,10 +2676,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY0EgYSA9IG5ldyBTdGF0aWNBKCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGludCBhID0gMTsKICBwdWJsaWMgdm9pZCB0ZXN0KCl7CiAgICBhID0gMjsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Hello</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -2663,31 +2688,31 @@
         <text encoding="base64">ICAgIGxvbmcgZiA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY0EgYSA9IG5ldyBTdGF0aWNBKCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGludCBhID0gMTsKICBwdWJsaWMgdm9pZCB0ZXN0KCl7CiAgICBhID0gMjsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3QoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMTIzIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3QuYiA9IEZhY3RvcnlDb25maWd1cmF0aW9uRXJybwo=</text>
+        <text encoding="base64">ICAgIGhlbGxvV29ybGQudGVzdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcmdzKTsK</text>
+        <text encoding="base64">ICAgIEhlbGxvV29ybGQgaGVsbG9Xb3JsZCA9IG5ldyBIZWxsb1dvcmxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY0FUZXN0IHRlc3QgPSBuZXcgU3RhdGljQVRlc3QoKTsKICAgIHRlc3QuYSA9IHRydWU7CiAgICBib29sZWFuIGIgPSBmYWxzZTsKICAgIGJvb2xlYW4gYyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gd29ybGQiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXN0YSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QxKCl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENsYXNzIGMgPSBDbGFzcy5mb3JOYW1lKCJzdHVkeS5TdGF0aWNBIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oYyk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGludCBiID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
