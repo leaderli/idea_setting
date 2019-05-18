@@ -599,6 +599,12 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/test/java/study/spel/InitializationDemo.java" timestamp="1558150212985">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/java/workspace/switch/web/test/test.html" timestamp="1534818350635">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="21" column="31" />
@@ -2454,9 +2460,6 @@
         <mark key="]" line="34" column="71" />
         <mark key="." line="34" column="71" />
         <mark key="^" line="34" column="71" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.2.RELEASE/spring-core-4.0.2.RELEASE-sources.jar!/org/springframework/core/type/filter/AnnotationTypeFilter.java" timestamp="1557466073398">
-        <mark key="'" line="37" column="47" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Array.java" timestamp="1523519154048">
         <mark key="[" line="9" column="15" />
