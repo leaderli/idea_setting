@@ -96,6 +96,9 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/study/rmi/ServiceMethodInte.java" timestamp="1558856556858">
+        <mark key="[" line="2" column="36" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1554532895810">
         <mark key="[" line="546" column="42" />
         <mark key="]" line="546" column="40" />
@@ -1098,6 +1101,13 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/src/User.java" timestamp="1558856620663">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/work/course/workspace/Sip/src/com/pccc/sip/utils/Gson.java" timestamp="1552715998756">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1667,6 +1677,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/sip/test/Client.java" timestamp="1558856820160">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/IKeyGenerator.java" timestamp="1548769677943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1697,7 +1713,7 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/Client.java" timestamp="1558856323817">
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/Client.java" timestamp="1558856552603">
         <mark key="'" line="19" column="95" />
         <mark key="[" line="19" column="96" />
         <mark key="]" line="20" column="27" />
@@ -1962,7 +1978,7 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1557905979413">
+      <file name="/fragment.java" timestamp="1558856600235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2372,7 +2388,7 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/ServiceMethodInte.java" timestamp="1558855418254">
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/ServiceMethodInte.java" timestamp="1558856561817">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="57" />
         <mark key="^" line="7" column="57" />
@@ -2649,8 +2665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
-      <jump line="41" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="67" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="121" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.2.RELEASE/spring-context-4.0.2.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" />
       <jump line="67" column="25" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/SCESession.class" />
@@ -2749,6 +2763,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/java/workspace/ssm/src/test/java/HelloWorld.java" />
       <jump line="0" column="0" filename="$USER_HOME$/java/workspace/ssm/src/test/java/HelloWorld.java" />
       <jump line="19" column="95" filename="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/Client.java" />
+      <jump line="4" column="2" filename="$USER_HOME$/java/workspace/sip/src/User.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/java/workspace/sip/src/User.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2761,11 +2777,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jaGVja1Blcm1pc3Npb24ocGVybSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -2774,31 +2790,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xsZWN0aW9uLnN0cmVhbSgpLnNraXAoMSkuZmluZEZpcnN0KCkuZ2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jaGVja1Blcm1pc3Npb24ocGVybSk7Cg==</text>
+        <text encoding="base64">ICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNPQVBCaW5kaW5nLlVzZSAK</text>
+        <text encoding="base64">ICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKCk7CiAgICB1c2VyLnNldFVzZXJuYW1lKCIxIik7CiAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICB1c2VyLnNldElkKDMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsU3RyaW5nPiBtYXAgPSBuZXcgSGFzCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgTmFtaW5nRXhjZXB0aW9uLCBSZW1vdGVFeGNlcHRpb24gewoKICAgIFVzZXIgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIE5hbWluZ0V4Y2VwdGlvbiwgUmVtb3RlRXhjZXB0aW9uIHsKCiAgICAgIFNlcnZpY2VNZXRob2RJbnRlIHNlcnZpY2VNZXRob2RJbnRlID0gKFNlcnZpY2VNZXRob2RJbnRlKSBuZXcgSW5pdGlhbENvbnRleHQoKS5sb29rdXAoInJtaTovL2xvY2FsaG9zdDo1MDA3L3Rlc3QiKTsKICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgdXNlci5zZXRVc2VybmFtZSgiMSIpOwogICAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICAgIHVzZXIuc2V0SWQoMyk7CiAgICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CiAgICAgIFVzZXIgdXNlcjEgPSBzZXJ2aWNlTWV0aG9kSW50ZS5nZXQoZ3Nvbi5mcm9tSnNvbihnc29uLnRvSnNvbih1c2VyKSwgTWFwLmNsYXNzKSwgVXNlci5jbGFzcyk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyMSk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VNZXRob2RJbnRlIHNlcnZpY2VNZXRob2RJbnRlID0gKFNlcnZpY2VNZXRob2RJbnRlKSBuZXcgSW5pdGlhbENvbnRleHQoKS5sb29rdXAoInJtaTovL2xvY2FsaG9zdDo1MDA3L3Rlc3QiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlZ2lzdHJ5IHJlZ2lzdHJ5ID0gTG9jYXRlUmVnaXN0cnkuZ2V0UmVnaXN0cnkoImxvY2FsaG9zdCIsIDUwMDcpOwogICAgU2VydmljZU1ldGhvZEludGUgc2VydmljZU1ldGhvZCA9IChTZXJ2aWNlTWV0aG9kSW50ZSkgcmVnaXN0cnkubG9va3VwKCJybWk6Ly9sb2NhbGhvc3Q6NTAwNy90ZXN0Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VydmljZU1ldGhvZCk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJ5LmJpbmQoIlNlcnZpY2VNZXRob2QiLCByZW1vdGUpOwo=</text>
+        <text encoding="base64">ICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKCk7CiAgICB1c2VyLnNldFVzZXJuYW1lKCIxIik7CiAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICB1c2VyLnNldElkKDMpOwogICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsKICAgIFVzZXIgdXNlcjEgPSBzZXJ2aWNlTWV0aG9kSW50ZS5nZXQoZ3Nvbi5mcm9tSnNvbihnc29uLnRvSnNvbih1c2VyKSwgTWFwLmNsYXNzKSwgVXNlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2EK</text>
+        <text encoding="base64">ICBSZW1vdGVkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzcHZtCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5jaGVja1Blcm1pc3Npb24ocGVybSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlZ2lzdHJ5IHJlZ2lzdHJ5ID0gTG9jYXRlUmVnaXN0cnkuZ2V0UmVnaXN0cnkoKTsK</text>
+        <text encoding="base64">ICAgIFNPQVBCaW5kaW5nLlVzZSAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
