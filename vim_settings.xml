@@ -96,8 +96,10 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/study/rmi/ServiceMethodInte.java" timestamp="1558856556858">
-        <mark key="[" line="2" column="36" />
+      <file name="$USER_HOME$/java/workspace/sip/src/study/rmi/ServiceMethodInte.java" timestamp="1558859154737">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1554532895810">
         <mark key="[" line="546" column="42" />
@@ -635,6 +637,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiServerIntf.java" timestamp="1558857667220">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/java/workspace/switch/web/test/test.html" timestamp="1534818350635">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="21" column="31" />
@@ -707,6 +715,7 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1558858817034" />
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/aop/HelloWorldServiceImpl.java" timestamp="1558451843542">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="12" />
@@ -1503,6 +1512,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiClient.java" timestamp="1558857767615">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/tomcat/src/main/java/core/ServletProcess.java" timestamp="1530866956640">
         <mark key="[" line="18" column="67" />
         <mark key="]" line="18" column="67" />
@@ -1569,6 +1584,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="34" column="43" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/io/Serializable.java" timestamp="1558858315889" />
       <file name="$USER_HOME$/Downloads/SimpleTomcat-2.0/src/main/java/li/Util.java" timestamp="1531385122574">
         <mark key="[" line="13" column="60" />
         <mark key="]" line="13" column="60" />
@@ -1677,11 +1693,11 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/test/Client.java" timestamp="1558856820160">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
+      <file name="$USER_HOME$/java/workspace/sip/test/Client.java" timestamp="1558859023996">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/IKeyGenerator.java" timestamp="1548769677943">
         <mark key="[" line="0" column="0" />
@@ -1978,7 +1994,7 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1558856600235">
+      <file name="/fragment.java" timestamp="1558857648714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2561,6 +2577,12 @@
         <mark key="." line="34" column="71" />
         <mark key="^" line="34" column="71" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/Rmiser.java" timestamp="1558857644902">
+        <mark key="[" line="37" column="1" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Array.java" timestamp="1523519154048">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -2777,44 +2799,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgdm9pZCBsYW1iZGEoc3VwKSB0aHJvd3MgUmVtb3RlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xsZWN0aW9uLnN0cmVhbSgpLnNraXAoMSkuZmluZEZpcnN0KCkuZ2V0KCkpOwo=</text>
+        <text encoding="base64">ICA8VD4gVCBnZXQoTWFwIG1hcCwgQ2xhc3M8VD4gdHlwZSkgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgdm9pZCBsYW1iZGEoc3VwKSB0aHJvd3MgUmVtb3RlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKCk7CiAgICB1c2VyLnNldFVzZXJuYW1lKCIxIik7CiAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICB1c2VyLnNldElkKDMpOwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJtaUNsaWVudCB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgTmFtaW5nRXhjZXB0aW9uLCBSZW1vdGVFeGNlcHRpb24gewoKICAgIFVzZXIgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIE5hbWluZ0V4Y2VwdGlvbiwgUmVtb3RlRXhjZXB0aW9uIHsKCiAgICAgIFNlcnZpY2VNZXRob2RJbnRlIHNlcnZpY2VNZXRob2RJbnRlID0gKFNlcnZpY2VNZXRob2RJbnRlKSBuZXcgSW5pdGlhbENvbnRleHQoKS5sb29rdXAoInJtaTovL2xvY2FsaG9zdDo1MDA3L3Rlc3QiKTsKICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgdXNlci5zZXRVc2VybmFtZSgiMSIpOwogICAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICAgIHVzZXIuc2V0SWQoMyk7CiAgICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CiAgICAgIFVzZXIgdXNlcjEgPSBzZXJ2aWNlTWV0aG9kSW50ZS5nZXQoZ3Nvbi5mcm9tSnNvbihnc29uLnRvSnNvbih1c2VyKSwgTWFwLmNsYXNzKSwgVXNlci5jbGFzcyk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyMSk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJtaXNlciB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VNZXRob2RJbnRlIHNlcnZpY2VNZXRob2RJbnRlID0gKFNlcnZpY2VNZXRob2RJbnRlKSBuZXcgSW5pdGlhbENvbnRleHQoKS5sb29rdXAoInJtaTovL2xvY2FsaG9zdDo1MDA3L3Rlc3QiKTsK</text>
+        <text encoding="base64">ICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyMSk7Cg==</text>
+        <text encoding="base64">ICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKCk7CiAgICB1c2VyLnNldFVzZXJuYW1lKCIxIik7CiAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICB1c2VyLnNldElkKDMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKCk7CiAgICB1c2VyLnNldFVzZXJuYW1lKCIxIik7CiAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICB1c2VyLnNldElkKDMpOwogICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsKICAgIFVzZXIgdXNlcjEgPSBzZXJ2aWNlTWV0aG9kSW50ZS5nZXQoZ3Nvbi5mcm9tSnNvbihnc29uLnRvSnNvbih1c2VyKSwgTWFwLmNsYXNzKSwgVXNlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgTmFtaW5nRXhjZXB0aW9uLCBSZW1vdGVFeGNlcHRpb24gewoKICAgIFVzZXIgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIE5hbWluZ0V4Y2VwdGlvbiwgUmVtb3RlRXhjZXB0aW9uIHsKCiAgICAgIFNlcnZpY2VNZXRob2RJbnRlIHNlcnZpY2VNZXRob2RJbnRlID0gKFNlcnZpY2VNZXRob2RJbnRlKSBuZXcgSW5pdGlhbENvbnRleHQoKS5sb29rdXAoInJtaTovL2xvY2FsaG9zdDo1MDA3L3Rlc3QiKTsKICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKICAgICAgdXNlci5zZXRVc2VybmFtZSgiMSIpOwogICAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICAgIHVzZXIuc2V0SWQoMyk7CiAgICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CiAgICAgIFVzZXIgdXNlcjEgPSBzZXJ2aWNlTWV0aG9kSW50ZS5nZXQoZ3Nvbi5mcm9tSnNvbihnc29uLnRvSnNvbih1c2VyKSwgTWFwLmNsYXNzKSwgVXNlci5jbGFzcyk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyMSk7CiAgICB9CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBSZW1vdGVkZAo=</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VNZXRob2RJbnRlIHNlcnZpY2VNZXRob2RJbnRlID0gKFNlcnZpY2VNZXRob2RJbnRlKSBuZXcgSW5pdGlhbENvbnRleHQoKS5sb29rdXAoInJtaTovL2xvY2FsaG9zdDo1MDA3L3Rlc3QiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jaGVja1Blcm1pc3Npb24ocGVybSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNPQVBCaW5kaW5nLlVzZSAK</text>
+        <text encoding="base64">ICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKCk7CiAgICB1c2VyLnNldFVzZXJuYW1lKCIxIik7CiAgICB1c2VyLnNldFBhc3N3b3JkKCIyIik7CiAgICB1c2VyLnNldElkKDMpOwogICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsKICAgIFVzZXIgdXNlcjEgPSBzZXJ2aWNlTWV0aG9kSW50ZS5nZXQoZ3Nvbi5mcm9tSnNvbihnc29uLnRvSnNvbih1c2VyKSwgTWFwLmNsYXNzKSwgVXNlci5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
