@@ -943,12 +943,11 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/java/Study/src/li/nio/NioTest.java" timestamp="1558878545303">
-        <mark key="'" line="50" column="6" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/java/Study/src/li/nio/NioTest.java" timestamp="1558881628034">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/algorithms/SingelLink.java" timestamp="1524098876391">
         <mark key="[" line="2" column="14" />
@@ -2694,8 +2693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="631" column="6" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/SCESession.class" />
-      <jump line="607" column="4" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/SCESession.class" />
       <jump line="540" column="8" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/SCESession.class" />
       <jump line="7" column="17" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/application.yml" />
       <jump line="17" column="31" filename="$USER_HOME$/java/workspace/springboot2/src/main/java/li/bean/DynamicBean.java" />
@@ -2794,6 +2791,8 @@
       <jump line="32" column="28" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
       <jump line="42" column="12" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
       <jump line="50" column="6" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
+      <jump line="53" column="5" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2806,44 +2805,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgQnl0ZUJ1ZmZlciBhbGxvY2F0ZSA9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoNTIpOwogICBpbnQgcmVhZCA9IHRvRmlsZUNoYW5uZWwucmVhZChhbGxvY2F0ZSk7CiAgIHdoaWxlIChyZWFkICE9LTEpewogICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCByZWFkID0gY2hhbm5lbC5yZWFkKGJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgUmFuZG9tQWNjZXNzRmlsZSBhY2Nlc3NGaWxlID0gbmV3IFJhbmRvbUFjY2Vzc0ZpbGUobmV3IEZpbGUoIi9Vc2Vycy9saS9qYXZhL1N0dWR5L3NyYy9saS9uaW8vTmlvVGVzdC5qYXZhIiksICJydyIpOwogICBGaWxlQ2hhbm5lbCBjaGFubmVsID0gYWNjZXNzRmlsZS5nZXRDaGFubmVsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgQnl0ZUJ1ZmZlciBhbGxvY2F0ZSA9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoNTIpOwogICBpbnQgcmVhZCA9IHRvRmlsZUNoYW5uZWwucmVhZChhbGxvY2F0ZSk7CiAgIHdoaWxlIChyZWFkICE9LTEpewogICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXIuZmxpcCgpOwo=</text>
+        <text encoding="base64">ICAgICB0b0ZpbGUudwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlci5yZQo=</text>
+        <text encoding="base64">ICAgICAgICBidWZmZXIuZmxpcCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlcltpXSA9IG1zZy5jaGFyQXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgIGJ1ZmZlci5yZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgRmlsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlcltpXSA9IG1zZy5jaGFyQXQoaSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFycmF5cy5zdHJlYW0obmV3IEZpbGUoIi4iKS5saXN0RmlsZXMoKSkuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
