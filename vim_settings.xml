@@ -323,6 +323,11 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
+      <file name="$USER_HOME$/java/Study/src/li/nio/NioServer.java" timestamp="1558884207015">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/thread/FutureUtil.java" timestamp="1533783858756">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="22" />
@@ -2000,7 +2005,7 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1558857648714">
+      <file name="/fragment.java" timestamp="1558884115726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2619,6 +2624,12 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/java/Study/src/li/nio/NioClient.java" timestamp="1558884448542">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/primeton/bfs/configuration/db/BFSInstallScript.java" timestamp="1546926438640">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2693,9 +2704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="540" column="8" filename="$USER_HOME$/java/workspace/HSBC_DJK/WEB-INF/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/SCESession.class" />
-      <jump line="7" column="17" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/application.yml" />
-      <jump line="17" column="31" filename="$USER_HOME$/java/workspace/springboot2/src/main/java/li/bean/DynamicBean.java" />
       <jump line="32" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/main/java/li/config/Config.java" />
       <jump line="312" column="2" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/templates/goSamples.js" />
       <jump line="214" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/templates/goSamples.js" />
@@ -2793,6 +2801,9 @@
       <jump line="50" column="6" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
       <jump line="53" column="5" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
       <jump line="38" column="0" filename="$USER_HOME$/java/Study/src/li/nio/NioTest.java" />
+      <jump line="62" column="4" filename="$USER_HOME$/java/Study/src/li/nio/NioServer.java" />
+      <jump line="86" column="5" filename="$USER_HOME$/java/Study/src/li/nio/NioServer.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/java/Study/src/li/nio/NioServer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2805,44 +2816,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgQnl0ZUJ1ZmZlciBhbGxvY2F0ZSA9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoNTIpOwogICBpbnQgcmVhZCA9IHRvRmlsZUNoYW5uZWwucmVhZChhbGxvY2F0ZSk7CiAgIHdoaWxlIChyZWFkICE9LTEpewogICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgUmFuZG9tQWNjZXNzRmlsZSBhY2Nlc3NGaWxlID0gbmV3IFJhbmRvbUFjY2Vzc0ZpbGUobmV3IEZpbGUoIi9Vc2Vycy9saS9qYXZhL1N0dWR5L3NyYy9saS9uaW8vTmlvVGVzdC5qYXZhIiksICJydyIpOwogICBGaWxlQ2hhbm5lbCBjaGFubmVsID0gYWNjZXNzRmlsZS5nZXRDaGFubmVsKCk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb3VudCA9IHNjLnJlYWQodGhpcy5yZWFkQnVmZmVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgQnl0ZUJ1ZmZlciBhbGxvY2F0ZSA9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoNTIpOwogICBpbnQgcmVhZCA9IHRvRmlsZUNoYW5uZWwucmVhZChhbGxvY2F0ZSk7CiAgIHdoaWxlIChyZWFkICE9LTEpewogICB9Cg==</text>
+        <text encoding="base64">ICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gQnl0ZUJ1ZmZlci5hbGxvY2F0ZSgxMDI0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICB0b0ZpbGUudwo=</text>
+        <text encoding="base64">ICAgICAgY291bnQgPSBzYy5yZWFkKHRoaXMucmVhZEJ1ZmZlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgY291bnQgPSBzYy5yZWFkKHRoaXMucmVhZEJ1ZmZlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXIuZmxpcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uaW4ucmVhZChieXRlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlci5yZQo=</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKHRydWUpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnl0ZUJ1ZmZlcltpXSA9IG1zZy5jaGFyQXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgc2MuY2xvc2UoKTsKICAgICAgc2VsZWN0aW9uS2V5LmNhbmNlbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
