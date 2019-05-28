@@ -1,5 +1,9 @@
 <code_scheme name="li" version="173">
-  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <JavaCodeStyleSettings>
+    <option name="REPLACE_INSTANCEOF" value="true" />
+    <option name="REPLACE_CAST" value="true" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
   </XML>
