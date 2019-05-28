@@ -263,6 +263,7 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
       </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/main/java/com/jenkov/nioserver/example/Main.java" timestamp="1559043659405" />
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/spring/ConditionOnProperty.java" timestamp="1548311802571">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="26" />
@@ -363,6 +364,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="39" column="27" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/test/java/com.jenkov.nioserver/MessageTest.java" timestamp="1559043154669">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/servlet/DealServlet.java" timestamp="1539248838259">
         <mark key="[" line="28" column="27" />
@@ -877,11 +884,6 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/test/src/test/java/test/nios/study/service/Client.java" timestamp="1558856445455">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/target/classes/config_uat.json" timestamp="1536724849232">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="12" />
@@ -1122,13 +1124,6 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/src/User.java" timestamp="1558856620663">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/work/course/workspace/Sip/src/com/pccc/sip/utils/Gson.java" timestamp="1552715998756">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1146,6 +1141,12 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/main/java/com/jenkov/nioserver/http/HttpUtil.java" timestamp="1559043075232">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/util/FileUtils.java" timestamp="1548812194105">
         <mark key="[" line="15" column="69" />
@@ -1213,6 +1214,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="6" column="35" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/test/java/com.jenkov.nioserver/MessageBufferTest.java" timestamp="1559043129214">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/VoicePromptElement.java" timestamp="1548483424904">
         <mark key="[" line="16" column="55" />
@@ -1742,13 +1749,6 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/Client.java" timestamp="1558856552603">
-        <mark key="'" line="19" column="95" />
-        <mark key="[" line="19" column="96" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-      </file>
       <file name="$USER_HOME$/java/workspace/Huntaway/WEB-INF/js/menu.js" timestamp="1539824939377">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="9" />
@@ -2007,7 +2007,7 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1558884115726">
+      <file name="/fragment.java" timestamp="1559043322251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2231,6 +2231,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/main/java/com/jenkov/nioserver/SocketProcessor.java" timestamp="1559043038993">
+        <mark key="[" line="205" column="44" />
+        <mark key="]" line="205" column="43" />
+        <mark key="^" line="205" column="43" />
+        <mark key="." line="205" column="43" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/parse/Parse.java" timestamp="1548071387465">
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="52" />
@@ -2242,6 +2248,12 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/main/java/com/jenkov/nioserver/SocketAccepter.java" timestamp="1559042983556">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/JSTest.java" timestamp="1522828313973">
         <mark key="[" line="9" column="50" />
@@ -2368,6 +2380,11 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/Downloads/java-nio-server-master/src/test/java/com.jenkov.nioserver/SelectorTest.java" timestamp="1559043168157">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/MyScope.java" timestamp="1548764739473">
         <mark key="[" line="2" column="21" />
@@ -2818,8 +2835,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1024</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>1024</text>
@@ -2831,31 +2848,31 @@
         <text encoding="base64">ICAgIGludCBjb3VudCA9IHNjLnJlYWQodGhpcy5yZWFkQnVmZmVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gQnl0ZUJ1ZmZlci5hbGxvY2F0ZSgxMDI0KTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY291bnQgPSBzYy5yZWFkKHRoaXMucmVhZEJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY291bnQgPSBzYy5yZWFkKHRoaXMucmVhZEJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uaW4ucmVhZChieXRlcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKHRydWUpewo=</text>
+        <text encoding="base64">ICAgICAgQnl0ZUJ1ZmZlciBieXRlQnVmZmVyID0gQnl0ZUJ1ZmZlci5hbGxvY2F0ZSgxMDI0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY291bnQgPSBzYy5yZWFkKHRoaXMucmVhZEJ1ZmZlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2MuY2xvc2UoKTsKICAgICAgc2VsZWN0aW9uS2V5LmNhbmNlbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgY291bnQgPSBzYy5yZWFkKHRoaXMucmVhZEJ1ZmZlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uaW4ucmVhZChieXRlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
