@@ -70,9 +70,6 @@
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="XDebugger.CopyWatch" />
-  <action id="com.dubreuia.core.action.ShortcutAction">
-    <keyboard-shortcut first-keystroke="shift s" />
-  </action>
   <action id="com.indulgent.jetbrains.plugin.code.comment.view.actions.AddCommentAction">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
