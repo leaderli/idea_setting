@@ -903,6 +903,13 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/java/workspace/study/src/li/nio/NioClient.java" timestamp="1559229756808">
+        <mark key="'" line="17" column="38" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/test/com/sip/spring/AutoConfig.java" timestamp="1548769631881">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="12" />
@@ -962,12 +969,6 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/java/Study/src/li/nio/NioTest.java" timestamp="1558881628034">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/algorithms/SingelLink.java" timestamp="1524098876391">
         <mark key="[" line="2" column="14" />
@@ -2007,6 +2008,12 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
       </file>
+      <file name="$USER_HOME$/java/workspace/study/src/li/nio/NioServer.java" timestamp="1559229672365">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="25" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/data/VoiceTest.java" timestamp="1551767474248">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="42" />
@@ -2124,7 +2131,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/java-nio-server/src/main/java/com/jenkov/nioserver/example/Main.java" timestamp="1559226499465">
+      <file name="$USER_HOME$/java/workspace/java-nio-server/src/main/java/com/jenkov/nioserver/example/Main.java" timestamp="1559228867334">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -2758,11 +2765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/main/java/li/config/Config.java" />
-      <jump line="312" column="2" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/templates/goSamples.js" />
-      <jump line="214" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/templates/goSamples.js" />
-      <jump line="7" column="5" filename="$USER_HOME$/java/workspace/springboot2/src/main/resources/templates/index.html" />
-      <jump line="18" column="19" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/TestStreamUtils.java" />
       <jump line="9" column="54" filename="$USER_HOME$/java/workspace/UP/WEB-INF/src/chinese/phrasesets/Notice.java" />
       <jump line="12" column="58" filename="$USER_HOME$/java/workspace/UP/WEB-INF/src/chinese/phrasesets/Notice.java" />
       <jump line="26" column="13" filename="$USER_HOME$/java/workspace/springboot2/src/main/java/li/controller/Simple.java" />
@@ -2858,6 +2860,11 @@
       <jump line="62" column="4" filename="$USER_HOME$/java/Study/src/li/nio/NioServer.java" />
       <jump line="86" column="5" filename="$USER_HOME$/java/Study/src/li/nio/NioServer.java" />
       <jump line="78" column="4" filename="$USER_HOME$/java/Study/src/li/nio/NioServer.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/java/workspace/study/src/li/nio/NioServer.java" />
+      <jump line="0" column="2" filename="$USER_HOME$/java/workspace/study/src/li/nio/NioServer.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/java/workspace/study/src/li/nio/NioServer.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/java/workspace/study/src/li/nio/NioServer.java" />
+      <jump line="16" column="38" filename="$USER_HOME$/java/workspace/study/src/li/nio/NioClient.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2871,43 +2878,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHIgPSBuZXcgYnl0ZVsxMDI0XTsK</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsU3RyaW5nPiBtID0gbWFwOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICAgIFNvY2tldENoYW5uZWwgc2MgPSAoU29ja2V0Q2hhbm5lbCkgc2VsZWN0aW9uS2V5LmNoYW5uZWwoKTsKICAgIEJ5dGVCdWZmZXIgd3JpdGVCdWZmZXI9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoaHR0cFJlc3BvbnNlLmxlbmd0aCgpKTsKICAgIHdyaXRlQnVmZmVyLnB1dChodHRwUmVzcG9uc2UuZ2V0Qnl0ZXMoKSk7CiAgICBzYy53cml0ZSh3cml0ZUJ1ZmZlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHIgPSBuZXcgYnl0ZVsxMDI0XTsK</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBTdHJpbmcocikpOwo=</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuY2xlYXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC53cml0ZVRvTWVzc2FnZShyKTsK</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLlN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgc2MuY2wK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLlN0cmluZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC4K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5leHRNZXNzYWdlLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoImkgYW0gYSB0ZXN0IGRlbW8gIitpKyJcclxuIik7CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVzKTsK</text>
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwOyBpKyspIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRocmVhZC5zCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7CgogICAgICAgIEJ5dGVCdWZmZXIgd3JpdGVCdWZmZXI9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoaHR0cFJlc3BvbnNlLmxlbmd0aCgpKTsKICAgICAgICB3cml0ZUJ1ZmZlci5wdXQoaHR0cFJlc3BvbnNlLmdldEJ5dGVzKCkpOwogICAgICAgIHNjLndyaXRlKHdyaXRlQnVmZmVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
