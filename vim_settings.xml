@@ -1041,6 +1041,12 @@
         <mark key="^" line="9" column="67" />
         <mark key="." line="9" column="67" />
       </file>
+      <file name="$USER_HOME$/java/workspace/study/src/li/nio/li/stream/SplitTest.java" timestamp="1559265403612">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/test.yml" timestamp="1540946688964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2877,17 +2883,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICAgIFNvY2tldENoYW5uZWwgc2MgPSAoU29ja2V0Q2hhbm5lbCkgc2VsZWN0aW9uS2V5LmNoYW5uZWwoKTsKICAgIEJ5dGVCdWZmZXIgd3JpdGVCdWZmZXI9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoaHR0cFJlc3BvbnNlLmxlbmd0aCgpKTsKICAgIHdyaXRlQnVmZmVyLnB1dChodHRwUmVzcG9uc2UuZ2V0Qnl0ZXMoKSk7CiAgICBzYy53cml0ZSh3cml0ZUJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcocy5zcGxpdCgiOyIpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
