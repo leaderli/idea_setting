@@ -2571,6 +2571,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/java/workspace/study/src/li/nio/li/stream/MapTest.java" timestamp="1559636413505">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CyclicBarrierTest.java" timestamp="1554552706627">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="19" column="0" />
@@ -2883,8 +2889,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCIxIikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -2893,7 +2899,7 @@
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcocy5zcGxpdCgiOyIpKSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCIxIikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
