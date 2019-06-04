@@ -373,6 +373,12 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/study/src/li/nio/NioTest.java" timestamp="1559650248020">
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="37" column="48" />
+        <mark key="." line="37" column="48" />
+        <mark key="^" line="37" column="48" />
+      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/util/ConfigFactory.java" timestamp="1539331166088">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -1419,6 +1425,11 @@
         <mark key="]" line="107" column="57" />
         <mark key="." line="107" column="57" />
         <mark key="^" line="107" column="57" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/study/fuck.txt" timestamp="1559650252463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/UnifyApp/src/huzm/xcommander/GUID.java" timestamp="1532073500357">
         <mark key="[" line="7" column="23" />
@@ -2902,10 +2913,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHJ1bncK</text>
+        <text encoding="base64">ZnVjayB5b3UgLHNvbiBvZiB0aGUgYml0Y2hmdWNrIHlvdSAsc29uIG9mIHRoZSBiaXRjaAo=</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>()+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -2914,31 +2925,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCIxIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHJ1bncK</text>
+        <text encoding="base64">ZnVjayB5b3UgLHNvbiBvZiB0aGUgYml0Y2hmdWNrIHlvdSAsc29uIG9mIHRoZSBiaXRjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
+        <text encoding="base64">ICAgIGJ5dGVCdWZmZXIgPSBBcnJheXMuY29weU9mKGJ5dGVCdWZmZXIsICAgICBieXRlQnVmZmVyLm1zZ3MubGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuY2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgIEFycmF5cy5jb3B5T2YoYnl0ZUJ1ZmZlciwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuCg==</text>
+        <text encoding="base64">ICAgIEFycmF5cy5jb3B5T2YoYnl0ZUJ1ZmZlciwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2MuY2wK</text>
+        <text encoding="base64">ICAgIEJ5dGVCdWZmZXIgYnl0ZUJ1ZmZlciA9IEJ5dGVCdWZmZXIuYWxsb2NhdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLlN0cmluZzsK</text>
+        <text encoding="base64">QHJ1bncK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuZmxpcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoImkgYW0gYSB0ZXN0IGRlbW8gIitpKyJcclxuIik7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuY2xlYXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgd3JpdGVCdWZmZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
