@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="yml" type="Native" />
       <mapping pattern="Test.java" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tbl" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="logj4" type="Properties" />
       <mapping ext="factories" type="Properties" />
       <mapping ext="flow" type="XML" />
