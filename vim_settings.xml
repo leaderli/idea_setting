@@ -2656,10 +2656,10 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/miscroserviceorder/src/main/java/com/li/order/entity/OrderDetail.java" timestamp="1559696804046">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/java/workspace/miscroserviceorder/src/main/java/com/li/order/entity/OrderDetail.java" timestamp="1559699531236">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/controller/Hello.java" timestamp="1547642929990">
@@ -2963,10 +2963,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbmV3IEl0ZW0oKTs=</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IEl0ZW0oKTs=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
