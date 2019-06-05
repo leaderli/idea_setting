@@ -527,11 +527,10 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
-      <file name="$USER_HOME$/java/workspace/microserviceitem/src/main/java/com/li/item/controller/ItemController.java" timestamp="1559660764393">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="2" />
-        <mark key="^" line="25" column="2" />
-        <mark key="." line="25" column="2" />
+      <file name="$USER_HOME$/java/workspace/microserviceitem/src/main/java/com/li/item/controller/ItemController.java" timestamp="1559663115815">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/spring/SpringFactory.java" timestamp="1548765300753">
         <mark key="[" line="15" column="39" />
@@ -1412,12 +1411,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/java/workspace/microserviceitem/src/main/java/com/li/item/runner/ItemApp.java" timestamp="1559660621178">
+      <file name="$USER_HOME$/java/workspace/microserviceitem/src/main/java/com/li/item/runner/ItemApp.java" timestamp="1559662934420">
         <mark key="'" line="7" column="44" />
         <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-        <mark key="^" line="7" column="44" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/lock/Test.java" timestamp="1522933907143">
         <mark key="[" line="2" column="19" />
@@ -2949,7 +2948,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJpdGVtL3F1ZXJ5IikKICBwdWJsaWMgYm9vbGVhbiBpc0V4aXQoQFJlcXVlc3RCb2R5ICBJdGVtIGl0ZW0pewogICAgewogICAgICAiaWQiOiAxLAogICAgICAgICJ0aXRsZSI6ICJkZW1vRGF0YSIsCiAgICAgICAgInBpYyI6ICJkZW1vRGF0YSIsCiAgICAgICAgImRlc2MiOiAiZGVtb0RhdGEiLAogICAgICAgICJwcmljZSI6IDEKICAgIH0KICAgIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9pdGVtL3tpZH0/aWQ9MQogICAgcmV0dXJuIHRydWU7CiAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text>//手动指定bean组件扫描范围</text>
@@ -2961,31 +2960,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCIxIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJpdGVtL3F1ZXJ5IikKICBwdWJsaWMgYm9vbGVhbiBpc0V4aXQoQFJlcXVlc3RCb2R5ICBJdGVtIGl0ZW0pewogICAgewogICAgICAiaWQiOiAxLAogICAgICAgICJ0aXRsZSI6ICJkZW1vRGF0YSIsCiAgICAgICAgInBpYyI6ICJkZW1vRGF0YSIsCiAgICAgICAgImRlc2MiOiAiZGVtb0RhdGEiLAogICAgICAgICJwcmljZSI6IDEKICAgIH0KICAgIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9pdGVtL3tpZH0/aWQ9MQogICAgcmV0dXJuIHRydWU7CiAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
+        <text encoding="base64">ICAgIC9pdGVtL3F1ZXJ5P2lkPTEmdGl0bGU9ZGVtb0RhdGEmcGljPWRlbW9EYXRhJmRlc2M9ZGVtb0RhdGEmcHJpY2U9MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC9pdGVtL3F1ZXJ5P2lkPTEmdGl0bGU9ZGVtb0RhdGEmcGljPWRlbW9EYXRhJmRlc2M9ZGVtb0RhdGEmcHJpY2U9MQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICDkvZzogIXvvJpuaWFvYmlyZGZseQogIOadpea6kO+8mkNTRE4KICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvaGVsbG96cGMvYXJ0aWNsZS9kZXRhaWxzLzgzNjkyNDk2IAogIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEl0ZW1BcHAgewo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAg5L2c6ICF77yabmlhb2JpcmRmbHkKICDmnaXmupDvvJpDU0ROCiAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hlbGxvenBjL2FydGljbGUvZGV0YWlscy84MzY5MjQ5NiAKICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aXRsZTsK</text>
+        <text encoding="base64">ICDkvZzogIXvvJpuaWFvYmlyZGZseQogIOadpea6kO+8mkNTRE4KICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvaGVsbG96cGMvYXJ0aWNsZS9kZXRhaWxzLzgzNjkyNDk2IAogIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
