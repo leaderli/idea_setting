@@ -2049,6 +2049,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/study/src/li/concurrency/CountDownLatchTest.java" timestamp="1560350449802">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/ThreadStopping.java" timestamp="1522848445322">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3022,10 +3028,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>itemProperties</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>itemProperties</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -3034,31 +3040,31 @@
         <text encoding="base64">ICAgIG9yZGVyRGV0YWlscy5hZGQobmV3IE9yZGVyRGV0YWlsKGl0ZW0sb3JkZXIuZ2V0T3JkZXJJZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7bXlzcGNsb3VkLml0ZW0udXJsfSIpCiAgcHJpdmF0ZSBTdHJpbmcgaXRlbVVybDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICA8b3B0aW9uYWw+dHJ1ZTwvb3B0aW9uYWw+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluIChTdHJpbmdbXWFyZ3Mpewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBMQVRDSF9TSVpFID0gNTsKICAgIHByaXZhdGUgc3RhdGljIENvdW50RG93bkxhdGNoIGRvbmVTaWduYWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTG9uZyBnZXRJZCgpIHsKICAgIHJldHVybiBpZDsKICB9Cg==</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7bXlzcGNsb3VkLml0ZW0udXJsfSIpCiAgcHJpdmF0ZSBTdHJpbmcgaXRlbVVybDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZGVyRGV0YWlscy5hZGQobmV3IE9yZGVyRGV0YWlsKG9yZGVyLmdldE9yZGVySWQoKSwgaXRlbSkpOwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICA8b3B0aW9uYWw+dHJ1ZTwvb3B0aW9uYWw+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBvcmRlcklkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEl0ZW0gaXRlbTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgTG9uZyBnZXRJZCgpIHsKICAgIHJldHVybiBpZDsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwcm9jPm5vbmU8L3Byb2M+Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyRGV0YWlscy5hZGQobmV3IE9yZGVyRGV0YWlsKG9yZGVyLmdldE9yZGVySWQoKSwgaXRlbSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBvcmRlcklkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
