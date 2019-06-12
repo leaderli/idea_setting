@@ -2396,11 +2396,11 @@
         <mark key="^" line="205" column="43" />
         <mark key="." line="205" column="43" />
       </file>
-      <file name="$USER_HOME$/java/workspace/study/src/li/concurrency/ExecutorsTest.java" timestamp="1560354550543">
-        <mark key="[" line="35" column="81" />
-        <mark key="]" line="35" column="81" />
-        <mark key="." line="35" column="81" />
-        <mark key="^" line="35" column="81" />
+      <file name="$USER_HOME$/java/workspace/study/src/li/concurrency/ExecutorsTest.java" timestamp="1560356419354">
+        <mark key="[" line="17" column="166" />
+        <mark key="]" line="17" column="166" />
+        <mark key="." line="17" column="166" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/parse/Parse.java" timestamp="1548071387465">
         <mark key="[" line="74" column="52" />
@@ -3036,11 +3036,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvb2wK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
