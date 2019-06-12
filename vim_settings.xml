@@ -218,6 +218,12 @@
         <mark key="." line="8" column="67" />
         <mark key="^" line="8" column="67" />
       </file>
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiServer.java" timestamp="1560325116988">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/MyConfig.java" timestamp="1543805439385">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="46" />
@@ -699,11 +705,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiServerIntf.java" timestamp="1558857667220">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiServerIntf.java" timestamp="1560325123915">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/java/workspace/switch/web/test/test.html" timestamp="1534818350635">
         <mark key="[" line="21" column="28" />
@@ -1646,8 +1652,8 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiClient.java" timestamp="1558857767615">
-        <mark key="[" line="9" column="1" />
+      <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/rmi/RmiClient.java" timestamp="1560325132057">
+        <mark key="[" line="7" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -1999,7 +2005,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1559711216263" />
       <file name="/JSON Fragment (JsonTest.java:284).json" timestamp="1551696257158">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
