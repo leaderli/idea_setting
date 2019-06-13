@@ -1979,6 +1979,7 @@
         <mark key="^" line="81" column="26" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/LockSupport.java" timestamp="1560387707362" />
       <file name="$USER_HOME$/java/workspace/test/src/test/java/study/stack/StackUtilTest.java" timestamp="1533136763564">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="41" />
@@ -2153,9 +2154,6 @@
         <mark key="]" line="20" column="21" />
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
-      </file>
-      <file name="/fragment.java" timestamp="1559711553630">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
         <mark key="[" line="14" column="75" />
