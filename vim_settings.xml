@@ -928,6 +928,13 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
+      <file name="$USER_HOME$/java/workspace/miscroserviceorder/pom.xml" timestamp="1560869166649">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/java/workspace/switch/src/servlet/Core.java" timestamp="1539248482046">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -2939,11 +2946,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBSdW5uYWJsZSBydW5uYWJsZSA9IG5ldyBSdW5uYWJsZSgpIHsKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgIH0KICB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>RELEASE</text>
       </register>
       <register name="-" type="4">
-        <text>inner</text>
+        <text>RELEASE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
