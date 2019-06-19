@@ -2682,10 +2682,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/study/src/li/asm/ModifyMethodTest.java" timestamp="1560910046772">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/java/workspace/study/src/li/asm/ModifyMethodTest.java" timestamp="1560916566526">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/config/TestConfig.java" timestamp="1527002638114">
         <mark key="[" line="20" column="15" />
@@ -2994,7 +2995,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNbMF0gPSAnMic7CiAgICB2YWx1ZS5zZXRBY2Nlc3NpYmxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>System.out.println(\&quot;before hello!!!\&quot;)</text>
@@ -3006,31 +3007,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihWZXJzaW9uLmdldCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNbMF0gPSAnMic7CiAgICB2YWx1ZS5zZXRBY2Nlc3NpYmxlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCB0ZXN0KCl7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBUcmFuc0NsYXNzKCkuc2F5SGVsbG8oKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCB0ZXN0KCl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBUcmFuc2Zvcm1lcigpLnRyYW5zZm9ybSgsICwgLCAsICkK</text>
+        <text encoding="base64">ICAgIG5ldyBUcmFuc0NsYXNzKCkuc2F5SGVsbG8oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5DYW5ub3RDb21waWxlRXhjZXB0aW9uOwppbXBvcnQgamF2YXNzaXN0LkNsYXNzUG9vbDsKaW1wb3J0IGphdmFzc2lzdC5DdENsYXNzOwppbXBvcnQgamF2YXNzaXN0LkN0TWV0aG9kOwppbXBvcnQgamF2YXNzaXN0Lk5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgIG5ldyBUcmFuc2Zvcm1lcigpLnRyYW5zZm9ybSgsICwgLCAsICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTW9kaWZ5TWV0aG9kKE1ldGhvZFZpc2l0b3IgbXYpIHsKICAgIHN1cGVyKG12KTsKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmFzc2lzdC5DYW5ub3RDb21waWxlRXhjZXB0aW9uOwppbXBvcnQgamF2YXNzaXN0LkNsYXNzUG9vbDsKaW1wb3J0IGphdmFzc2lzdC5DdENsYXNzOwppbXBvcnQgamF2YXNzaXN0LkN0TWV0aG9kOwppbXBvcnQgamF2YXNzaXN0Lk5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
