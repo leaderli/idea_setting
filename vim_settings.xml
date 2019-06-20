@@ -87,11 +87,11 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/java/workspace/demo/src/main/java/com/example/demo/controller/HelloController.java" timestamp="1560959261134">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="44" />
+      <file name="$USER_HOME$/java/workspace/demo/src/main/java/com/example/demo/controller/HelloController.java" timestamp="1560961202520">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/work/course/workspace/Sip/test/com/pccc/sip/utils/GsonUtilTest.java" timestamp="1552715985213">
         <mark key="[" line="15" column="6" />
@@ -255,10 +255,10 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/java/workspace/demo/pom.xml" timestamp="1560871693641">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/java/workspace/demo/pom.xml" timestamp="1560960523305">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/Node.java" timestamp="1522508130616">
         <mark key="[" line="15" column="17" />
@@ -470,12 +470,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/java/workspace/demo/src/test/java/com/example/demo/controller/HelloControllerTest.java" timestamp="1560959149837">
-        <mark key="'" line="30" column="64" />
-        <mark key="[" line="30" column="63" />
-        <mark key="]" line="30" column="92" />
-        <mark key="." line="30" column="92" />
-        <mark key="^" line="30" column="92" />
+      <file name="$USER_HOME$/java/workspace/demo/src/test/java/com/example/demo/controller/HelloControllerTest.java" timestamp="1560961300317">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/java/workspace/plugin/src/main/java/li/bean/BaseContext.java" timestamp="1527681223619">
         <mark key="[" line="10" column="0" />
@@ -866,7 +866,6 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java" timestamp="1560437851229" />
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/controller/Config.java" timestamp="1543451346454">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="4" column="9" />
@@ -927,7 +926,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/sip/lib/scertcommon-07.01.08.04.jar!/com/avaya/sce/runtimecommon/PlatformSettings.class" timestamp="1560867026442" />
       <file name="$USER_HOME$/java/workspace/test/pom.xml" timestamp="1539231579093">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="14" column="16" />
@@ -1283,7 +1281,6 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.4.0.RELEASE/spring-boot-test-1.4.0.RELEASE.jar!/org/springframework/boot/test/SpringApplicationConfiguration.class" timestamp="1560871479040" />
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/Fruit.java" timestamp="1557905819814">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="37" />
@@ -1332,7 +1329,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/BlockingQueue.java" timestamp="1560423704091" />
       <file name="$USER_HOME$/Downloads/SimpleTomcat-2.0/src/test/java/li/TestMain.java" timestamp="1531893967453">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="41" />
@@ -1465,7 +1461,6 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/Executors.java" timestamp="1560358188418" />
       <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/LiApplicationTests.java" timestamp="1544534884615">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1496,11 +1491,11 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/java/workspace/demo/src/main/resources/application.yml" timestamp="1560958041124">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/java/workspace/demo/src/main/resources/application.yml" timestamp="1560961264491">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/test/java/study/RegexTest.java" timestamp="1557378845438">
         <mark key="[" line="4" column="58" />
@@ -1514,8 +1509,6 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantReadWriteLock.java" timestamp="1560349104150" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/Condition.java" timestamp="1560437615247" />
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/algorithms/Hanoi.java" timestamp="1525089112964">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="14" />
@@ -1894,6 +1887,12 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
+      <file name="$USER_HOME$/java/workspace/demo/src/main/resources/application.properties" timestamp="1560960953060">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/java/li/util/ThreadUtils.java" timestamp="1547480595161">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="4" column="20" />
@@ -1966,8 +1965,6 @@
         <mark key="^" line="81" column="26" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/LockSupport.java" timestamp="1560387707362" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/lang/reflect/Field.java" timestamp="1560426920198" />
       <file name="$USER_HOME$/java/workspace/test/src/test/java/study/stack/StackUtilTest.java" timestamp="1533136763564">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="41" />
@@ -1992,7 +1989,6 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1560330953523" />
       <file name="/JSON Fragment (JsonTest.java:284).json" timestamp="1551696257158">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -2047,7 +2043,6 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1560436649454" />
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/MyMCSLock.java" timestamp="1522984297407">
         <mark key="[" line="79" column="34" />
         <mark key="]" line="79" column="34" />
@@ -2183,8 +2178,6 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ScheduledThreadPoolExecutor.java" timestamp="1560352966263" />
-      <file name="$USER_HOME$/java/workspace/ssm/src/main/resources/spring-mvc.xml" timestamp="1560437774020" />
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/unify/flow.xml" timestamp="1528871832614">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -2257,7 +2250,6 @@
         <mark key="^" line="99" column="6" />
         <mark key="." line="99" column="6" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1560421753066" />
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/xml/normal.xml" timestamp="1533792732856">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="11" />
@@ -2883,7 +2875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
       <jump line="7" column="0" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
       <jump line="27" column="92" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/util/ThreadAvailableTest.java" />
       <jump line="60" column="23" filename="$USER_HOME$/java/workspace/springboot2/src/test/java/li/ClassFileManager.java" />
@@ -2983,6 +2974,7 @@
       <jump line="21" column="13" filename="$USER_HOME$/java/workspace/miscroserviceorder/src/main/java/com/li/order/runner/OrderApp.java" />
       <jump line="13" column="40" filename="$USER_HOME$/java/workspace/miscroserviceorder/src/main/java/com/li/item/service/ItemService.java" />
       <jump line="29" column="64" filename="$USER_HOME$/java/workspace/demo/src/test/java/com/example/demo/controller/HelloControllerTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/java/workspace/demo/src/test/java/com/example/demo/controller/HelloControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2996,10 +2988,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">I0BTcHJpbmdCb290VGVzdChjbGFzc2VzID0gRGVtb0FwcGxpY2F0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -3008,36 +3000,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihWZXJzaW9uLmdldCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">I0BTcHJpbmdCb290VGVzdChjbGFzc2VzID0gRGVtb0FwcGxpY2F0aW9uLmNsYXNzKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KG12Y1Jlc3VsdCAtPiB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtdmNSZXN1bHQuZ2V0QXN5bmNSZXN1bHQoKSk7CiAgICB9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZSgiY2xhc3NwYXRoOmFwcGxpY2F0aW9uLnltbCIpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bXZjUmVzdWx0IC0+IHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKG12Y1Jlc3VsdC5nZXRBc3luY1Jlc3VsdCgpKTsKICAgIH0pCiAgICAgICAgLmFuZEV4cGVjdChNb2NrTXZjUmVzdWx0TWF0Y2hlcnMuY29udGVudCgpLnN0cmluZyhlcXVhbFRvKCJoZWxsbyBTcHJpbmcgQm9vdCBpbnZva2U4MDgwIikpKTsKICB9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJ0ZXN0IikK</text>
       </register>
-      <register name="4" type="4">
-        <text>@Test
-  public void index() throws Exception {
-    mockMvc = MockMvcBuilders.webAppContextSetup(context).build();
-    mockMvc.perform(MockMvcRequestBuilders.get(&quot;/hello&quot;)
-        .accept(MediaType.ALL))
-        .andExpect(MockMvcResultMatchers.status().isOk()).andDo(</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgLyoqCiAgICog5Yid5aeL5YyWIE1WQyDnmoTnjq/looMKICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRG8oTW9ja012Y1Jlc3VsdEhhbmRsZXJzLnByaW50KCkpOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBJbnRlcmZhY2UgdG8gcHJvdmlkZSBjb25maWd1cmF0aW9uIGZvciBhIHdlYiBhcHBsaWNhdGlvbi4KICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgMTExCg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAg5L2c6ICF77yaS3JvbkNoYW4KICDmnaXmupDvvJpDU0ROCiAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1OTE1Mzg0L2FydGljbGUvZGV0YWlscy84MDIyNzI5NyAKICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBNb2NrTXZjIG1vY2tNdmM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNbMF0gPSAnMic7CiAgICB2YWx1ZS5zZXRBY2Nlc3NpYmxlKCk7Cg==</text>
+        <text encoding="base64">QFdlYk12Y1Rlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KGNsYXNzZXMgPSBEZW1vQXBwbGljYXRpb24uY2xhc3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
