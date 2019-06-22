@@ -78,6 +78,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application-local2.yml" timestamp="1561184815030">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/input/Choises.java" timestamp="1548747224531">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -737,6 +742,11 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application-local1.yml" timestamp="1561184810973">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/resource/application.properties" timestamp="1548750616376">
         <mark key="[" line="13" column="0" />
@@ -2120,7 +2130,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/java/workspace/hello-service/src/main/resources/application.yml" timestamp="1561039063370">
+      <file name="$USER_HOME$/java/workspace/hello-service/src/main/resources/application.yml" timestamp="1561185418439">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
@@ -2161,11 +2171,11 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application.yml" timestamp="1561173404048">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="29" />
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application.yml" timestamp="1561185438684">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1561173555603">
         <mark key="[" line="0" column="0" />
@@ -2631,6 +2641,13 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application-local3.yml" timestamp="1561184817948">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/unify/ApplicationContext.java" timestamp="1528873603020">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="8" column="0" />
@@ -2921,7 +2938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="8" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/Parse.java" />
       <jump line="36" column="0" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
       <jump line="54" column="15" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
       <jump line="9" column="33" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" />
@@ -3021,6 +3037,7 @@
       <jump line="16" column="25" filename="$USER_HOME$/java/workspace/demo/src/main/resources/application.yml" />
       <jump line="13" column="7" filename="$USER_HOME$/java/workspace/demo/src/main/resources/application.yml" />
       <jump line="112" column="13" filename="$USER_HOME$/java/workspace/hello-service/pom.xml" />
+      <jump line="8" column="20" filename="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application-local3.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3034,46 +3051,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>com.hello.service.HelloApplication</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>com.hello.service.HelloApplication</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlY2hvIG1lc3NhZ2U9IiR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9Ii8+Cg==</text>
+      <register name="0" type="4">
+        <text>http://localhost:1111/eureka,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDExMTEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4K</text>
+        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgZGlzYwo=</text>
+        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZwYQo=</text>
+        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QKICAgIHByZWZlci1pcC1hZGRyZXNzOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2RkZGQK</text>
+        <text encoding="base64">ICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLXVybDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbmNsdWRlU3lzdGVtU2NvcGU+dHJ1ZTwvaW5jbHVkZVN5c3RlbVNjb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgY2xpZW50Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGV1cmVrYToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb3B5IHRvZGlyPSIvVXNlcnMvbGkvamF2YS9TcHJpbmdDbG91ZE91dCI+IDwhLS0gIOaWh+S7tuWwhuimgei+k+WHuuebruW9lSDlnKhwYXJlbnQgcG9t5Lit57uf5LiA6YWN572u77yM5q2k5aSE5byV55So5Y2z5Y+vLS0+CiAgICAgICAgICAgICAgICAgIDxmaWxlc2V0IGRpcj0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0iPiA8IS0tIOW+heaLt+i0neaWh+S7tueahOebruW9le+8jOm7mOiupOebruW9leWcqOmhueebrueahHRhcmdldOS4iy0tPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlIG5hbWU9IiR7cHJvamVjdC5hcnRpZmFjdElkfS5qYXIiIC8+IDwhLS0g5b6F5ou36LSd5paH5Lu277yM5Y+v5Lul5L2/55So5LiL6Z2i55qE6YCa6YWN56ym77yM6L+Y5Y+v5Lul5piv5YW25LuW55uu5b2V55qE5paH5Lu244CC5q2k5aSE6ZyA6KaB5LiOcHJvamVjdC5idWxpZC5maW5hbE5hbWXlr7nlupTvvIzlkKbliJnlj6/og73mib7kuI3liLDmlofku7YgLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLSA8aW5jbHVkZSBuYW1lPSIqLmphciIgLz4gLS0+CiAgICAgICAgICAgICAgICAgIDwvZmlsZXNldD4KICAgICAgICAgICAgICAgIDwvY29weT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3116,7 +3133,6 @@
         <entry>set nu</entry>
         <entry>set nonu</entry>
         <entry>set nonumber</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry encoding="base64">MTY5LDE3Ni88LyZsdDsvZw==</entry>
         <entry>169,176/e/ee/g</entry>
@@ -3129,6 +3145,7 @@
         <entry>%s/'/&quot;/g</entry>
         <entry>wq</entry>
         <entry>/mymaven/sip</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
