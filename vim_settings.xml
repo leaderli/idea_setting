@@ -245,7 +245,7 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/java/workspace/hello-service/pom.xml" timestamp="1561185981692">
+      <file name="$USER_HOME$/java/workspace/hello-service/pom.xml" timestamp="1561301110950">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -437,6 +437,12 @@
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/Fallback.java" timestamp="1561299907950">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/java/workspace/css/li.css" timestamp="1535348252502">
         <mark key="[" line="34" column="2" />
         <mark key="]" line="34" column="13" />
@@ -455,22 +461,17 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/ConsumerController.java" timestamp="1561187321119">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/ConsumerController.java" timestamp="1561301795367">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/java/Log.java" timestamp="1524755352562">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/coral/src/TestGson.java" timestamp="1561097847786">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/JavaWeb/src/test/HelloServletTest.java" timestamp="1539330371557">
         <mark key="[" line="10" column="36" />
@@ -521,11 +522,6 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot2/src/main/resources/application.yml" timestamp="1561016250819">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-      </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/util/Constant.java" timestamp="1537108176385">
         <mark key="[" line="6" column="58" />
         <mark key="]" line="10" column="47" />
@@ -549,11 +545,6 @@
         <mark key="]" line="55" column="25" />
         <mark key="^" line="63" column="8" />
         <mark key="." line="55" column="25" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/miscroserviceorder/src/main/java/com/li/order/controller/OrderController.java" timestamp="1560529069140">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/aop/IHelloWorldService.java" timestamp="1558451835934">
         <mark key="[" line="14" column="2" />
@@ -639,6 +630,13 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/HelloFallbackHandler.java" timestamp="1561300478542">
+        <mark key="'" line="2" column="34" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/tomcat/Response.java" timestamp="1530778053329">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="48" />
@@ -669,7 +667,7 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561297855237">
+      <file name="/Dummy.txt" timestamp="1561301606059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/model/BookRepository.java" timestamp="1540965277583">
@@ -732,11 +730,11 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/controller/HelloController.java" timestamp="1561187668728">
-        <mark key="[" line="11" column="88" />
-        <mark key="]" line="11" column="87" />
-        <mark key="." line="11" column="87" />
-        <mark key="^" line="11" column="87" />
+      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/controller/HelloController.java" timestamp="1561302199440">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/TtsPrompt.java" timestamp="1548227430077">
         <mark key="[" line="4" column="22" />
@@ -1001,6 +999,11 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
+      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/HelloApplication.java" timestamp="1561299665020">
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/java/workspace/switch/src/servlet/Core.java" timestamp="1539248482046">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1145,6 +1148,12 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/HelloService.java" timestamp="1561301175557">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="17" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/test.yml" timestamp="1540946688964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1265,12 +1274,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/pom.xml" timestamp="1561187204530">
+      <file name="$USER_HOME$/java/workspace/consumer/pom.xml" timestamp="1561300726578">
         <mark key="'" line="36" column="15" />
-        <mark key="[" line="77" column="45" />
-        <mark key="]" line="77" column="63" />
-        <mark key="." line="77" column="63" />
-        <mark key="^" line="77" column="63" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/MyUserDetailsService.java" timestamp="1541493883584">
         <mark key="[" line="0" column="10" />
@@ -2203,13 +2212,13 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application.yml" timestamp="1561297805686">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application.yml" timestamp="1561301570576">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1561297839748">
+      <file name="/fragment.java" timestamp="1561301602447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2433,11 +2442,6 @@
         <mark key="]" line="205" column="43" />
         <mark key="^" line="205" column="43" />
         <mark key="." line="205" column="43" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/study/src/li/concurrency/ExecutorsTest.java" timestamp="1560529437942">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/parse/Parse.java" timestamp="1548071387465">
         <mark key="[" line="74" column="52" />
@@ -2764,6 +2768,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon/2.3.0/ribbon-2.3.0.jar!/com/netflix/ribbon/proxy/annotation/Hystrix.class" timestamp="1561300356946" />
       <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CyclicBarrierTest.java" timestamp="1554552706627">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="19" column="0" />
@@ -2914,8 +2919,10 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/ConsumerApplication.java" timestamp="1561186993964">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/ConsumerApplication.java" timestamp="1561299694417">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/tomcat/src/test/java/core/ServerTest.java" timestamp="1530803388823">
         <mark key="[" line="17" column="33" />
@@ -2973,8 +2980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="15" filename="$USER_HOME$/java/workspace/test/src/main/java/parse/IVRParse.java" />
-      <jump line="9" column="33" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" />
       <jump line="46" column="17" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" />
       <jump line="20" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/TtsEngine.java" />
       <jump line="33" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/spring/Spring.java" />
@@ -3073,6 +3078,8 @@
       <jump line="112" column="13" filename="$USER_HOME$/java/workspace/hello-service/pom.xml" />
       <jump line="8" column="20" filename="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application-local3.yml" />
       <jump line="35" column="15" filename="$USER_HOME$/java/workspace/consumer/pom.xml" />
+      <jump line="2" column="13" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/HelloFallbackHandler.java" />
+      <jump line="7" column="34" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/HelloFallbackHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3086,52 +3093,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>helloFallback()</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>helloFallback()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbHNlXD4=</text>
+        <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>http://localhost:1111/eureka</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN0VGVtcGxhdGUuZ2V0Rm9yRW50aXR5KCJodHRwOi8vSEVMTE8tU0VSVklDRS9oZWxsbyIsIFN0cmluZy5jbGFzcykuZ2V0Qm9keSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzb3V0Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTUUxPdXRwdXQK</text>
+        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICBsb2cuaW5mbygiU3BlbmQgdGltZSA6ICIgKyAoZW5kIC0gc3RhcnQpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWV9IikKCVN0cmluZyB2YWx1ZTsK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCwgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odmFsdWUpOwo=</text>
+        <text encoding="base64">QHNsNGoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCIvaGVsbG8sIGhvc3Q6IiApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VJbnN0YW5jZSBzZXJ2aWNlSW5zdGFuY2UgPSBjbGllbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlOgo=</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0taGVsbG8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3ByaW5nLWNsb3VkLXN0YXJ0ZXItbmV0ZmxpeC1oeXN0cml4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbHNlXD4=</last-search>
+      <last-search encoding="base64">XDxpbXBsZW1lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbHNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBsZW1lbnRzXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxlbHNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -3139,8 +3146,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0eXBlXD4=</entry>
-        <entry encoding="base64">XDxjb250ZXh0UGFyYW1OYW1lXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxQcm9tcHRcPg==</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
@@ -3159,6 +3164,8 @@
         <entry encoding="base64">XDxvXD4=</entry>
         <entry>啊啊</entry>
         <entry encoding="base64">XDxlbHNlXD4=</entry>
+        <entry encoding="base64">XDxIZWxsb0ZhbGxiYWNrSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxpbXBsZW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/\//aa/g</entry>
