@@ -597,6 +597,12 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/java/com/euraka/server/config/Config.java" timestamp="1561297899322">
+        <mark key="[" line="15" column="91" />
+        <mark key="]" line="15" column="95" />
+        <mark key="." line="15" column="95" />
+        <mark key="^" line="15" column="95" />
+      </file>
       <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Voice.java" timestamp="1551768324781">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -663,7 +669,7 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561188051142">
+      <file name="/Dummy.txt" timestamp="1561297855237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/model/BookRepository.java" timestamp="1540965277583">
@@ -1916,6 +1922,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/java/com/euraka/server/EurekaApplication.java" timestamp="1561297666951">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/Huntaway/WEB-INF/js/menu.js" timestamp="1539824939377">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="9" />
@@ -2192,13 +2203,13 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application.yml" timestamp="1561189070926">
+      <file name="$USER_HOME$/java/workspace/eureka-server/src/main/resources/application.yml" timestamp="1561297805686">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1561187019884">
+      <file name="/fragment.java" timestamp="1561297839748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -3075,10 +3086,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Date</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbHNlXD4=</text>
@@ -3087,31 +3098,31 @@
         <text>http://localhost:1111/eureka</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzb3V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD50ZXN0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD50ZXN0PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuNTwvdmVyc2lvbj4KICAgICAgPHNjb3BlPnN5c3RlbTwvc2NvcGU+CiAgICAgIDxzeXN0ZW1QYXRoPi9Vc2Vycy9saS9qYXZhL2xpYi9qc3RsL3RhZ2xpYnMtc3RhbmRhcmQtanN0bGVsLTEuMi41Lmphcjwvc3lzdGVtUGF0aD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICBTUUxPdXRwdXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPG91dHB1dC5qYXIuZGlyZWN0b3I+L1VzZXJzL2xpL2phdmEvU3ByaW5nQ2xvdWRPdXQ8L291dHB1dC5qYXIuZGlyZWN0b3I+Cg==</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWV9IikKCVN0cmluZyB2YWx1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4K</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDExMTEK</text>
+        <text encoding="base64">CQlzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QK</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiBsb2NhbGhvc3QKICAgIHByZWZlci1pcC1hZGRyZXNzOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
