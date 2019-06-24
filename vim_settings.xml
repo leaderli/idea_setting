@@ -449,11 +449,11 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/resources/application.yml" timestamp="1561186867180">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/resources/application.yml" timestamp="1561374691749">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/fn/TestFn.java" timestamp="1523418970636">
         <mark key="[" line="16" column="40" />
@@ -461,11 +461,10 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/ConsumerController.java" timestamp="1561372573382">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="43" />
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/ConsumerController.java" timestamp="1561375866319">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/java/Log.java" timestamp="1524755352562">
         <mark key="[" line="6" column="27" />
@@ -730,11 +729,11 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/controller/HelloController.java" timestamp="1561302199440">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
+      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/controller/HelloController.java" timestamp="1561375052450">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/TtsPrompt.java" timestamp="1548227430077">
         <mark key="[" line="4" column="22" />
@@ -1148,11 +1147,11 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/HelloService.java" timestamp="1561372594094">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="22" column="10" />
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/HelloService.java" timestamp="1561376837192">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/test.yml" timestamp="1540946688964">
         <mark key="[" line="0" column="0" />
@@ -1502,6 +1501,13 @@
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/CacheCommand.java" timestamp="1561375353128">
+        <mark key="'" line="10" column="52" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/lock/Test.java" timestamp="1522933907143">
         <mark key="[" line="2" column="19" />
@@ -2218,7 +2224,7 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1561372448457">
+      <file name="/fragment.java" timestamp="1561373545808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2665,6 +2671,12 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="50" />
       </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/CacheController.java" timestamp="1561376898646">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/util/ThreadUtil.java" timestamp="1543810607150">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="24" />
@@ -2980,8 +2992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="17" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/AbstractCurrentVoiceList.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/TtsEngine.java" />
       <jump line="33" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/spring/Spring.java" />
       <jump line="47" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounce.java" />
       <jump line="6" column="45" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/SipPhrasePrompt.java" />
@@ -3080,6 +3090,8 @@
       <jump line="35" column="15" filename="$USER_HOME$/java/workspace/consumer/pom.xml" />
       <jump line="2" column="13" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/HelloFallbackHandler.java" />
       <jump line="7" column="34" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/HelloFallbackHandler.java" />
+      <jump line="12" column="52" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/CacheCommand.java" />
+      <jump line="35" column="15" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/CacheController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3092,44 +3104,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAogIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICBIeXN0cml4UmVxdWVzdENvbnRleHQuc2V0Q29udGV4dE9uQ3VycmVudFRocmVhZChIeXN0cml4UmVxdWVzdENvbnRleHQuaW5pdGlhbGl6ZUNvbnRleHQoKSk7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>getContextForCurrentThread();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAUmVxdWVzdE1hcHBpbmcoIi9jb25zdW1lciIpCiAgcHVibGljIFN0cmluZyBjb25zdW1lcigpIHsKICAgIHJldHVybiBoZWxsb1NlcnZpY2UuaGVsbG9TZXJ2aWNlKCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGhlbGxvU2VydmljZS5jYWNoZVNlcnZpY2UoaWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkID0gIjEiCg==</text>
+        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAogIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICBIeXN0cml4UmVxdWVzdENvbnRleHQuc2V0Q29udGV4dE9uQ3VycmVudFRocmVhZChIeXN0cml4UmVxdWVzdENvbnRleHQuaW5pdGlhbGl6ZUNvbnRleHQoKSk7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgSGVsbG9TZXJ2aWNlKFNldHRlciBzZXR0ZXIpIHsKICAgIHN1cGVyKHNldHRlcik7CiAgfQo=</text>
+        <text encoding="base64">ICBAQ2FjaGVSZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASHlzdHJpeENvbW1hbmQoZmFsbGJhY2tNZXRob2QgPSAiaGVsbG9GYWxsYmFjayIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN0VGVtcGxhdGUuZ2V0Rm9yRW50aXR5KCJodHRwOi8vSEVMTE8tU0VSVklDRS9oZWxsbyIsIFN0cmluZy5jbGFzcykuZ2V0Qm9keSgpOwo=</text>
+        <text encoding="base64">ICBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
+        <text encoding="base64">ICBIZWxsb3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICBsb2cuaW5mbygiU3BlbmQgdGltZSA6ICIgKyAoZW5kIC0gc3RhcnQpKTsK</text>
+        <text encoding="base64">QFBvc3RDb25zdHJ1Y3QKICBwdWJsaWMgdm9pZCBpbml0KCkgewoKICAgIGxvZy5pbmZvKCJpbml0IGNvbnRleHQiKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCwgKTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsKICBwcml2YXRlIEh5c3RyaXhDb21tYW5kS2V5IGNvbW1hbmRLZXk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHNsNGoK</text>
+        <text encoding="base64">ICAgIGNvbW1hbmRLZXkgPSBIeXN0cml4Q29tbWFuZEtleS5GYWN0b3J5LmFzS2V5KCJjb21tYW5kS2V5Iik7CgogICAgSHlzdHJpeFJlcXVlc3RDb250ZXh0LmluaXRpYWxpemVDb250ZXh0KCk7CiAgICBsb2cuaW5mbygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tYmVnaW4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7CiAgICBIeXN0cml4Q29tbWFuZDxTdHJpbmc+IGNhY2hlQ29tbWFuZCA9IG5ldyBDYWNoZUNvbW1hbmQoSHlzdHJpeENvbW1hbmQuU2V0dGVyLndpdGhHcm91cEtleShIeXN0cml4Q29tbWFuZEdyb3VwS2V5LkZhY3RvcnkuYXNLZXkoIiIpKS5hbmRDb21tYW5kS2V5KGNvbW1hbmRLZXkpLCByZXN0VGVtcGxhdGUsIGlkKTsKCiAgICBsb2cuaW5mbygiLS0tLS0tLS0tLS0tMS0tLS0tLS0tLS0tLS0tIiArIGNhY2hlQ29tbWFuZC5leGVjdXRlKCkpOwogICAgY2FjaGVDb21tYW5kID0gbmV3IENhY2hlQ29tbWFuZChIeXN0cml4Q29tbWFuZC5TZXR0ZXIud2l0aEdyb3VwS2V5KEh5c3RyaXhDb21tYW5kR3JvdXBLZXkuRmFjdG9yeS5hc0tleSgiIikpLmFuZENvbW1hbmRLZXkoY29tbWFuZEtleSksIHJlc3RUZW1wbGF0ZSwgaWQpOwogICAgU3RyaW5nIHJlc3VsdCA9IGNhY2hlQ29tbWFuZC5leGVjdXRlKCk7CiAgICBsb2cuaW5mbygiLS0tLS0tLS0tLS0tMi0tLS0tLS0tLS0tLS0tIiArIHJlc3VsdCk7CiAgICBjYWNoZUNvbW1hbmQgPSBuZXcgQ2FjaGVDb21tYW5kKEh5c3RyaXhDb21tYW5kLlNldHRlci53aXRoR3JvdXBLZXkoSHlzdHJpeENvbW1hbmRHcm91cEtleS5GYWN0b3J5LmFzS2V5KCIiKSkuYW5kQ29tbWFuZEtleShjb21tYW5kS2V5KSwgcmVzdFRlbXBsYXRlLCBpZCk7CiAgICBsb2cuaW5mbygiLS0tLS0tLS0tLS0tMy0tLS0tLS0tLS0tLS0tIiArIGNhY2hlQ29tbWFuZC5leGVjdXRlKCkpOwogICAgbG9nLmluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLWVuZC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCIvaGVsbG8sIGhvc3Q6IiApOwo=</text>
+        <text encoding="base64">ICAgIGNhY2hlQ29tbWFuZCA9IG5ldyBDYWNoZUNvbW1hbmQoZ3JvdXBLZXksIHJlc3RUZW1wbGF0ZSwgaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
