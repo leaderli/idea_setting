@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/java/workspace/switch/web/WEB-INF/web.xml" timestamp="1534903409150">
@@ -273,11 +273,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/java/workspace/yaona/src/main/java/com/demo/yaona/DigitsConvert.java" timestamp="1561429271578">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/java/workspace/yaona/src/main/java/com/demo/yaona/DigitsConvert.java" timestamp="1561464980571">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="40" column="12" />
+        <mark key="^" line="40" column="12" />
+        <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/java/workspace/demo/pom.xml" timestamp="1561035829112">
         <mark key="[" line="17" column="36" />
@@ -1357,11 +1357,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/yaona/src/test/java/com/demo/yaona/DigitsConvertTest.java" timestamp="1561425784681">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/java/workspace/yaona/src/test/java/com/demo/yaona/DigitsConvertTest.java" timestamp="1561464320955">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/study/Fruit.java" timestamp="1557905819814">
         <mark key="[" line="3" column="19" />
@@ -3122,10 +3122,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
@@ -3134,31 +3134,31 @@
         <text encoding="base64">ICAgIFJVTEVSLnB1dCgiMCIsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJVTEVSLnB1dCgiMCIsIG51bGwpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFJVTEVSLnB1dCgiMCIsIG51bGwpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAge30se30K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBrCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmcuYmFlbGR1bmcuZXhlY3V0YWJsZS5FeGVjdXRhYmxlTWF2ZW5KYXIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0LmFkZCgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb3V0KGRpZ2l0cyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIGRpZ2l0IDogZGlnaXRzKSB7IFN0cmluZ1tdIGMgPSBSVUxFUi5nZXQoZGlnaXQpOwogICAgICBmb3IgKFN0cmluZyBzIDogYykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnQocyk7CgogICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZvcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmKGRpZ2l0cyE9bnVsbCYmZGlnaXRzLmxlbmd0aD4wKXsKICAgICAgU3lzdGVtLm91dC5wcmludChkaWdpdHNbMF0pOwogICAgICBpZihkaWdpdHMubGVuZ3RoPjEpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoQXJyYXlzLmNvcHlPZlJhbmdlKGRpZ2l0cyAsMSAsZGlnaXRzLmxlbmd0aCkpKTsKICAgICAgICBvdXQoQXJyYXlzLmNvcHlPZlJhbmdlKGRpZ2l0cyAsMSAsZGlnaXRzLmxlbmd0aCkpOwogICAgICB9CiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludChkaWdpdHNbMF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
