@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/java/workspace/switch/web/WEB-INF/web.xml" timestamp="1534903409150">
@@ -273,11 +273,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/java/workspace/yaona/src/main/java/com/demo/yaona/DigitsConvert.java" timestamp="1561427994056">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/java/workspace/yaona/src/main/java/com/demo/yaona/DigitsConvert.java" timestamp="1561429271578">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="$USER_HOME$/java/workspace/demo/pom.xml" timestamp="1561035829112">
         <mark key="[" line="17" column="36" />
@@ -3121,11 +3121,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJVTEVSLnB1dCgiMCIsIG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
