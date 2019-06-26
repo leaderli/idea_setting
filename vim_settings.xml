@@ -465,7 +465,7 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/resources/application.yml" timestamp="1561391550046">
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/resources/application.yml" timestamp="1561529696374">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="23" />
         <mark key="." line="5" column="23" />
@@ -1178,11 +1178,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/java/workspace/route/src/main/resources/application.yml" timestamp="1561528669620">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/java/workspace/route/src/main/resources/application.yml" timestamp="1561530113739">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/test/java/TestBook.java" timestamp="1558353628828">
         <mark key="[" line="21" column="2" />
@@ -3028,7 +3029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/spring/Spring.java" />
       <jump line="47" column="0" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounce.java" />
       <jump line="6" column="45" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/SipPhrasePrompt.java" />
       <jump line="18" column="17" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/SipPhrase.java" />
@@ -3128,6 +3128,7 @@
       <jump line="7" column="34" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/handler/HelloFallbackHandler.java" />
       <jump line="12" column="52" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/CacheCommand.java" />
       <jump line="35" column="15" filename="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/CacheController.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/java/workspace/route/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3141,16 +3142,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ConsumerApplication</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>ConsumerApplication</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJVTEVSLnB1dCgiMCIsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgIGFwaS1hOgogICAgICBwYXRoOiAvYXBpLWEvKioKICAgICAgc2VydmljZUlkOiAgaGVsbG8tc2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGVuYWJsZXMK</text>
