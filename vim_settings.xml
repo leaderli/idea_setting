@@ -387,7 +387,6 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/META-INF/MANIFEST.MF" timestamp="1561038401202" />
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/thread/FutureUtil.java" timestamp="1533783858756">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="22" />
@@ -740,7 +739,7 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/controller/HelloController.java" timestamp="1561389283126">
+      <file name="$USER_HOME$/java/workspace/hello-service/src/main/java/com/hello/service/controller/HelloController.java" timestamp="1561514015405">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
@@ -978,6 +977,12 @@
         <mark key="]" line="197" column="0" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/HelloFeignService.java" timestamp="1561514053844">
+        <mark key="[" line="11" column="86" />
+        <mark key="]" line="11" column="85" />
+        <mark key="." line="11" column="85" />
+        <mark key="^" line="11" column="85" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/dispatch/RunByScessionLanguage.java" timestamp="1548483325373">
         <mark key="[" line="7" column="8" />
@@ -1278,12 +1283,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/pom.xml" timestamp="1561426240348">
-        <mark key="'" line="36" column="15" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="43" column="46" />
+      <file name="$USER_HOME$/java/workspace/consumer/pom.xml" timestamp="1561513434533">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="37" column="57" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="37" column="56" />
+        <mark key="^" line="37" column="56" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/MyUserDetailsService.java" timestamp="1541493883584">
         <mark key="[" line="0" column="10" />
@@ -1568,7 +1573,6 @@
         <mark key="." line="107" column="57" />
         <mark key="^" line="107" column="57" />
       </file>
-      <file name="$USER_HOME$/java/workspace/coral/lib/VPAppLogClient_7.2.0.jar!/com/avaya/vp/ws/EPMWebServicesClientBase.class" timestamp="1561098789870" />
       <file name="$USER_HOME$/java/workspace/UnifyApp/src/huzm/xcommander/GUID.java" timestamp="1532073500357">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -1761,6 +1765,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/HelloFeignController.java" timestamp="1561514109237">
+        <mark key="[" line="19" column="85" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="20" column="37" />
       </file>
       <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/data/CacheTest.java" timestamp="1552882821024">
         <mark key="[" line="12" column="0" />
@@ -2797,7 +2807,6 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon/2.3.0/ribbon-2.3.0.jar!/com/netflix/ribbon/proxy/annotation/Hystrix.class" timestamp="1561300356946" />
       <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CyclicBarrierTest.java" timestamp="1554552706627">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="19" column="0" />
@@ -2948,10 +2957,11 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/ConsumerApplication.java" timestamp="1561299694417">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/ConsumerApplication.java" timestamp="1561513460478">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
       </file>
       <file name="$USER_HOME$/java/workspace/tomcat/src/test/java/core/ServerTest.java" timestamp="1530803388823">
         <mark key="[" line="17" column="33" />
@@ -3122,10 +3132,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
@@ -3134,31 +3144,31 @@
         <text encoding="base64">ICAgIFJVTEVSLnB1dCgiMCIsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0LmFkZCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiaGVsbG8iICsgaWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJjYWNoZSBoZWxsbyAiICsgaWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3V0KGRpZ2l0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QGVuYWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIGRpZ2l0IDogZGlnaXRzKSB7IFN0cmluZ1tdIGMgPSBSVUxFUi5nZXQoZGlnaXQpOwogICAgICBmb3IgKFN0cmluZyBzIDogYykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnQocyk7CgogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">QGYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKGRpZ2l0cyE9bnVsbCYmZGlnaXRzLmxlbmd0aD4wKXsKICAgICAgU3lzdGVtLm91dC5wcmludChkaWdpdHNbMF0pOwogICAgICBpZihkaWdpdHMubGVuZ3RoPjEpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoQXJyYXlzLmNvcHlPZlJhbmdlKGRpZ2l0cyAsMSAsZGlnaXRzLmxlbmd0aCkpKTsKICAgICAgICBvdXQoQXJyYXlzLmNvcHlPZlJhbmdlKGRpZ2l0cyAsMSAsZGlnaXRzLmxlbmd0aCkpOwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi4xLjEuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludChkaWdpdHNbMF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
