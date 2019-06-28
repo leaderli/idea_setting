@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/leapmie/spring-framework-master-note.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1255772117/digitsConvert" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/java/workspace" />
