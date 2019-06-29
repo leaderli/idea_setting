@@ -299,6 +299,9 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/PreFilter.groovy" timestamp="1561791120348">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/p2/Node.java" timestamp="1522508130616">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
@@ -1079,11 +1082,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/java/com/li/zuul/ZuulApplication.java" timestamp="1561791019946">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="32" />
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/java/com/li/zuul/ZuulApplication.java" timestamp="1561792376654">
+        <mark key="[" line="28" column="100" />
+        <mark key="]" line="28" column="100" />
+        <mark key="." line="28" column="100" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/target/classes/config_uat.json" timestamp="1536724849232">
         <mark key="[" line="2" column="10" />
@@ -1396,6 +1399,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/filter/pre/PreFilter.groovy" timestamp="1561792587114">
+        <mark key="'" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/util/FileUtils.java" timestamp="1548812194105">
         <mark key="[" line="15" column="69" />
@@ -2951,10 +2957,10 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/application.yml" timestamp="1561790737755">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/application.yml" timestamp="1561792396365">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/config/TestConfig.java" timestamp="1527002638114">
         <mark key="[" line="20" column="15" />
@@ -2986,11 +2992,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/java/com/li/zuul/config/FilterConfiguration.java" timestamp="1561790264105">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/java/com/li/zuul/config/FilterConfiguration.java" timestamp="1561791526052">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/test/comsip/util/FileUtilsTest.java" timestamp="1548234457768">
         <mark key="[" line="0" column="11" />
@@ -3106,6 +3112,11 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="50" />
       </file>
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/java/com/li/zuul/filter/ThrowExceptionFilter.java" timestamp="1561791406353">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+      </file>
       <file name="$USER_HOME$/java/workspace/tomcat/src/test/java/core/ServerTest.java" timestamp="1530803388823">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="16" column="62" />
@@ -3169,7 +3180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="32" filename="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounce.java" />
       <jump line="13" column="2" filename="$USER_HOME$/java/workspace/sip/test/com/sip/spring/MyBeanPostProcessor.java" />
       <jump line="10" column="0" filename="$USER_HOME$/java/workspace/sip/test/com/sip/spring/SpringBeanProcessorTest.java" />
       <jump line="31" column="0" filename="$USER_HOME$/java/workspace/sip/test/com/sip/spring/Hello.java" />
@@ -3269,6 +3279,7 @@
       <jump line="54" column="0" filename="$USER_HOME$/java/workspace/spring-cloud/config/pom.xml" />
       <jump line="99" column="105" filename="$USER_HOME$/java/workspace/spring-cloud/config/pom.xml" />
       <jump line="6" column="12" filename="$USER_HOME$/java/workspace/spring-cloud/config/src/main/java/com/li/config/ConfigApplication.java" />
+      <jump line="4" column="17" filename="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/filter/pre/PreFilter.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3282,10 +3293,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5zdGFuY2Ug</text>
+        <text>pre</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -3294,31 +3305,31 @@
         <text encoding="base64">ICAgIGxvZy5lcnJvcigiamF2YXguc2VydmxldCxlcnJvci5tZXNzYWdlIDoge30iLCByZXF1ZXN0LmdldEF0dHJpYnV0ZSgiamF2YXguc2VydmxldCxlcnJvci5tZXNzYWdlIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">cGFja2FnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmxvYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvb3Q6IAo=</text>
+        <text encoding="base64">Y29tLmxpLnp1dWwuZmlsdGVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvb3Q6IGZpbHRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">enV1bC5mCg==</text>
+        <text encoding="base64">cHJpdmF0ZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">enV1bC5mCg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">enV1bC5mCg==</text>
+        <text encoding="base64">bG9nZ2luZzoKICBsZXZlbDoKICAgICAgb3JnOgogICAgICAgIHNwcmluZ2ZyYW1ld29yazoKICAgICAgICAgIGNsb3VkOiAgZGVidWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaWx0ZXI6Cg==</text>
+        <text encoding="base64">cGFja2FnZSBmaWx0ZXIucHJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
