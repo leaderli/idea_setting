@@ -693,7 +693,7 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561817192052">
+      <file name="/Dummy.txt" timestamp="1562059885156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/model/BookRepository.java" timestamp="1540965277583">
@@ -963,7 +963,7 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/pom.xml" timestamp="1561814326602">
+      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/pom.xml" timestamp="1562059973795">
         <mark key="[" line="63" column="52" />
         <mark key="]" line="65" column="23" />
         <mark key="." line="65" column="23" />
@@ -2146,6 +2146,12 @@
         <mark key="^" line="81" column="26" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/spring-cloud/.gitignore" timestamp="1562059772055">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/study/stack/StackUtilTest.java" timestamp="1533136763564">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="41" />
@@ -3240,7 +3246,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNoLnFvcy5sb2diYWNrLmNvcmUuam9yYW4uSm9yYW5Db25maWd1cmF0b3JCYXNlCg==</text>
+        <text encoding="base64">Y29uZmlnL3NyYy90ZXN0Lwo=</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -3252,31 +3258,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZnJvbX0iKQogIHByaXZhdGUgU3RyaW5nIGZyb207Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoLnFvcy5sb2diYWNrLmNvcmUuam9yYW4uSm9yYW5Db25maWd1cmF0b3JCYXNlCg==</text>
+        <text encoding="base64">Y29uZmlnL3NyYy90ZXN0Lwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7dG99IikKICBwcml2YXRlIFN0cmluZyB0bzsK</text>
+        <text encoding="base64">enV1bC9zcmMvdGVzdC8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlOiBkZXYK</text>
+        <text encoding="base64">enV1bC9zcmMvbWFpbi9yZXNvdXJjZXMvZmlsdGVyLnBvc3QvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">enV1bC9zcmMvbWFpbi9qYXZhL2NvbS9saS96dXVsL3JvdXRlLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCg==</text>
+        <text encoding="base64">c2hvcnR5L3NyYy90ZXN0Lwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">c2hvcnR5L3NyYy9tYWluL3Jlc291cmNlcy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCg==</text>
+        <text encoding="base64">cmliYm9uL3NyYy9tYWluL3Jlc291cmNlcy90ZW1wbGF0ZXMvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZzoK</text>
+        <text encoding="base64">cmliYm9uL3NyYy9tYWluL3Jlc291cmNlcy9zdGF0aWMvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCiAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgcHJvZmlsZTogZGV2Cg==</text>
+        <text encoding="base64">cmliYm9uL3NyYy9tYWluL2phdmEvY29tL2xpL3JpYmJvbi9oYW5kbGVyLwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
