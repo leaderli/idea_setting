@@ -627,7 +627,6 @@
         <mark key="." line="15" column="95" />
         <mark key="^" line="15" column="95" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/ribbon/src/main/java/com/li/ribbon/RibbonApplication.java" timestamp="1561813053089" />
       <file name="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Voice.java" timestamp="1551768324781">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1495,7 +1494,6 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/WebApplicationType.class" timestamp="1561811980814" />
       <file name="$USER_HOME$/java/workspace/spring-cloud/config/pom.xml" timestamp="1561811519785">
         <mark key="'" line="107" column="105" />
         <mark key="[" line="38" column="18" />
@@ -1658,12 +1656,12 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/config/src/main/java/com/li/config/ConfigApplication.java" timestamp="1561813062136">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/java/workspace/spring-cloud/config/src/main/java/com/li/config/ConfigApplication.java" timestamp="1562053407930">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="56" />
+        <mark key="^" line="12" column="56" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/queue/BlockQueue.java" timestamp="1533630912624">
         <mark key="[" line="14" column="0" />
