@@ -1656,12 +1656,11 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/config/src/main/java/com/li/config/ConfigApplication.java" timestamp="1562053407930">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="12" column="57" />
-        <mark key="]" line="12" column="56" />
-        <mark key="." line="12" column="56" />
-        <mark key="^" line="12" column="56" />
+      <file name="$USER_HOME$/java/workspace/spring-cloud/config/src/main/java/com/li/config/ConfigApplication.java" timestamp="1562059087139">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/queue/BlockQueue.java" timestamp="1533630912624">
         <mark key="[" line="14" column="0" />
@@ -3241,7 +3240,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7dG99IikKICBwcml2YXRlIFN0cmluZyB0bzsK</text>
+        <text encoding="base64">ICAgIGNoLnFvcy5sb2diYWNrLmNvcmUuam9yYW4uSm9yYW5Db25maWd1cmF0b3JCYXNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -3253,31 +3252,31 @@
         <text encoding="base64">ICBAVmFsdWUoIiR7ZnJvbX0iKQogIHByaXZhdGUgU3RyaW5nIGZyb207Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7dG99IikKICBwcml2YXRlIFN0cmluZyB0bzsK</text>
+        <text encoding="base64">ICAgIGNoLnFvcy5sb2diYWNrLmNvcmUuam9yYW4uSm9yYW5Db25maWd1cmF0b3JCYXNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlOiBkZXYK</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7dG99IikKICBwcml2YXRlIFN0cmluZyB0bzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlOiBkZXYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZW5hYmxlZDogdHJ1ZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZW5hYmxlZDogdHJ1ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZzoK</text>
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCiAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgcHJvZmlsZTogZGV2Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHBsaWNhdGlvbjoKICAgIG5hbWU6IGRpZGlzcGFjZQo=</text>
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vbG9jYWxob3N0OjcwMDEvCiAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgcHJvZmlsZTogZGV2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
