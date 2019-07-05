@@ -1,8 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
