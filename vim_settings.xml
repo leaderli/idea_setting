@@ -1515,13 +1515,6 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/config/pom.xml" timestamp="1561811519785">
-        <mark key="'" line="107" column="105" />
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-        <mark key="^" line="31" column="16" />
-      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1562294702067">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1581,6 +1574,12 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/RegexTest.java" timestamp="1562381119778">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="54" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/exception/BookIdMismatchException.java" timestamp="1540977000190">
         <mark key="[" line="2" column="45" />
@@ -2684,6 +2683,9 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="21" column="28" />
       </file>
+      <file name="/RegExp Fragment (RegexTest.java:153).regexp" timestamp="1562381060532">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/sip/resource/git" timestamp="1548435091198">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="7" />
@@ -2887,13 +2889,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/java/com/li/zuul/filter/ConfigFilter.java" timestamp="1561812548130">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="8" column="12" />
-      </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/spring/ConditionOnProperties.java" timestamp="1548302030805">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="31" />
@@ -2965,13 +2960,6 @@
         <mark key="]" line="11" column="36" />
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/application.yml" timestamp="1561815923646">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/config/TestConfig.java" timestamp="1527002638114">
         <mark key="[" line="20" column="15" />
@@ -3301,11 +3289,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dTZXJ2aWNlLnF1ZXJ5QWxsKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
