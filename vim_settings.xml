@@ -936,11 +936,11 @@
         <mark key="." line="65" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Node.java" timestamp="1562473478583">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Node.java" timestamp="1562476793489">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/controller/Config.java" timestamp="1543451346454">
         <mark key="[" line="5" column="21" />
@@ -1628,12 +1628,6 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/config/src/main/java/com/li/config/ConfigApplication.java" timestamp="1562059087139">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/study/queue/BlockQueue.java" timestamp="1533630912624">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -2084,6 +2078,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="18" column="6" />
       </file>
+      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/NodeGenerate.java" timestamp="1562477018875">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/main/resources/config.yml" timestamp="1543823698698">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="2" />
@@ -2300,7 +2300,7 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1562293922781">
+      <file name="/fragment.java" timestamp="1562476114321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2756,6 +2756,12 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="50" />
       </file>
+      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/NodeTest.java" timestamp="1562477190465">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/CacheController.java" timestamp="1561391512936">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="47" />
@@ -3207,43 +3213,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>660E7A</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>660E7A</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dTZXJ2aWNlLnF1ZXJ5QWxsKCkpOwo=</text>
+        <text encoding="base64">CQkJTm9kZTxJbnRlZ2VyPiBuZXh0ID0gbmV3IE5vZGU8PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQluZXcgVGhyZWFkKCkuc3RhcnQoKTsK</text>
+        <text encoding="base64">CQkJTm9kZTxJbnRlZ2VyPiBuZXh0ID0gbmV3IE5vZGU8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcyA9ICJhYVxuXGciOwo=</text>
+        <text encoding="base64">CQkJZm9yIChJbnRlZ2VyIGFuSW50IDogaW50cykgewoJCQkJaWYgKG5vZGUgPT0gbnVsbCkgewoJCQkJCW5vZGUgPSBuZXcgTm9kZTw+KCk7CgkJCQkJbm9kZS5kYXRhID0gYW5JbnQ7CgkJCQkJbmV4dCA9IG5vZGU7CgkJCQl9IGVsc2UgewoJCQkJfQoJCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">CQkJCQluZXh0ID0gbmV4dC5uZXh0ID0gbmV3IE5vZGU8PigpOwoJCQkJCW5leHQuZGF0YSA9IGFuSW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJTm9kZTxJbnRlZ2VyPiBub2RlID0gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNYXBwZXIuaW5zZXJ0KGxvZyk7Cg==</text>
+        <text encoding="base64">CQkJCQluZXh0Lm5leHQgPSBuZXcgTm9kZTw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ1NlcnZpY2UucXVlcnlBbGwoKS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gZGF0YSsiLT4iK25leHQ9PTsgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ1NlcnZpY2UucXVlcnlBbGwoKS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">CQkJCSIsIG5leHQ9IiArIG5leHQgKwoJCQkJJ30nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSJkYXRhPSIgKyBkYXRhICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBQcmVkaWNhdGVMbwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gIk5vZGV7IiArCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
