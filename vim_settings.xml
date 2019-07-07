@@ -2597,11 +2597,11 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="/var/folders/cm/7m868_9d6157khw0_m4nwp4h0000gn/T/leetcode-plugin/cn/[7]整数反转.java" timestamp="1562481018907">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="8" />
-        <mark key="^" line="29" column="8" />
-        <mark key="." line="29" column="8" />
+      <file name="/var/folders/cm/7m868_9d6157khw0_m4nwp4h0000gn/T/leetcode-plugin/cn/[7]整数反转.java" timestamp="1562500760441">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounceFactory.java" timestamp="1548229989092">
         <mark key="[" line="10" column="16" />
@@ -3230,8 +3230,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdGFjawo=</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -3243,31 +3243,31 @@
         <text encoding="base64">ICAgICAgIGludCBhID0gbnVtc1swXSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGFjawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaiA9IGkgKyAxOyBqIDwgbnVtcy5sZW5ndGg7IGorKykgewogICAgICAgIGlmIChudW1zW2ldICsgbnVtc1tqXSA9PSB0YXJnZXQpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaiA9IGkgKyAxOyBqIDwgbnVtcy5sZW5ndGg7IGorKykgewogICAgICAgIGlmIChudW1zW2ldICsgbnVtc1tqXSA9PSB0YXJnZXQpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGI9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGI9IDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGludCBiID0gbnVtc1sxXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
