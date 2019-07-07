@@ -2597,11 +2597,11 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="/var/folders/cm/7m868_9d6157khw0_m4nwp4h0000gn/T/leetcode-plugin/cn/[7]整数反转.java" timestamp="1562500760441">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="30" />
+      <file name="/var/folders/cm/7m868_9d6157khw0_m4nwp4h0000gn/T/leetcode-plugin/cn/[7]整数反转.java" timestamp="1562501492475">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/src/com/sip/announce/BaseAnnounceFactory.java" timestamp="1548229989092">
         <mark key="[" line="10" column="16" />
@@ -2647,6 +2647,12 @@
         <mark key="]" line="16" column="7" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/algorithms/leetcode-plugin/cn/[14]最长公共前缀.java" timestamp="1562505869016">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/demo.xml" timestamp="1545200716455">
         <mark key="[" line="4" column="0" />
@@ -3050,6 +3056,11 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/java/workspace/algorithms/leetcode-plugin/cn/[7]整数反转.java" timestamp="1562502530503">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/ConsumerApplication.java" timestamp="1561528494178">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="8" column="50" />
@@ -3230,44 +3241,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdGFjawo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGludCBhID0gbnVtc1swXSAK</text>
+        <text encoding="base64">ICAgIGNoYXJbXSBmaXJzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdGFjawo=</text>
+        <text encoding="base64">ICAgIGNoYXJbXSBmaXJzdCA9IGZpcnN0U3RyLnRvQ2hhckFycmF5KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2hhciBjID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaiA9IGkgKyAxOyBqIDwgbnVtcy5sZW5ndGg7IGorKykgewogICAgICAgIGlmIChudW1zW2ldICsgbnVtc1tqXSA9PSB0YXJnZXQpIHsK</text>
+        <text encoding="base64">ICAgIGNoYXJbXSBmaXJzdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdCA9IHN0cjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGI9IDE7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBmaXJzdCA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGogPSAwOyBqIDwgOyBqKyspIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
