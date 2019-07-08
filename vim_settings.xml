@@ -1191,11 +1191,11 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[28]实现strStr().java" timestamp="1562551907765">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="44" column="13" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="13" />
+      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[28]实现strStr().java" timestamp="1562559498736">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/test.yml" timestamp="1540946688964">
         <mark key="[" line="0" column="0" />
@@ -3267,10 +3267,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -3279,31 +3279,31 @@
         <text encoding="base64">ICAgIGNoYXIgbmVlZGxlcyA9IG5lZWRsZS50b0NoYXJBcnJheSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGlmKGhheXN0YWNrc1tpXSkK</text>
+        <text encoding="base64">ICAgIGlmIChuZWVkbGUuZXF1YWxzKCIiKSkgewogICAgICByZXR1cm4gMDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGhheXN0YWNrLmMgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSArIGogPT0gaGF5c3RhY2subGVuZ3RoKCkpIHsKICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgIGlmIChuZWVkbGVzLmxlbmd0aCA+IGhheXN0YWNrLmxlbmd0aCgpKSB7CiAgICAgIHJldHVybiAtMTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBudW0gOiBudW1zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIGludCBjdXJzb3IgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGludCBmaW5kID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIGhlYWRBID0gbnVsbDsKICAgIExpc3ROb2RlIG5leHQgPSBsMTsKICAgIExpc3ROb2RlIGhlYWRCID0gbDI7CiAgICB3aGlsZSAobDIgIT0gbnVsbCkgewogICAgICB3aGlsZSAobmV4dCAhID0gbnVsbCl7CiAgICAgICAgCiAgICAgICAgaWYgKGhlYWRCLnZhbCA8PSBuZXh0LnZhbCkgewogICAgICAgICAgaWYgKGhlYWRBICE9IG51bGwpIHsKICAgICAgICAgICAgaGVhZEEubmV4dCA9IGhlYWRCOwogICAgICAgICAgfQogICAgICAgICAgaGVhZEIubmV4dCA9IG5leHQ7CiAgICAgICAgICBoZWFkQSA9IGhlYWRCOwogICAgICAgICAgaWYgKGhlYWRCLnZhbCA9PSBuZXh0LnZhbCkgewogICAgICAgICAgICBoZWFkQSA9IG5leHQ7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICAgIAogICAgfQogICAgcmV0dXJuIGwxOwogIH0K</text>
+        <text encoding="base64">ICAgICAgIGlmKGhheXN0YWNrc1tpXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIGhheXN0YWNrLmMgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKGggIT0gbnVsbCkgeyBpZiAoaC52YWwgPT0gbDIudmFsKSB7CiAgICAgICAgICBMaXN0Tm9kZSB0ID0gbDIubmV4dDsKICAgICAgICAgIGwyLm5leHQgPSBoLm5leHQ7CiAgICAgICAgICBoLm5leHQgPSBsMjsKICAgICAgICAgIGwyID0gdDsKICAgICAgICB9CiAgICAgICAgaCA9IGgubmV4dDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRleCsrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBudW0gOiBudW1zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
