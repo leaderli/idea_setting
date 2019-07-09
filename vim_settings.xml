@@ -1322,11 +1322,10 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" timestamp="1562636851172">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="44" />
+      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" timestamp="1562661611173">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/course/workspace/Sip/src/com/pccc/sip/utils/Gson.java" timestamp="1552715998756">
         <mark key="[" line="7" column="0" />
@@ -3270,11 +3269,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG1heFByZWZpeCgsICwgLCApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -3283,31 +3282,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmVhbiArICIgIDMiKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG1heFByZWZpeCgsICwgLCApOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmVhbiArICIgIDMiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJlYW5Qb3N0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmVhbiArICIgIDMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihiZWFuLmdldENsYXNzKCkgPT0gQmVhblBvc3QuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJlYW5Qb3N0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmVhbjsK</text>
+        <text encoding="base64">ICAgICAgICBpZihiZWFuLmdldENsYXNzKCkgPT0gQmVhblBvc3QuY2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmVhbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2luZzoKICBsZXZlbDoKICAgIHJvb3Q6IGRlYnVnCg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhbnMpOwo=</text>
+        <text encoding="base64">bG9nZ2luZzoKICBsZXZlbDoKICAgIHJvb3Q6IGRlYnVnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhbnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
