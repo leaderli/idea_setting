@@ -1752,11 +1752,10 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562736979062">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562745661273">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/SecurityConfig.java" timestamp="1544413894586">
         <mark key="[" line="14" column="19" />
@@ -2668,10 +2667,10 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/Bean.java" timestamp="1562737618609">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/Bean.java" timestamp="1562745944760">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/data/FuckQN.java" timestamp="1552035876753">
         <mark key="[" line="20" column="35" />
@@ -3306,10 +3305,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW4obmFtZT17Im4xIn0pCg==</text>
+        <text encoding="base64">QG1ldGhvZHIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -3318,31 +3317,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW4obmFtZT17Im4xIn0pCg==</text>
+        <text encoding="base64">QG1ldGhvZHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEJlYW4K</text>
+        <text encoding="base64">ICBAcmVwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QG5hbWUK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEFsaWFzRm9yCg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBMb2dTZXJ2aWNlIGxvZ1NlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEFsaWFzKCJuMSIpCg==</text>
+        <text encoding="base64">ICBCZWFuIGJlYW4yOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAogIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICAgIGZhY3RvcnkuZ2V0QmVhblBvc3RQcm9jZXNzb3JzKCkuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsKICAgIFByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIGNmZyA9IG5ldyBQcm9wZXJ0eVBsYWNlaG9sZGVyQ29uZmlndXJlcigpOwogICAgY2ZnLnNldExvY2F0aW9uKG5ldyBGaWxlU3lzdGVtUmVzb3VyY2UKICAgICAgICAoIi9Vc2Vycy9saS9qYXZhL3dvcmtzcGFjZS9zcHJpbmdib290L3NyYy9tYWluL3Jlc291cmNlcy90ZXN0LnltbCIpKTsKLy8gbm93IGFjdHVhbGx5IGRvIHRoZSByZXBsYWNlbWVudAogICAgY2ZnLnBvc3RQcm9jZXNzQmVhbkZhY3RvcnkoZmFjdG9yeSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgQEF1dG93aXJlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAQmVhbgogIHB1YmxpYyBzdGF0aWMgQmVhblBvc3RQcm9jZXNzb3IgYmVhblBvc3RQcm9jZXNzb3IoKSB7CiAgICAKICAgIHJldHVybiBuZXcgQmVhblBvc3RQcm9jZXNzb3IoKSB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQmVmb3JlSW5pdGlhbGl6YXRpb24oT2JqZWN0IGJlYW4sIFN0cmluZyBiZWFuTmFtZSkgdGhyb3dzIEJlYW5zRXhjZXB0aW9uIHsKICAgICAgICBpZiAoYmVhbi5nZXRDbGFzcygpID09IEJlYW5Qb3N0LmNsYXNzKSB7CiAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmVhbiArICIgIDEiKTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuIGJlYW47CiAgICAgIH0KICAgICAgCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQWZ0ZXJJbml0aWFsaXphdGlvbihPYmplY3QgYmVhbiwgU3RyaW5nIGJlYW5OYW1lKSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgICAgIGlmIChiZWFuLmdldENsYXNzKCkgPT0gQmVhblBvc3QuY2xhc3MpIHsKICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuICsgIiAgMyIpOwogICAgICAgICAgCiAgICAgICAgICByZXR1cm4gbmV3IEJlYW5Qb3N0KCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBiZWFuOwogICAgICB9CiAgICB9OwogIH0K</text>
+        <text encoding="base64">ICBAUXVhbGlmaWVyKCJuMiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBCZWFuUG9zdCBiZWFuUG9zdDsK</text>
+        <text encoding="base64">Ly8gIEBBdXRvd2lyZWQKLy8gICAgICBAUXVhbGlmaWVyKCJuMSIpCi8vICBCZWFuIGJlYW4xOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW4K</text>
+        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGxvZ1NlcnZpY2UucXVlcnlBbGwoKSk7Ci8vICAgIExvZyBsb2cgPSBuZXcgTG9nKCk7Ci8vICAgIGxvZy5zZXRJZCgiMTAiKTsKLy8gICAgbG9nLnNldFVzZXJfaWQoIjUiKTsKLy8gICAgbG9nLnNldFRpbWUoIjIwMTgtMDgtMjMgMTY6MjE6MTAiKTsKLy8gICAgbG9nLnNldExvZygiNTU1NTU1Iik7Ci8vICAgIGxvZ1NlcnZpY2UuaW5zZXJ0KGxvZyk7Ci8vICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dTZXJ2aWNlLnF1ZXJ5QWxsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
