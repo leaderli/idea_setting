@@ -1232,6 +1232,13 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/InitializingBeanImpl.java" timestamp="1562750494834">
+        <mark key="'" line="12" column="87" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+      </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/algorithms/MergeSort.java" timestamp="1525088996650">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
@@ -1668,6 +1675,12 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/Prototype.java" timestamp="1562747763856">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="8" column="85" />
+        <mark key="^" line="8" column="85" />
+        <mark key="." line="8" column="85" />
+      </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/test/java/study/RegexTest.java" timestamp="1557378845438">
         <mark key="[" line="4" column="58" />
         <mark key="]" line="4" column="60" />
@@ -1752,10 +1765,10 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562745661273">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562748612502">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/SecurityConfig.java" timestamp="1544413894586">
         <mark key="[" line="14" column="19" />
@@ -2045,6 +2058,13 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" timestamp="1562750415422">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="$USER_HOME$/java/workspace/Huntaway/WEB-INF/js/menu.js" timestamp="1539824939377">
         <mark key="[" line="9" column="9" />
@@ -2631,6 +2651,7 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/Phased.java" timestamp="1562750061864" />
       <file name="$USER_HOME$/java/workspace/UnifyApp/src/huzm/xcommander/Snapshot.java" timestamp="1531978955734">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="39" column="20" />
@@ -2667,10 +2688,11 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/Bean.java" timestamp="1562745944760">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/Bean.java" timestamp="1562747305708">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
       </file>
       <file name="$USER_HOME$/java/workspace/coral/test/com/pccc/data/FuckQN.java" timestamp="1552035876753">
         <mark key="[" line="20" column="35" />
@@ -3053,6 +3075,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/Singleton.java" timestamp="1562748233690">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/algorithms/Array.java" timestamp="1523519154048">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -3094,6 +3122,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java" timestamp="1562747141167">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="18" />
+        <mark key="^" line="63" column="18" />
+        <mark key="." line="63" column="18" />
       </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/primeton/bfs/configuration/db/BFSInstallScript.java" timestamp="1546926438640">
         <mark key="[" line="14" column="0" />
@@ -3192,9 +3226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
-      <jump line="1" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
-      <jump line="29" column="0" filename="/JSON Fragment (InputTest.java:169).json" />
       <jump line="48" column="20" filename="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/InputTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/java/workspace/coral/resource/input.json" />
       <jump line="3" column="0" filename="$USER_HOME$/java/workspace/coral/src/test/com/pactera/data/TestGson.java" />
@@ -3292,6 +3323,9 @@
       <jump line="16" column="36" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
       <jump line="21" column="6" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
       <jump line="18" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
+      <jump line="10" column="87" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/InitializingBeanImpl.java" />
+      <jump line="21" column="2" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3304,44 +3338,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QG1ldGhvZHIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QmVhblBvc3RQcm9jZXNzb3Ig</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">QmVhblBvc3RQcm9jZXNzb3Ig</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuKTsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tMjEtLS0tLS0tLS0tLS0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG1ldGhvZHIK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTIxLS0tLS0tLS0tLS0tIitiZWFuKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAcmVwCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgIGlmIChiZWFuLmdldENsYXNzKCkgPT0gSW5pdGlhbGl6aW5nQmVhbkltcGwuY2xhc3MpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBMb2dTZXJ2aWNlIGxvZ1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICBQcm9wZXJ0eVBsYWNlaG9sZGVySGVscGVyLlBsYWNlaG9sZGVyUmVzb2x2ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBCZWFuIGJlYW4yOwo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQEF1dG93aXJlZAo=</text>
+        <text encoding="base64">ICAgIHNpbmdsZXRvbi5kb3NvbWV0aW5nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAUXVhbGlmaWVyKCJuMiIpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaW5nbGV0b24yLmdldFByb3RvdHlwZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIEBBdXRvd2lyZWQKLy8gICAgICBAUXVhbGlmaWVyKCJuMSIpCi8vICBCZWFuIGJlYW4xOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaW5nbGV0b24uZ2V0UHJvdG90eXBlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGxvZ1NlcnZpY2UucXVlcnlBbGwoKSk7Ci8vICAgIExvZyBsb2cgPSBuZXcgTG9nKCk7Ci8vICAgIGxvZy5zZXRJZCgiMTAiKTsKLy8gICAgbG9nLnNldFVzZXJfaWQoIjUiKTsKLy8gICAgbG9nLnNldFRpbWUoIjIwMTgtMDgtMjMgMTY6MjE6MTAiKTsKLy8gICAgbG9nLnNldExvZygiNTU1NTU1Iik7Ci8vICAgIGxvZ1NlcnZpY2UuaW5zZXJ0KGxvZyk7Ci8vICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dTZXJ2aWNlLnF1ZXJ5QWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaW5nbGV0b24uZ2V0UHJvdG90eXBlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
