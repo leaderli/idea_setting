@@ -2346,11 +2346,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyLog.java" timestamp="1562833293801">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyLog.java" timestamp="1562840780938">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="2" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/SpinLock.java" timestamp="1522988102422">
         <mark key="[" line="15" column="0" />
@@ -3244,11 +3244,11 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AnnotationAspect.java" timestamp="1562835272597">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="39" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AnnotationAspect.java" timestamp="1562840691534">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="26" />
         <mark key="^" line="23" column="39" />
-        <mark key="." line="23" column="39" />
+        <mark key="." line="16" column="26" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/filter/MyPrintWriter.java" timestamp="1545397462909">
         <mark key="[" line="7" column="9" />
@@ -3395,10 +3395,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getThis</text>
+        <text encoding="base64">TXlMb2cg</text>
       </register>
       <register name="-" type="4">
-        <text>getThis</text>
+        <text encoding="base64">TXlMb2cg</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
