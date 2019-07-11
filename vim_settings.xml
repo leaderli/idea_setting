@@ -1788,11 +1788,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562833390651">
-        <mark key="[" line="20" column="60" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562852598365">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/SecurityConfig.java" timestamp="1544413894586">
         <mark key="[" line="14" column="19" />
@@ -2346,11 +2346,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyLog.java" timestamp="1562840780938">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="2" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyLog.java" timestamp="1562852696542">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
         <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="2" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/java/workspace/java8/src/main/test/cache/SpinLock.java" timestamp="1522988102422">
         <mark key="[" line="15" column="0" />
@@ -3244,11 +3244,10 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AnnotationAspect.java" timestamp="1562840691534">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="23" column="39" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AnnotationAspect.java" timestamp="1562852839536">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/filter/MyPrintWriter.java" timestamp="1545397462909">
         <mark key="[" line="7" column="9" />
@@ -3394,11 +3393,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TXlMb2cg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TXlMb2cg</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -3407,31 +3406,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUaGlzKCkuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQW5ub3RhdGlvbkFzcGVjdDEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcocG9pbnQuZ2V0U2lnbmF0dXJlKCkuZ2V0RGVjbGFyaW5nVHlwZSgpLmdldEFubm90YXRpb25zKCkpKTsK</text>
+        <text encoding="base64">ICBAQmVmb3JlKCJleGVjdXRpb24oKiBjb20ubGkuc3ByaW5nYm9vdC5zZXJ2aWNlLlRlc3RTZXJ2aWNlLmRvcygpKSIpCiAgcHVibGljIHZvaWQgbG9nMigpewogICAgU3lzdGVtLm91dC5wcmludGxuKCJBbm5vdGF0aW9uQXNwZWN0Mi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUYXJnZXQoKSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9pbnQuZ2V0VGhpcygpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRTdGF0aWNQYXJ0KCkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHBvaW50LmdldFNpZ25hdHVyZSgpKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcobWV0aG9kU2lnbmF0dXJlLmdldE1ldGhvZCgpLmdldEFubm90YXRpb25zKCkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvaW50LmdldFNpZ25hdHVyZSgpLmdldERlY2xhcmluZ1R5cGUoKS5nZXRkCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUYXJnZXQoKS5nZXRDbGFzcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QE15TG9nCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUaGlzKCkuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC4pOwo=</text>
+        <text encoding="base64">ICBAUG9pbnRjdXQoIkBhbm5vdGF0aW9uKE15TG9nKSIpCiAgcHVibGljIHZvaWQgbG9nKCl7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkFubm90YXRpb25Bc3BlY3QwLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUYXJnZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQW5ub3RhdGlvbkFzcGVjdDEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcocG9pbnQuZ2V0U2lnbmF0dXJlKCkuZ2V0RGVjbGFyaW5nVHlwZSgpLmdldEFubm90YXRpb25zKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUYXJnZXQoKSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9pbnQuZ2V0VGhpcygpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRTdGF0aWNQYXJ0KCkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKHBvaW50LmdldFNpZ25hdHVyZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
