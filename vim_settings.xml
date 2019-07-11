@@ -192,12 +192,11 @@
         <mark key="." line="7" column="67" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1562772925748">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1562810378326">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/templates/login.html" timestamp="1541494889203">
         <mark key="[" line="8" column="14" />
@@ -1149,7 +1148,6 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java" timestamp="1562684694957" />
       <file name="$USER_HOME$/java/workspace/NewUnifyApp/src/main/java/method/Execute.java" timestamp="1537158137054">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="15" />
@@ -1239,12 +1237,11 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/InitializingBeanImpl.java" timestamp="1562750494834">
-        <mark key="'" line="12" column="87" />
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="24" column="14" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/InitializingBeanImpl.java" timestamp="1562811173646">
+        <mark key="'" line="11" column="87" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/algorithms/MergeSort.java" timestamp="1525088996650">
         <mark key="[" line="9" column="8" />
@@ -1772,11 +1769,11 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562775232163">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="23" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1562810906622">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/li/config/SecurityConfig.java" timestamp="1544413894586">
         <mark key="[" line="14" column="19" />
@@ -2036,7 +2033,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="10" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1562685323660" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1b8668b0-6191-4ba1-be0b-b8699d64711e/console.sql" timestamp="1541382213393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="7" />
@@ -2073,11 +2069,10 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" timestamp="1562774621801">
-        <mark key="[" line="10" column="105" />
-        <mark key="]" line="11" column="68" />
-        <mark key="^" line="11" column="68" />
-        <mark key="." line="11" column="68" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" timestamp="1562810395532">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/Huntaway/WEB-INF/js/menu.js" timestamp="1539824939377">
         <mark key="[" line="9" column="9" />
@@ -2484,6 +2479,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/InjectBean.java" timestamp="1562810249260">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+      </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/test/Test.xml" timestamp="1533005271996">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
@@ -2664,7 +2665,6 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/Phased.java" timestamp="1562750061864" />
       <file name="$USER_HOME$/java/workspace/UnifyApp/src/huzm/xcommander/Snapshot.java" timestamp="1531978955734">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="39" column="20" />
@@ -3351,44 +3351,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRlcGVuZHMtb249ImNvbmZpZ3VyZXIiIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QERlcGVuZHNPbigibXkiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlcGVuZHMtb249ImNvbmZpZ3VyZXIiIA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tMjEtLS0tLS0tLS0tLS0iKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTMtLS0tLS0tLS0tLS0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2JlYW4+Cg==</text>
+        <text encoding="base64">QERlcGVuZHNPbigibXkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0iY29uZmlndXJlciIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5jb25maWcuUHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIiPgogICAgPHByb3BlcnR5IG5hbWU9ImxvY2F0aW9ucyIgdmFsdWU9ImNsYXNzcGF0aDp0ZXN0LnByb3BlcnRpZXMiLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJwcm9wZXJ0aWVzIj4KICAgICAgPHZhbHVlPnRlc3QuY2xhc3M9Y29tLmxpLnNwcmluZ2Jvb3QuYmVhbi5Mb2c8L3ZhbHVlPgogICAgPC9wcm9wZXJ0eT4K</text>
+        <text encoding="base64">ICBAUHJlRGVzdHJveQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0idGVzdCIgY2xhc3M9ImNvbS5saS5zcHJpbmdib290LmJlYW4uTG9nIj4KICAgIDxwcm9wZXJ0eSBuYW1lPSJpZCIgdmFsdWU9IiR7dGVzdC5jbGFzc30iLz4KICA8L2JlYW4+Cg==</text>
+        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
+        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9iZWFucz4K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0iYnJlYWsiIGNsYXNzPSJvcmcud2Vic3BhcnJvdy5iZWFucy5OZXdCcmVhayIgLz4KCiAgPGJlYW4gaWQ9ImNhciIgY2xhc3M9Im9yZy53ZWJzcGFycm93LmJlYW5zLkNhciI+CiAgICA8cmVwbGFjZWQtbWV0aG9kIG5hbWU9ImJyZWFrcyIgcmVwbGFjZXI9ImJyZWFrIiAvPgogIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuRmFjdG9yeS5nZXRCZWFuRGVmaW5pdGlvbigidGVzdCIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGJlYW5zIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICB4bWxucz0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyIKICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgICAgICAgICAgICAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy01LjEueHNkIj4K</text>
+        <text encoding="base64">QEltcG9ydFJlc291cmNlKCJjbGFzc3BhdGg6YmVhbnMueG1sIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBqYXZheC5pbmplY3QuUHJvdmlkZXIgcHJvdmlkZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihvKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
