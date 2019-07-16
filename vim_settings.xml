@@ -411,6 +411,7 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/Logger.class" timestamp="1563282962612" />
       <file name="$USER_HOME$/java/workspace/UP/WEB-INF/src/test/TestDouble.java" timestamp="1545317136456">
         <mark key="[" line="23" column="57" />
         <mark key="]" line="24" column="24" />
@@ -574,6 +575,7 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Hierarchy.java" timestamp="1563281319066" />
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/test/TestTimer.java" timestamp="1525225258229">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="48" />
@@ -707,7 +709,7 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563246395047">
+      <file name="/Dummy.txt" timestamp="1563282563165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/model/BookRepository.java" timestamp="1540965277583">
@@ -793,11 +795,6 @@
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[53]最大子序和.java" timestamp="1562574858660">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/switch/web/test/test.html" timestamp="1534818350635">
         <mark key="[" line="21" column="28" />
@@ -1223,11 +1220,6 @@
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/test.yml" timestamp="1562683816298">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/ssm/src/main/java/config/ScheduleConfig.java" timestamp="1543459926972">
         <mark key="[" line="14" column="66" />
         <mark key="]" line="14" column="65" />
@@ -1348,6 +1340,7 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/helpers/AppenderAttachableImpl.java" timestamp="1563282259124" />
       <file name="$USER_HOME$/java/workspace/algorithms/leetcode-plugin/cn/[20]有效的括号.java" timestamp="1562508512129">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="49" column="20" />
@@ -1359,11 +1352,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" timestamp="1562661611173">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/course/workspace/Sip/src/com/pccc/sip/utils/Gson.java" timestamp="1552715998756">
         <mark key="[" line="7" column="0" />
@@ -1534,6 +1522,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/LogManager.java" timestamp="1563281690889" />
       <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1562294702067">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1666,11 +1655,6 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/dao/LogMapper.java" timestamp="1562833345199">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/springboot2/src/test/java/li/LiApplicationTests.java" timestamp="1544534884615">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1778,11 +1762,6 @@
         <mark key="]" line="39" column="5" />
         <mark key="." line="39" column="5" />
         <mark key="^" line="39" column="5" />
-      </file>
-      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[27]移除元素.java" timestamp="1563012802245">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/ToudaProxyDemo/src/com/pccc/touda/proxy/processor/LoadBalanceProcessor.java" timestamp="1523542297979">
         <mark key="[" line="22" column="116" />
@@ -2102,11 +2081,6 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" timestamp="1562810395532">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/Huntaway/WEB-INF/js/menu.js" timestamp="1539824939377">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="9" />
@@ -2263,6 +2237,9 @@
         <mark key="]" line="20" column="22" />
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/simple/src/Hello.java" timestamp="1563284806611">
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/Log4jTest.java" timestamp="1563280896442">
         <mark key="[" line="6" column="78" />
@@ -2439,7 +2416,7 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1563205978733">
+      <file name="/fragment.java" timestamp="1563282484389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/sip/test/TestDom.java" timestamp="1550717629419">
@@ -2489,11 +2466,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/OnLogMapperCreated.java" timestamp="1562827021307">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/test/nios/study/service/ServiceMethodInte.java" timestamp="1558855645695">
         <mark key="[" line="7" column="30" />
@@ -2936,7 +2908,7 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Category.java" timestamp="1563280959424" />
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Category.java" timestamp="1563282210858" />
       <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/controller/CacheController.java" timestamp="1561391512936">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="47" />
@@ -3033,10 +3005,10 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/pom.xml" timestamp="1563280864140">
+      <file name="$USER_HOME$/java/workspace/springboot/pom.xml" timestamp="1563284272297">
         <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="20" />
-        <mark key="." line="39" column="20" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/java/workspace/algorithms/src/main/test/algorithms/Bag.java" timestamp="1525012454703">
@@ -3056,6 +3028,12 @@
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/log4j.properties" timestamp="1563282168388">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CyclicBarrierTest.java" timestamp="1554552706627">
         <mark key="[" line="17" column="13" />
@@ -3225,11 +3203,6 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/java/workspace/algorithms/leetcode-plugin/cn/[7]整数反转.java" timestamp="1562502530503">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/ConsumerApplication.java" timestamp="1561528494178">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="8" column="50" />
@@ -3271,11 +3244,6 @@
         <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="30" />
         <mark key="^" line="36" column="17" />
-      </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AnnotationAspect.java" timestamp="1562852839536">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/test/src/main/java/filter/MyPrintWriter.java" timestamp="1545397462909">
         <mark key="[" line="7" column="9" />
@@ -3422,10 +3390,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>17</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>17</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -3434,31 +3402,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2ludC5nZXRUaGlzKCkuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bG9nZ2VyLnJvb3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyLgo=</text>
+        <text encoding="base64">bG9nNGouYWRkaXRpdml0eS5tb2JpbGVMb2dnZXI9ZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBlbmRlbmN5LXBsdWdpbjwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4obmV3IFNvbHV0aW9uKCkucGx1c09uZShuZXcgaW50W117MH0pKTsKCX0K</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICA8ZmFpbE9uRXJyb3I+ZmFsc2U8L2ZhaWxPbkVycm9yPgogICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBlbmRlbmN5LXBsdWdpbjwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9idWlsZD4K</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4obmV3IFNvbHV0aW9uKCkucGx1c09uZShuZXcgaW50W117MH0pKTsKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbLi4uXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICA8ZmFpbE9uRXJyb3I+ZmFsc2U8L2ZhaWxPbkVycm9yPgogICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
