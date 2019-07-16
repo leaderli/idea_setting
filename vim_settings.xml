@@ -2427,6 +2427,12 @@
         <mark key="." line="46" column="14" />
         <mark key="^" line="46" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-plugins/31/maven-plugins-31.pom" timestamp="1563243310388">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+      </file>
       <file name="$USER_HOME$/java/workspace/plugin/src/main/java/li/util/ObjectUtil.java" timestamp="1528895498486">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="6" column="49" />
