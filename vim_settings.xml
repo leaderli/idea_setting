@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/java/workspace/consumer/src/main/java/com/ribbon/consumer/service/HelloFeignService.java" timestamp="1561515353369">
-        <mark key="[" line="6" column="35" />
-      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/log4j.properties" timestamp="1563292619278">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1562827220807">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/simple/src/Hello.java" timestamp="1563284967187">
         <mark key="[" line="3" column="56" />
@@ -27,16 +21,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/PreFilter.groovy" timestamp="1561791120348">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/LogManager.java" timestamp="1563368228453" />
-      <file name="/Dummy.txt" timestamp="1563282563165">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/RegExp Fragment (RegexTest.java:153).regexp" timestamp="1562381060532">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/helpers/Loader.java" timestamp="1563368394406" />
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[83]删除排序链表中的重复元素.java" timestamp="1563365980677">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="17" />
