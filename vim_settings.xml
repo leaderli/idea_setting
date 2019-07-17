@@ -21,15 +21,16 @@
         <mark key="^" line="3" column="60" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/Log4jTest.java" timestamp="1563289974971">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/Log4jTest.java" timestamp="1563368165281">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/spring-cloud/zuul/src/main/resources/PreFilter.groovy" timestamp="1561791120348">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/LogManager.java" timestamp="1563368228453" />
       <file name="/Dummy.txt" timestamp="1563282563165">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +43,7 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java" timestamp="1563367445587" />
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1563289851256">
         <mark key="[" line="42" column="23" />
         <mark key="]" line="42" column="23" />
@@ -54,7 +56,7 @@
         <mark key="^" line="160" column="16" />
         <mark key="." line="160" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1563292530725">
+      <file name="/fragment.java" timestamp="1563368341329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -187,10 +189,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIG5leHQgPSBoZWFkLm5leHQ7IAogICAgd2hpbGUgKG5leHQgIT0gbnVsbCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uc2V0UHJvcGVydHkoTG9nTWFuYWdlci5ERUZBVUxUX0lOSVRfT1ZFUlJJREVfS0VZLCJ0cnVlIikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
@@ -199,31 +201,31 @@
         <text encoding="base64">ICAgIGludCBmMSA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIG5leHQgPSBoZWFkLm5leHQ7IAogICAgd2hpbGUgKG5leHQgIT0gbnVsbCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uc2V0UHJvcGVydHkoTG9nTWFuYWdlci5ERUZBVUxUX0lOSVRfT1ZFUlJJREVfS0VZLCJ0cnVlIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoImxvZzRqLmRlZmF1bHRJbml0T3ZlcnJpZCIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIHJlc3VsdCA9IGhlYWQ7CiAgICBMaXN0Tm9kZSBuZXh0ID0gaGVhZC5uZXh0OwogICAgCiAgICB3aGlsZSAobmV4dCAhPSBudWxsKSB7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMTExMSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGhlYWQudmFsID09IG5leHQudmFsKSB7CiAgICAgICAgaGVhZC5uZXh0ID0gbmV4dC5uZXh0OwogICAgICB9CiAgICAgIGhlYWQgPSBuZXh0OwogICAgICBuZXh0ID0gaGVhZC5uZXh0Owo=</text>
+        <text encoding="base64">ICAgIExpc3ROb2RlIG5leHQgPSBoZWFkLm5leHQ7IAogICAgd2hpbGUgKG5leHQgIT0gbnVsbCkgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoCg==</text>
+        <text encoding="base64">ICAgIExpc3ROb2RlIHJlc3VsdCA9IGhlYWQ7CiAgICBMaXN0Tm9kZSBuZXh0ID0gaGVhZC5uZXh0OwogICAgCiAgICB3aGlsZSAobmV4dCAhPSBudWxsKSB7CiAgICB9CiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkID0gbmV4dDsKICAgICAgICBuZXh0ID0gaGVhZC5uZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGhlYWQudmFsID09IG5leHQudmFsKSB7CiAgICAgICAgaGVhZC5uZXh0ID0gbmV4dC5uZXh0OwogICAgICB9CiAgICAgIGhlYWQgPSBuZXh0OwogICAgICBuZXh0ID0gaGVhZC5uZXh0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkLm5leHQgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIHJlc3VsdCA9IGhlYWQ7CiAgICB3aGlsZSAoaGVhZCAhPSBudWxsKSB7CiAgICAgIExpc3ROb2RlIG5leHQgPSBoZWFkLm5leHQ7CiAgICAgIGlmIChoZWFkID09IG5leHQpIHsKICAgICAgICBoZWFkLm5leHQgPSBuZXh0Lm5leHQ7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBoCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
