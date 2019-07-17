@@ -21,20 +21,23 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/LogManager.java" timestamp="1563368228453" />
-      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/helpers/Loader.java" timestamp="1563368394406" />
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[83]删除排序链表中的重复元素.java" timestamp="1563365980677">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java" timestamp="1563367445587" />
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1563289851256">
         <mark key="[" line="42" column="23" />
         <mark key="]" line="42" column="23" />
         <mark key="." line="42" column="23" />
         <mark key="^" line="42" column="24" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1563371235756">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar!/org/apache/log4j/LogManager.java" timestamp="1563291267280">
         <mark key="[" line="160" column="17" />
@@ -174,11 +177,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uc2V0UHJvcGVydHkoTG9nTWFuYWdlci5ERUZBVUxUX0lOSVRfT1ZFUlJJREVfS0VZLCJ0cnVlIikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>new ClassPathXmlApplicationContext()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>new ClassPathXmlApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
