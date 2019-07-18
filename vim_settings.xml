@@ -3,11 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Index.java" timestamp="1563462099961">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/ApplicationTest.java" timestamp="1563462127414">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/remote/Index.java" timestamp="1563457526147">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/log4j.properties" timestamp="1563292619278">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1563459236217">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/Application.java" timestamp="1563456558085">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/java/workspace/simple/src/Hello.java" timestamp="1563284967187">
         <mark key="[" line="3" column="56" />
@@ -21,11 +48,65 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1563462816256" />
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/Application.java" timestamp="1563462062330">
+        <mark key="[" line="41" column="2" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1563456225316">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/pom.xml" timestamp="1563459956963">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Config.java" timestamp="1563461670671">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/RemoteAspect.java" timestamp="1563463165888">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Remote.java" timestamp="1563462984497">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/remote/Remote.java" timestamp="1563457515739">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[83]删除排序链表中的重复元素.java" timestamp="1563365980677">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/resources/remote.factories" timestamp="1563462024789">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/remote/BaseRest.java" timestamp="1563457092755">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563456207099" />
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1563289851256">
@@ -34,11 +115,18 @@
         <mark key="." line="42" column="23" />
         <mark key="^" line="42" column="24" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1563456225316">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-        <mark key="^" line="11" column="1" />
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/resources/application.yml" timestamp="1563462597799">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Configs.java" timestamp="1563461679147">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar!/org/apache/log4j/LogManager.java" timestamp="1563291267280">
         <mark key="[" line="160" column="17" />
@@ -46,7 +134,7 @@
         <mark key="^" line="160" column="16" />
         <mark key="." line="160" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1563368341329">
+      <file name="/fragment.java" timestamp="1563460001733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -66,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="3" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/data/CallDataTest.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/data/CallDataTest.java" />
       <jump line="39" column="0" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/data/CallDataTest.java" />
       <jump line="4" column="13" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Voice.java" />
       <jump line="83" column="25" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/data/CallData.java" />
@@ -166,6 +252,8 @@
       <jump line="16" column="67" filename="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" />
       <jump line="10" column="0" filename="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/ThreadTest.java" />
       <jump line="1189" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="19" column="1" filename="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Configs.java" />
+      <jump line="23" column="60" filename="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/RemoteAspect.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -179,43 +267,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGNvbnRleHRMb2FkcygpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>new ClassPathXmlApplicationContext()</text>
+        <text>point.getArgs()[0]</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBmMSA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3RUZW1wbGF0ZShjb25maWcpLmdldEZvck9iamVjdCh1cmwsIHRhcmdldE1ldGhvZC5nZXRSZXR1cm5UeXBlKCksIHBvaW50LmdldEFyZ3MoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGNvbnRleHRMb2FkcygpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBBbm5vdGF0aW9uQ29uZmlnQXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3RUZW1wbGF0ZS5wb3N0Rm9yT2JqZWN0KHVybCwgcG9pbnQuZ2V0QXJncygpWzBdLCB0YXJnZXRNZXRob2QuZ2V0UmV0dXJuVHlwZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uc2V0UHJvcGVydHkoTG9nTWFuYWdlci5ERUZBVUxUX0lOSVRfT1ZFUlJJREVfS0VZLCJ0cnVlIikpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYocmVtb3RlLm1ldGhvZCgpID09IEh0dHBNZXRob2QuUE9TVCl7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoImxvZzRqLmRlZmF1bHRJbml0T3ZlcnJpZCIpKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMTExMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgSHR0cE1ldGhvZC5QT1NUCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIG5leHQgPSBoZWFkLm5leHQ7IAogICAgd2hpbGUgKG5leHQgIT0gbnVsbCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3RUZW1wbGF0ZShjb25maWcpLmdldEZvck9iamVjdCh1cmwsIHRhcmdldE1ldGhvZC5nZXRSZXR1cm5UeXBlKCksIHBvaW50LmdldEFyZ3MoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGFyZ3MubGVuZ3RoID09IDEpIHsKICAgICAgICByZXR1cm4gcmVzdFRlbXBsYXRlKGNvbmZpZykuZ2V0Rm9yT2JqZWN0KHVybCwgdGFyZ2V0TWV0aG9kLmdldFJldHVyblR5cGUoKSwgYXJnc1swXSk7CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlIHJlc3VsdCA9IGhlYWQ7CiAgICBMaXN0Tm9kZSBuZXh0ID0gaGVhZC5uZXh0OwogICAgCiAgICB3aGlsZSAobmV4dCAhPSBudWxsKSB7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgICAgcmVtb3RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGhlYWQudmFsID09IG5leHQudmFsKSB7CiAgICAgICAgaGVhZC5uZXh0ID0gbmV4dC5uZXh0OwogICAgICB9CiAgICAgIGhlYWQgPSBuZXh0OwogICAgICBuZXh0ID0gaGVhZC5uZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3RUZW1wbGF0ZShjb25maWcpLnBvc3RGb3JPYmplY3QodXJsLCB0YXJnZXRNZXRob2QuZ2V0UmV0dXJuVHlwZSgpLCBwb2ludC5nZXRBcmdzKClbMF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
