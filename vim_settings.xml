@@ -3,16 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" timestamp="1563521580648">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="12" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1.jar!/META-INF/spring.factories" timestamp="1563546224214" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" timestamp="1563548711523">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1563521559194" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/SystemPropertyUtils.java" timestamp="1563515711219" />
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/RemoteAspect.java" timestamp="1563463165888">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1-sources.jar!/com/ulisesbocchio/jasyptspringboot/configuration/EnableEncryptablePropertiesConfiguration.java" timestamp="1563545177861" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessorAdapter.java" timestamp="1563516033453" />
       <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1-sources.jar!/com/ulisesbocchio/jasyptspringboot/EncryptablePropertyResolver.java" timestamp="1563540041352" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/core/env/MutablePropertySources.java" timestamp="1563546666605">
+        <mark key="[" line="70" column="41" />
+        <mark key="]" line="70" column="40" />
+        <mark key="^" line="70" column="40" />
+        <mark key="." line="70" column="40" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/application.properties" timestamp="1563538901328">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="35" />
@@ -26,10 +38,17 @@
         <mark key="." line="131" column="33" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml111" timestamp="1563538855331" />
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563541155740">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563548538478">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="2" />
+        <mark key="." line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyApplicationContextInitializer.java" timestamp="1563548693772">
+        <mark key="[" line="11" column="86" />
+        <mark key="]" line="11" column="85" />
+        <mark key="." line="11" column="85" />
+        <mark key="^" line="11" column="85" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1563540994668">
         <mark key="[" line="17" column="0" />
@@ -37,12 +56,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/pom.xml" timestamp="1563540446818">
+      <file name="$USER_HOME$/java/workspace/springboot/pom.xml" timestamp="1563546466039">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
-        <mark key="^" line="36" column="16" />
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="36" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EnvironmentDecryptApplicationInitializer.java" timestamp="1563507916157">
         <mark key="[" line="7" column="0" />
@@ -70,14 +89,14 @@
         <mark key="." line="4" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1563521388442" />
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/Log4jTest.java" timestamp="1563539167806">
-        <mark key="[" line="9" column="112" />
-        <mark key="]" line="9" column="132" />
-        <mark key="." line="9" column="132" />
-        <mark key="^" line="9" column="132" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/util/Log4jTest.java" timestamp="1563544434462">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1.jar!/com/ulisesbocchio/jasyptspringboot/configuration/EnableEncryptablePropertiesConfiguration.class" timestamp="1563545460728" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyResourceConfigurer.java" timestamp="1563521564899" />
-      <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1-sources.jar!/com/ulisesbocchio/jasyptspringboot/configuration/EnableEncryptablePropertiesBeanFactoryPostProcessor.java" timestamp="1563541062373" />
+      <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1-sources.jar!/com/ulisesbocchio/jasyptspringboot/configuration/EnableEncryptablePropertiesBeanFactoryPostProcessor.java" timestamp="1563545092516" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java" timestamp="1563516004555" />
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AA.java" timestamp="1563505426323">
         <mark key="[" line="1" column="0" />
@@ -85,6 +104,7 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1-sources.jar!/com/ulisesbocchio/jasyptspringboot/EncryptablePropertySourceConverter.java" timestamp="1563546511536" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java" timestamp="1563517739110" />
       <file name="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/2.1.1/jasypt-spring-boot-2.1.1-sources.jar!/com/ulisesbocchio/jasyptspringboot/configuration/EncryptablePropertyResolverConfiguration.java" timestamp="1563541105520" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1563521551114" />
@@ -102,9 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/factry/SpringFactory.java" />
-      <jump line="26" column="58" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" />
-      <jump line="21" column="10" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" />
       <jump line="51" column="0" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" />
       <jump line="7" column="0" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/Demo5.java" />
       <jump line="21" column="6" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/Demo5.java" />
@@ -202,6 +219,9 @@
       <jump line="27" column="6" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
       <jump line="21" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
       <jump line="4" column="4" filename="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml" />
+      <jump line="32" column="2" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" />
+      <jump line="16" column="5" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -215,43 +235,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXQK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc291cmNlLmdldCgic3ByaW5nIikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{fuck}cm9vdA==</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
-      <register name="0" type="4">
-        <text>spring.datasource.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygiUG9zdENvbnN0cnVjdDoiICsgdGhpcy5lbnZpcm9ubWVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXQK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc291cmNlLmdldCgic3ByaW5nIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiUG9zdC1wcm9jZXNzaW5nIFByb3BlcnR5U291cmNlIGluc3RhbmNlcyIpOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBpbml0aWFsaXplKENvbmZpZ3VyYWJsZUFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQpIHsKICAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFbmNyeXB0YWJsZVByb3BlcnR5RmlsdGVyIHByb3BlcnR5RmlsdGVyID0gYmVhbkZhY3RvcnkuZ2V0QmVhbihGSUxURVJfQkVBTl9OQU1FLCBFbmNyeXB0YWJsZVByb3BlcnR5RmlsdGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBpbml0aWFsaXplKENvbmZpZ3VyYWJsZUFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQpIHsKICAKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFbmNyeXB0YWJsZVByb3BlcnR5UmVzb2x2ZXIgcHJvcGVydHlSZXNvbHZlciA9IGJlYW5GYWN0b3J5LmdldEJlYW4oUkVTT0xWRVJfQkVBTl9OQU1FLCBFbmNyeXB0YWJsZVByb3BlcnR5UmVzb2x2ZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNdXRhYmxlUHJvcGVydHlTb3VyY2VzIHByb3BTb3VyY2VzID0gZW52aXJvbm1lbnQuZ2V0UHJvcGVydHlTb3VyY2VzKCk7Cg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvbkFwcGxpY2F0aW9uRXZlbnQoQXBwbGljYXRpb25FdmVudCBldmVudCkgewogICAgbG9nLmRlYnVnKCJFbmNyeXB0YXRpb25Bd2FyZVByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIHN0YXJ0Iik7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBMb2dTZXJ2aWNlSW1wbCBsb2dTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYlNlY3VyaXR5Cg==</text>
+        <text encoding="base64">ICBNeUFwcGxpY2F0aW9uQ29udGV4dEluaXRpYWxpemVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzLnN1YnN0cmluZyhFTkNPREVEX1BBU1NXT1JEX0hJTlQubGVuZ3RoKCkpKTsK</text>
+        <text encoding="base64">ICBNeUFwcGxpY2F0aW9uQ29udGV4dEluaXRpYWxpemVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIitzKTsK</text>
+        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAogIHB1YmxpYyB2b2lkIGluaXQoKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS1TcHJpbmdCb290QXBwbGljYXRpb24tLS0tLS0tLS0tLS0tLS0iKTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
