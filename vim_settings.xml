@@ -30,17 +30,23 @@
       <file name="/a.dummy" timestamp="1563459236217">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EnvironmentDecryptApplicationInitializer.java" timestamp="1563505530318">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="19" column="71" />
+        <mark key="^" line="19" column="71" />
+        <mark key="." line="19" column="71" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/Application.java" timestamp="1563456558085">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml" timestamp="1563503634561">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml" timestamp="1563504873878">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/java/workspace/simple/src/Hello.java" timestamp="1563284967187">
         <mark key="[" line="3" column="56" />
@@ -89,6 +95,12 @@
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AA.java" timestamp="1563505426323">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="75" />
+        <mark key="." line="7" column="75" />
+        <mark key="^" line="7" column="75" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/remote/Remote.java" timestamp="1563457515739">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
@@ -113,12 +125,12 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563503585819">
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563505410819">
         <mark key="'" line="20" column="5" />
-        <mark key="[" line="42" column="99" />
-        <mark key="]" line="42" column="109" />
-        <mark key="." line="42" column="109" />
-        <mark key="^" line="42" column="109" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1563289851256">
         <mark key="[" line="42" column="23" />
@@ -283,8 +295,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>woot112312</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIOi/memHjOaLv+WIsOS4iuS4i+aWh+eahOWxnuaAp++8jOW8gOWni+aJp+ihjOino+Wvhgo=</text>
       </register>
       <register name="-" type="4">
         <text>woot112312</text>
@@ -296,31 +308,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKEJhc2U2NFV0aWxzLmVuY29kZSgiMTIzIi5nZXRCeXRlcygpKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiB3b290MTEyMzEyCg==</text>
+        <text encoding="base64">ICAgIC8vIOi/memHjOaLv+WIsOS4iuS4i+aWh+eahOWxnuaAp++8jOW8gOWni+aJp+ihjOino+Wvhgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmVhbiBpbnN0YW5jZW9mIERhdGFTb3VyY2UpIHsgbG9nLmRlYnVnKGhpa2FyaURhdGFTb3VyY2UuZ2V0UGFzc3dvcmQoKSk7CiAgICAgICAgICBsb2cuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0yLS0tLS0tLS0tIiArIGJlYW4pOwogICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IGZvdW5kID0gbmV3IExpbmtlZEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEhpa2FyaURhdGFTb3VyY2UgaGlrYXJpRGF0YVNvdXJjZSA9IChIaWthcmlEYXRhU291cmNlKSBiZWFuOwo=</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gZGVjcnlwdChwcm9wZXJ0eVNvdXJjZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhpa2FyaURhdGFTb3VyY2Uuc2V0UGFzc3dvcmQoKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFBIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0xLS0tLS0tLS0tIiArIGJlYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICBAQXV0b3dpcmVkCiAgQXBwbGljYXRpb25Db250ZXh0IGNvbnRleHQ7CiAgQEF1dG93aXJlZAogIFRlc3RTZXJ2aWNlIHNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBPYmplY3QgcG9zdFByb2Nlc3NCZWZvcmVJbml0aWFsaXphdGlvbihPYmplY3QgYmVhbiwgU3RyaW5nIGJlYW5OYW1lKSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgICAgIGlmIChiZWFuIGluc3RhbmNlb2YgSGlrYXJpRGF0YVNvdXJjZSkgewogICAgICAgICAgSGlrYXJpRGF0YVNvdXJjZSBoaWthcmlEYXRhU291cmNlID0gKEhpa2FyaURhdGFTb3VyY2UpIGJlYW47CiAgICAgICAgICBsb2cuZGVidWcoaGlrYXJpRGF0YVNvdXJjZS5nZXRQYXNzd29yZCgpKTsKICAgICAgICAgIGxvZy5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTEtLS0tLS0tLS0iICsgYmVhbik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuZ2V0QmVhbihJbml0aWFsaXppbmdCZWFuSW1wbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiB3b290MTEyMzEyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3RUZW1wbGF0ZS5wb3N0Rm9yT2JqZWN0KHVybCwgcG9pbnQuZ2V0QXJncygpWzBdLCB0YXJnZXRNZXRob2QuZ2V0UmV0dXJuVHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmVhbiBpbnN0YW5jZW9mIERhdGFTb3VyY2UpIHsgbG9nLmRlYnVnKGhpa2FyaURhdGFTb3VyY2UuZ2V0UGFzc3dvcmQoKSk7CiAgICAgICAgICBsb2cuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0yLS0tLS0tLS0tIiArIGJlYW4pOwogICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
