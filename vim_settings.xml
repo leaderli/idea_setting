@@ -45,13 +45,21 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml" timestamp="1563517642022">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml" timestamp="1563521117514">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1563518036699" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1563521388442" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" timestamp="1563521580648">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1563521559194" />
       <file name="$USER_HOME$/java/workspace/simple/src/Hello.java" timestamp="1563284967187">
         <mark key="[" line="3" column="56" />
         <mark key="]" line="3" column="60" />
@@ -70,7 +78,7 @@
         <mark key="." line="41" column="5" />
         <mark key="^" line="41" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyResourceConfigurer.java" timestamp="1563514315692" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyResourceConfigurer.java" timestamp="1563521564899" />
       <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1563456225316">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="1" />
@@ -91,11 +99,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/SystemPropertyUtils.java" timestamp="1563515711219" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java" timestamp="1563516004555" />
-      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/RemoteAspect.java" timestamp="1563463165888">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Remote.java" timestamp="1563462984497">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="45" />
@@ -122,7 +125,12 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/core/io/support/PropertiesLoaderSupport.java" timestamp="1563508961541" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/core/io/support/PropertiesLoaderSupport.java" timestamp="1563521571637">
+        <mark key="[" line="131" column="34" />
+        <mark key="]" line="131" column="33" />
+        <mark key="^" line="131" column="33" />
+        <mark key="." line="131" column="33" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/resources/remote.factories" timestamp="1563462024789">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="46" />
@@ -135,13 +143,11 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1563514558575" />
-      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563509618903">
-        <mark key="'" line="23" column="5" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1563521551114" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563520697354">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1563289851256">
         <mark key="[" line="42" column="23" />
@@ -154,6 +160,13 @@
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Configs.java" timestamp="1563461679147">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/service/LogServiceImpl.java" timestamp="1563510316249">
         <mark key="[" line="1" column="0" />
@@ -179,24 +192,21 @@
         <mark key="^" line="10" column="57" />
         <mark key="." line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1563518061946">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/dao/LogServiceTest.java" timestamp="1563521398323">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/java/workspace/springboot/pom.xml" timestamp="1563366517735">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="20" />
+      <file name="$USER_HOME$/java/workspace/springboot/pom.xml" timestamp="1563520427055">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="17" />
+        <mark key="]" line="83" column="30" />
+        <mark key="." line="83" column="30" />
+        <mark key="^" line="83" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="13" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/data/Voice.java" />
-      <jump line="83" column="25" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/data/CallData.java" />
-      <jump line="87" column="26" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/data/CallData.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/data/CallData.java" />
       <jump line="9" column="4" filename="$USER_HOME$/java/workspace/coral/src/com/pccc/factry/SpringFactory.java" />
       <jump line="26" column="58" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" />
       <jump line="21" column="10" filename="$USER_HOME$/java/workspace/coral/test/com/pccc/util/AssertTest.java" />
@@ -281,7 +291,6 @@
       <jump line="47" column="48" filename="$USER_HOME$/java/workspace/algorithms/leetcode-plugin/cn/[20]有效的括号.java" />
       <jump line="19" column="25" filename="$USER_HOME$/java/temp/leetcode-plugin/cn/[21]合并两个有序链表.java" />
       <jump line="16" column="36" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
-      <jump line="21" column="6" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
       <jump line="18" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
       <jump line="10" column="87" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/InitializingBeanImpl.java" />
       <jump line="21" column="2" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/MyBeanPostProcessor.java" />
@@ -293,6 +302,11 @@
       <jump line="19" column="1" filename="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/Configs.java" />
       <jump line="23" column="60" filename="$USER_HOME$/java/workspace/springboot-yang/src/main/java/com/yang/remote/RemoteAspect.java" />
       <jump line="20" column="5" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/java/workspace/springboot/pom.xml" />
+      <jump line="26" column="28" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EncryptationAwarePropertyPlaceholderConfigurer.java" />
+      <jump line="27" column="6" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" />
+      <jump line="4" column="4" filename="$USER_HOME$/java/workspace/springboot/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -305,44 +319,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldExvY2F0aW9uKG5ldyBDbGFzc1BhdGhSZXNvdXJjZSgiYXBwbGljYXRpb24ueW1sIikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>filterorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZy5kZWJ1ZygiLS0tLUFwcGxpY2F0aW9uQ29udGV4dEluaXRpYWxpemVyLS0tLSIgKyBiZWFuKTsK</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7c3ByaW5nLmRhdGFzb3VyY2UucGFzc3dvcmR9IikKICBwdWJsaWMgU3RyaW5nIHRlc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB2YWx1ZTsK</text>
+        <text encoding="base64">ICAgIHNldExvY2F0aW9uKG5ldyBDbGFzc1BhdGhSZXNvdXJjZSgiYXBwbGljYXRpb24ueW1sIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7dGVzdH0iKQo=</text>
+        <text encoding="base64">Ly8gIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwcm9wZXJ0eVJlc291cmNlQ29uZmlndXJlcik7Cg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwcm90ZWN0ZWQgU3RyaW5nIGNvbnZlcnRQcm9wZXJ0eVZhbHVlKFN0cmluZyBvcmlnaW5hbFZhbHVlKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS1vcmlnaW5hbFZhbHVlOiIrb3JpZ2luYWxWYWx1ZSk7CiAgICBpZiAob3JpZ2luYWxWYWx1ZS5zdGFydHNXaXRoKCJcIntmdWNrfSIpKSB7CiAgICAgIFN0cmluZyByZXN1bHQgPSBTdHJpbmdVdGlscy5zdWJzdHJpbmcob3JpZ2luYWxWYWx1ZSwgNywgb3JpZ2luYWxWYWx1ZS5sZW5ndGgoKSAtIDEpOwogICAgICByZXR1cm4gbmV3IFN0cmluZyhCYXNlNjRVdGlscy5kZWNvZGUocmVzdWx0LmdldEJ5dGVzKCkpKTsKICAgIH0KICAgIHJldHVybiBvcmlnaW5hbFZhbHVlOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dTZXJ2aWNlLnF1ZXJ5QWxsKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgTGlzdDxQcm9wZXJ0eVJlc291cmNlQ29uZmlndXJlcj4gcHJvcGVydHlSZXNvdXJjZUNvbmZpZ3VyZXI7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25maWd1cmVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnR5UmVzb3VyY2VDb25maWd1cmVyLmdldCgwKS5zZXRPcmRlcigxKTsK</text>
+        <text encoding="base64">ICBAQmVhbgogIHB1YmxpYyBzdGF0aWMgQmVhblBvc3RQcm9jZXNzb3IgYmVhblBvc3RQcm9jZXNzb3IoKSB7CiAgICBsb2cuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tOkJlYW5Qb3N0UHJvY2Vzc29yIik7CiAgICByZXR1cm4gbmV3IEJlYW5Qb3N0UHJvY2Vzc29yKCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIE9iamVjdCBwb3N0UHJvY2Vzc0JlZm9yZUluaXRpYWxpemF0aW9uKE9iamVjdCBiZWFuLCBTdHJpbmcgYmVhbk5hbWUpIHRocm93cyBCZWFuc0V4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGJlYW4gaW5zdGFuY2VvZiBQcm9wZXJ0eVJlc291cmNlQ29uZmlndXJlcikgewogICAgICAgICAgbG9nLmRlYnVnKCItLS0tUHJvcGVydGllc0xvYWRlclN1cHBvcnQtLS0tIiArIGJlYW4pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQogICAgICAKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBPYmplY3QgcG9zdFByb2Nlc3NBZnRlckluaXRpYWxpemF0aW9uKE9iamVjdCBiZWFuLCBTdHJpbmcgYmVhbk5hbWUpIHRocm93cyBCZWFuc0V4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGJlYW4gaW5zdGFuY2VvZiBIaWthcmlEYXRhU291cmNlKSB7CiAgICAgICAgICBIaWthcmlEYXRhU291cmNlIGhpa2FyaURhdGFTb3VyY2UgPSAoSGlrYXJpRGF0YVNvdXJjZSkgYmVhbjsKICAgICAgICAgIGhpa2FyaURhdGFTb3VyY2Uuc2V0UGFzc3dvcmQobmV3IFN0cmluZyhCYXNlNjRVdGlscy5kZWNvZGUoaGlrYXJpRGF0YVNvdXJjZS5nZXRQYXNzd29yZCgpLmdldEJ5dGVzKCkpKSk7CiAgICAgICAgICBsb2cuZGVidWcoaGlrYXJpRGF0YVNvdXJjZS5nZXRQYXNzd29yZCgpKTsKICAgICAgICAgIGxvZy5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTEtLS0tLS0tLS0iICsgYmVhbik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CiAgICB9OwogICAgCiAgICAKICB9CiAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QE9yZGVyKDApCg==</text>
+        <text encoding="base64">Ly8gIEBCZWFuCiAgcHVibGljIHN0YXRpYyBQcm9wZXJ0eVBsYWNlaG9sZGVyQ29uZmlndXJlciBwcm9wZXJ0eVBsYWNlaG9sZGVyQ29uZmlndXJlcigpIHsKICAgIGxvZy5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS06UHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIiKTsKICAgIHJldHVybiBuZXcgUHJvcGVydHlQbGFjZWhvbGRlckNvbmZpZ3VyZXIoKSB7CiAgICAgIEBPdmVycmlkZQogICAgICBwcm90ZWN0ZWQgU3RyaW5nIGNvbnZlcnRQcm9wZXJ0eVZhbHVlKFN0cmluZyBvcmlnaW5hbFZhbHVlKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iICsgb3JpZ2luYWxWYWx1ZSk7CiAgICAgICAgaWYgKG9yaWdpbmFsVmFsdWUuc3RhcnRzV2l0aCgie2Z1Y2t9IikpIHsKICAgICAgICAgIHJldHVybiBzdXBlci5jb252ZXJ0UHJvcGVydHlWYWx1ZShuZXcgU3RyaW5nKAogICAgICAgICAgICAgIChCYXNlNjRVdGlscy5kZWNvZGUob3JpZ2luYWxWYWx1ZS5yZXBsYWNlQWxsKCJeXFx7ZnVja1xcfSIsICIiKS5nZXRCeXRlcygpKSkpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHN1cGVyLmNvbnZlcnRQcm9wZXJ0eVZhbHVlKG9yaWdpbmFsVmFsdWUpOwogICAgICB9CiAgCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgaW50IGdldE9yZGVyKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS1Qcm9wZXJ0eVBsYWNlaG9sZGVyQ29uZmlndXJlciBnZXRvcmRlci0tLS0tLS0iICk7CiAgICAgICAgcmV0dXJuIEludGVnZXIuTUFYX1ZBTFVFOwogICAgICB9CiAgICB9OwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwcm9wZXJ0eVJlc291cmNlQ29uZmlndXJlci5nZXQoMCkuc2V0T3JkZXIoMSkpOwo=</text>
+        <text encoding="base64">ICBAQmVhbgogIHB1YmxpYyBzdGF0aWMgQmVhblBvc3RQcm9jZXNzb3IgYmVhblBvc3RQcm9jZXNzb3IoKSB7CiAgICBsb2cuZGVidWcoIi0tLS0tLS0tLS0tLS0tLS0tLS0tOkJlYW5Qb3N0UHJvY2Vzc29yIik7CiAgICByZXR1cm4gbmV3IEJlYW5Qb3N0UHJvY2Vzc29yKCkgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIE9iamVjdCBwb3N0UHJvY2Vzc0JlZm9yZUluaXRpYWxpemF0aW9uKE9iamVjdCBiZWFuLCBTdHJpbmcgYmVhbk5hbWUpIHRocm93cyBCZWFuc0V4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGJlYW4gaW5zdGFuY2VvZiBQcm9wZXJ0eVJlc291cmNlQ29uZmlndXJlcikgewogICAgICAgICAgbG9nLmRlYnVnKCItLS0tUHJvcGVydGllc0xvYWRlclN1cHBvcnQtLS0tIiArIGJlYW4pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQogICAgICAKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBPYmplY3QgcG9zdFByb2Nlc3NBZnRlckluaXRpYWxpemF0aW9uKE9iamVjdCBiZWFuLCBTdHJpbmcgYmVhbk5hbWUpIHRocm93cyBCZWFuc0V4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGJlYW4gaW5zdGFuY2VvZiBIaWthcmlEYXRhU291cmNlKSB7CiAgICAgICAgICBIaWthcmlEYXRhU291cmNlIGhpa2FyaURhdGFTb3VyY2UgPSAoSGlrYXJpRGF0YVNvdXJjZSkgYmVhbjsKICAgICAgICAgIGhpa2FyaURhdGFTb3VyY2Uuc2V0UGFzc3dvcmQobmV3IFN0cmluZyhCYXNlNjRVdGlscy5kZWNvZGUoaGlrYXJpRGF0YVNvdXJjZS5nZXRQYXNzd29yZCgpLmdldEJ5dGVzKCkpKSk7CiAgICAgICAgICBsb2cuZGVidWcoaGlrYXJpRGF0YVNvdXJjZS5nZXRQYXNzd29yZCgpKTsKICAgICAgICAgIGxvZy5kZWJ1ZygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTEtLS0tLS0tLS0iICsgYmVhbik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CiAgICB9OwogICAgCiAgICAKICB9CiAgCiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKFNwcmluZ2Jvb3RBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7CiAgfQogIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyYwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25maWd1cmVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
