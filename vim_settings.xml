@@ -210,6 +210,11 @@
         <mark key="." line="42" column="23" />
         <mark key="^" line="42" column="24" />
       </file>
+      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[100]相同的树.java" timestamp="1563888752531">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/resources/application.yml" timestamp="1563462597799">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="2" column="14" />
@@ -395,10 +400,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIGlmIChtID4gMCkgewoJCQkJbnVtczFbaV0gPSBudW1zMVstLW1dOwo=</text>
+        <text encoding="base64">CQlpZiAocCA9PSBxKSB7CgkJCXJldHVybiB0cnVlOwoJCX0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbXRwUHJpbnRTdHJlYW1cPg==</text>
@@ -407,31 +412,31 @@
         <text encoding="base64">CQkJCW51bXMxW2ldID0gbnVtczFbLS1tXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIGlmIChtID4gMCkgewoJCQkJbnVtczFbaV0gPSBudW1zMVstLW1dOwo=</text>
+        <text encoding="base64">CQlpZiAocCA9PSBxKSB7CgkJCXJldHVybiB0cnVlOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCW51bXMxW2ldID0gbnVtczFbLS1tXTsK</text>
+        <text encoding="base64">CQlpZiAocCA9PSBudWxsIHx8IHEgPT0gbnVsbCkgewoJCQlyZXR1cm4gZmFsc2U7CgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIGlmIChtID4gMCkgewo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihpKyIqKioqKioiK251KTsK</text>
+        <text encoding="base64">CQlpZiAocC52YWwgPT0gcS52YWwpIHsKCQkJcmV0dXJuIGlzU2FtZVRyZWUocC5sZWZ0LCBxLmxlZnQpICYmIGlzU2FtZVRyZWUocC5yaWdodCwgcS5yaWdodCk7CgkJfQoJCXJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihpKyIqKioqKioiK251KTsK</text>
+        <text encoding="base64">CQkJfSBlbHNlIGlmIChtID4gMCkgewoJCQkJbnVtczFbaV0gPSBudW1zMVstLW1dOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCW51bXMxW2ldID0gbnVtczFbbS0tXTsK</text>
+        <text encoding="base64">CQkJCW51bXMxW2ldID0gbnVtczFbLS1tXTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJfSBlbHNlIGlmIChtID4gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQluLS07Cg==</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihpKyIqKioqKioiK251KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQltLS07Cg==</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihpKyIqKioqKioiK251KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
