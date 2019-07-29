@@ -48,10 +48,11 @@
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" timestamp="1563890670964">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" timestamp="1563895678958">
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="80" column="48" />
+        <mark key="." line="80" column="48" />
+        <mark key="^" line="80" column="48" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/remote/Remote.java" timestamp="1563457515739">
         <mark key="[" line="8" column="23" />
@@ -195,10 +196,11 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[67]二进制求和.java" timestamp="1563892040829">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[67]二进制求和.java" timestamp="1564394485115">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="37" />
+        <mark key="^" line="38" column="37" />
+        <mark key="." line="38" column="37" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/EnvironmentDecryptApplicationInitializer.java" timestamp="1563507916157">
         <mark key="[" line="7" column="0" />
@@ -299,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="1" filename="$USER_HOME$/java/workspace/test/src/test/java/test/HMap.java" />
-      <jump line="651" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/locks/ReentrantLock.java" />
-      <jump line="9" column="23" filename="$USER_HOME$/java/workspace/test/src/test/java/concurrency/CountDownLatchTest.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="443" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="53" column="18" filename="$USER_HOME$/java/workspace/test/src/test/java/test/nios/TestRead.java" />
@@ -399,6 +398,9 @@
       <jump line="12" column="6" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/net/smtp/SmtpPrintStream.class" />
       <jump line="47" column="5" filename="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" />
       <jump line="21" column="18" filename="$USER_HOME$/java/temp/leetcode-plugin/cn/[88]合并两个有序数组.java" />
+      <jump line="67" column="27" filename="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" />
+      <jump line="83" column="31" filename="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/java/workspace/algorithms/src/com/li/algorithms/adt/Array.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,43 +414,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoYS5sZW5ndGgoKSA+IGIubGVuZ3RoKCkpIHsKCQkJcmV0dXJuIGFkZEJpbmFyeShiLCBhKTsKCQl9CgkJY2hhcltdIGNiID0gYi50b0NoYXJBcnJheSgpOwoJCWNoYXJbXSBjYSA9IG5ldyBjaGFyW2NiLmxlbmd0aF07CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBhLmxlbmd0aCgpOyBpKyspIHsKCQkJY2FbaSArIGNiLmxlbmd0aCAtIGNhLmxlbmd0aF0gPSAKCQl9Cg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKHNoaWZ0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbXRwUHJpbnRTdHJlYW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljaGFyW10gY2IgPSBuZXcgY2hhcltjYS5sZW5ndGhdOwo=</text>
+        <text encoding="base64">CQkJCXNoaWZ0ICs9IGEuY2hhckF0KGxhIC0gaSAtIDEpICsgMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoYS5sZW5ndGgoKSA+IGIubGVuZ3RoKCkpIHsKCQkJcmV0dXJuIGFkZEJpbmFyeShiLCBhKTsKCQl9CgkJY2hhcltdIGNiID0gYi50b0NoYXJBcnJheSgpOwoJCWNoYXJbXSBjYSA9IG5ldyBjaGFyW2NiLmxlbmd0aF07CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBhLmxlbmd0aCgpOyBpKyspIHsKCQkJY2FbaSArIGNiLmxlbmd0aCAtIGNhLmxlbmd0aF0gPSAKCQl9Cg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKHNoaWZ0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhID0K</text>
+        <text encoding="base64">CXsgcmV0dXJuIG5ldyBTdHJpbmcoY2EsIDEsIG1heCAtIDEpOyB9CgkKCVN0cmluZyhjYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZihyb290LmxlZnQgPT1udWxsICYmIHJvb3QucmlnaHQ9PW51bGwpewoJCQlyZXR1cm4gMTsKCQl9Cg==</text>
+        <text encoding="base64">CQkJY2FbaSAtIDFdID0gKGNoYXIpICh2IC8gMiArIGNhW2kgLSAxXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRoLm1heCgsICkK</text>
+        <text encoding="base64">CQkJaW50IHYgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJTWF0aC5tYXgK</text>
+        <text encoding="base64">CQlpZihjYVswXT09JzAnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZihsLmxlZnQpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZihsLikK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAocm9vdC5sZWZ0ID09IHJvb3QucmlnaHQpIHsKCQkJcmV0dXJuIHRydWU7CgkJfQo=</text>
+        <text encoding="base64">CQlmb3IgKGludCBpID0gbWF4OyBpID4gMDsgaS0tKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
