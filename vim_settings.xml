@@ -127,10 +127,10 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
-      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[69]x 的平方根.java" timestamp="1564574821202">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
+      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[69]x 的平方根.java" timestamp="1564575606690">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
         <mark key="^" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563711611118">
@@ -139,11 +139,10 @@
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1563289851256">
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="23" />
-        <mark key="." line="42" column="23" />
-        <mark key="^" line="42" column="24" />
+      <file name="$USER_HOME$/java/temp/leetcode-plugin/cn/[70]爬楼梯.java" timestamp="1564575997867">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/resources/application.yml" timestamp="1563462597799">
         <mark key="[" line="1" column="9" />
@@ -429,11 +428,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogIAogIHN0YXRpYyB7CiAgICBtYXAucHV0KDEsIDEpOwogICAgbWFwLnB1dCgyLCAyKTsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>000001</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbXRwUHJpbnRTdHJlYW1cPg==</text>
@@ -442,31 +441,31 @@
         <text encoding="base64">CQlpbnNlcnQobm9kZS5sZWZ0LCBkZXB0aCsxLCByZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZih4ID09MCkK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogIAogIHN0YXRpYyB7CiAgICBtYXAucHV0KDEsIDEpOwogICAgbWFwLnB1dCgyLCAyKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZih4ID09MCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7CgkgICAgY2xhc3MgU29sdXRpb24gewoJCSAgICBwdWJsaWMgaW50IGxlbmd0aE9mTGFzdFdvcmQoU3RyaW5nIHMpIHsKCQkJICAgIGlmKHMgPT0gbnVsbCl7CgkJCQkgICAgcmV0dXJuIDA7CgkJCSAgICB9CgkJCQoJCQkgICAgaW50IGxlbiA9IHMubGVuZ3RoKCk7CgkJCSAgICBib29sZWFuIGZsYWcgPSB0cnVlOwoJCQkgICAgZm9yKGludCBpID1zLmxlbmd0aCgpLTE7aT4tMTtpLS0pewoJCQkJICAgIGlmKGZsYWcpewoJCQkJCSAgICBpZihzLmNoYXJBdChpKSA9PSAnICcpewoJCQkJCQkgICAgY29udGludWU7CgkJCQkJICAgIH1lbHNlewoJCQkJCQkgICAgbGVuKys7CgkJCQkJCSAgICBmbGFnID0gZmFsc2U7CgkJCQkJICAgIH0KCQkJCQkKCQkJCSAgICB9CgkJCQkgICAgaWYocy5jaGFyQXQoaSkgIT0gJyAnKXsKCQkJCQkgICAgbGVuICsrOwoJCQkJICAgIH1lbHNlewoJCQkJCSAgICBicmVhazsKCQkJCSAgICB9CgkJCQkKCQkJICAgIH0KCQkJICAgIHJldHVybiBsZW47CgkJICAgIH0KCSAgICB9IAogICAgfQp9Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7Cg==</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7CgkgICAgY2xhc3MgU29sdXRpb24gewoJCSAgICBwdWJsaWMgaW50IGxlbmd0aE9mTGFzdFdvcmQoU3RyaW5nIHMpIHsKCQkJICAgIGlmKHMgPT0gbnVsbCl7CgkJCQkgICAgcmV0dXJuIDA7CgkJCSAgICB9CgkJCQoJCQkgICAgaW50IGxlbiA9IHMubGVuZ3RoKCk7CgkJCSAgICBib29sZWFuIGZsYWcgPSB0cnVlOwoJCQkgICAgZm9yKGludCBpID1zLmxlbmd0aCgpLTE7aT4tMTtpLS0pewoJCQkJICAgIGlmKGZsYWcpewoJCQkJCSAgICBpZihzLmNoYXJBdChpKSA9PSAnICcpewoJCQkJCQkgICAgY29udGludWU7CgkJCQkJICAgIH1lbHNlewoJCQkJCQkgICAgbGVuKys7CgkJCQkJCSAgICBmbGFnID0gZmFsc2U7CgkJCQkJICAgIH0KCQkJCQkKCQkJCSAgICB9CgkJCQkgICAgaWYocy5jaGFyQXQoaSkgIT0gJyAnKXsKCQkJCQkgICAgbGVuICsrOwoJCQkJICAgIH1lbHNlewoJCQkJCSAgICBicmVhazsKCQkJCSAgICB9CgkJCQkKCQkJICAgIH0KCQkJICAgIHJldHVybiBsZW47CgkJICAgIH0KCSAgICB9IAogICAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBjbGFzcyBTb2x1dGlvbiB7Cg==</text>
+        <text encoding="base64">CQkgICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdHVzCg==</text>
+        <text encoding="base64">CSAgICBjbGFzcyBTb2x1dGlvbiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">c3RhdHVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWRldnRvb2xzPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgIDxvcHRpb25hbD50cnVlPC9vcHRpb25hbD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
