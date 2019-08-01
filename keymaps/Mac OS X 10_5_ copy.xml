@@ -36,9 +36,7 @@
   <action id="EditorRightWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
+  <action id="GotoAction" />
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
   <action id="QuickImplementations" />
@@ -53,6 +51,9 @@
   </action>
   <action id="ResizeToolWindowRight" />
   <action id="Run" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
