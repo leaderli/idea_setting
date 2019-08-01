@@ -9,6 +9,12 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/pom.xml" timestamp="1564589075698">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1b8668b0-6191-4ba1-be0b-b8699d64711e/console.sql" timestamp="1564495209132">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="0" />
@@ -60,6 +66,12 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/src/test/java/com/li/mybatis/TestSqlSessionFactory.java" timestamp="1564589467973">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="73" />
+        <mark key="^" line="17" column="73" />
+        <mark key="." line="17" column="73" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src/java/util/ArrayList.java" timestamp="1563764417458">
         <mark key="[" line="476" column="39" />
         <mark key="]" line="476" column="38" />
@@ -84,6 +96,9 @@
         <mark key="]" line="8" column="23" />
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/src/main/java/org/mybatis/example/BlogMapper.xml" timestamp="1564589546985">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/core/env/MutablePropertySources.java" timestamp="1563546666605">
         <mark key="[" line="70" column="41" />
@@ -132,6 +147,12 @@
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
         <mark key="^" line="33" column="29" />
+      </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/src/main/resources/mybatis-config.xml" timestamp="1564589834038">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/SpringbootApplication.java" timestamp="1563711611118">
         <mark key="[" line="21" column="3" />
@@ -263,6 +284,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="40" />
       </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/src/main/java/com/li/mybatis/Blog.java" timestamp="1564589789817">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/test/java/com/li/springboot/SpringbootApplicationTests.java" timestamp="1563456225316">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="1" />
@@ -272,12 +299,19 @@
       <file name="/Dummy.txt" timestamp="1564588689686">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/src/main/resources/config.properties" timestamp="1564589328816">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/java/workspace/springboot/src/main/java/com/li/springboot/util/AA.java" timestamp="1563505426323">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="7" column="75" />
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
+      <file name="$USER_HOME$/java/workspace/mybatis/src/main/java/blog/Blog.java" timestamp="1564589772823" />
       <file name="$USER_HOME$/java/workspace/springboot-yang/src/test/com/yang/remote/BaseRest.java" timestamp="1563457092755">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="4" column="41" />
@@ -427,11 +461,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogIAogIHN0YXRpYyB7CiAgICBtYXAucHV0KDEsIDEpOwogICAgbWFwLnB1dCgyLCAyKTsKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>000001</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbXRwUHJpbnRTdHJlYW1cPg==</text>
@@ -440,31 +474,31 @@
         <text encoding="base64">CQlpbnNlcnQobm9kZS5sZWZ0LCBkZXB0aCsxLCByZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogIAogIHN0YXRpYyB7CiAgICBtYXAucHV0KDEsIDEpOwogICAgbWFwLnB1dCgyLCAyKTsKICB9Cg==</text>
+        <text encoding="base64">ZHJpdmVyLWNsYXNzLW5hbWU6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZih4ID09MCkK</text>
+        <text encoding="base64">cGFzc3dvcmQ6ICd7Y2lwaGVyfWNtOXZkQScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">dXNlcm5hbWU6IHJvb3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7CgkgICAgY2xhc3MgU29sdXRpb24gewoJCSAgICBwdWJsaWMgaW50IGxlbmd0aE9mTGFzdFdvcmQoU3RyaW5nIHMpIHsKCQkJICAgIGlmKHMgPT0gbnVsbCl7CgkJCQkgICAgcmV0dXJuIDA7CgkJCSAgICB9CgkJCQoJCQkgICAgaW50IGxlbiA9IHMubGVuZ3RoKCk7CgkJCSAgICBib29sZWFuIGZsYWcgPSB0cnVlOwoJCQkgICAgZm9yKGludCBpID1zLmxlbmd0aCgpLTE7aT4tMTtpLS0pewoJCQkJICAgIGlmKGZsYWcpewoJCQkJCSAgICBpZihzLmNoYXJBdChpKSA9PSAnICcpewoJCQkJCQkgICAgY29udGludWU7CgkJCQkJICAgIH1lbHNlewoJCQkJCQkgICAgbGVuKys7CgkJCQkJCSAgICBmbGFnID0gZmFsc2U7CgkJCQkJICAgIH0KCQkJCQkKCQkJCSAgICB9CgkJCQkgICAgaWYocy5jaGFyQXQoaSkgIT0gJyAnKXsKCQkJCQkgICAgbGVuICsrOwoJCQkJICAgIH1lbHNlewoJCQkJCSAgICBicmVhazsKCQkJCSAgICB9CgkJCQkKCQkJICAgIH0KCQkJICAgIHJldHVybiBsZW47CgkJICAgIH0KCSAgICB9IAogICAgfQp9Cg==</text>
+        <text encoding="base64">dXJsOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7Cg==</text>
+        <text encoding="base64">PHByb3BlcnR5IG5hbWU9ImRyaXZlciIgdmFsdWU9IiR7ZHJpdmVyfSIvPgo8cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iJHt1cmx9Ii8+Cjxwcm9wZXJ0eSBuYW1lPSJ1c2VybmFtZSIgdmFsdWU9IiR7dXNlcm5hbWV9Ii8+Cjxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9IiR7cGFzc3dvcmR9Ii8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICBjbGFzcyBTb2x1dGlvbiB7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogIAogIHN0YXRpYyB7CiAgICBtYXAucHV0KDEsIDEpOwogICAgbWFwLnB1dCgyLCAyKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZih4ID09MCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">Y2xhc3MgU29sdXRpb24gewogICAgcHVibGljIGludCBsZW5ndGhPZkxhc3RXb3JkKFN0cmluZyBzKSB7CgkgICAgY2xhc3MgU29sdXRpb24gewoJCSAgICBwdWJsaWMgaW50IGxlbmd0aE9mTGFzdFdvcmQoU3RyaW5nIHMpIHsKCQkJICAgIGlmKHMgPT0gbnVsbCl7CgkJCQkgICAgcmV0dXJuIDA7CgkJCSAgICB9CgkJCQoJCQkgICAgaW50IGxlbiA9IHMubGVuZ3RoKCk7CgkJCSAgICBib29sZWFuIGZsYWcgPSB0cnVlOwoJCQkgICAgZm9yKGludCBpID1zLmxlbmd0aCgpLTE7aT4tMTtpLS0pewoJCQkJICAgIGlmKGZsYWcpewoJCQkJCSAgICBpZihzLmNoYXJBdChpKSA9PSAnICcpewoJCQkJCQkgICAgY29udGludWU7CgkJCQkJICAgIH1lbHNlewoJCQkJCQkgICAgbGVuKys7CgkJCQkJCSAgICBmbGFnID0gZmFsc2U7CgkJCQkJICAgIH0KCQkJCQkKCQkJCSAgICB9CgkJCQkgICAgaWYocy5jaGFyQXQoaSkgIT0gJyAnKXsKCQkJCQkgICAgbGVuICsrOwoJCQkJICAgIH1lbHNlewoJCQkJCSAgICBicmVhazsKCQkJCSAgICB9CgkJCQkKCQkJICAgIH0KCQkJICAgIHJldHVybiBsZW47CgkJICAgIH0KCSAgICB9IAogICAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
