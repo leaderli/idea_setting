@@ -6,8 +6,8 @@
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="Test.java" type="PLAIN_TEXT" />
       <mapping ext="tbl" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="logj4" type="Properties" />
       <mapping ext="factories" type="Properties" />
