@@ -20,6 +20,5 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>
