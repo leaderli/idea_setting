@@ -12,5 +12,9 @@
       <display-name>SipPhrase.toString (com.sip.announce)</display-name>
       <place><![CDATA[psiMethod().withName("toString").withParameters().definedInClass("com.sip.announce.SipPhrase")]]></place>
     </injection>
+    <injection language="MySQL" injector-id="xml">
+      <display-name>select</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
   </component>
 </application>
