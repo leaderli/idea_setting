@@ -4,4 +4,7 @@
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+  </component>
 </application>
