@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="/usr/local/Cellar/gradle/5.3.1/bin" />
+    <option name="serviceDirectoryPath" value="/usr/local/Cellar/gradle/5.4.1/libexec" />
   </component>
 </application>
