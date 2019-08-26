@@ -4,7 +4,7 @@
     <property name="created">2019-08-26T18:42:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-26T19:56:46</property>
+    <property name="modified">2019-08-26T21:56:41</property>
     <property name="originalScheme">IntelliJ Light Preview</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -18,6 +18,9 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value />
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="6dcc" />
@@ -46,6 +49,11 @@
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
         <option name="FOREGROUND" value="239375" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
+      <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -267,6 +275,12 @@
         <option name="FOREGROUND" value="6dcc" />
         <option name="EFFECT_COLOR" value="6dcc" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e8ad6f" />
+        <option name="ERROR_STRIPE_COLOR" value="d17b36" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
