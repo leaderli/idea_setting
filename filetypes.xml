@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="Test.java" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping ext="tbl" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
