@@ -35,42 +35,17 @@
   <action id="EditorRightWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
-  <action id="GoToTab1">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
-  <action id="GoToTab2">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
-  <action id="GoToTab3">
-    <keyboard-shortcut first-keystroke="shift number_sign" />
-  </action>
-  <action id="GoToTab4">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
-  <action id="GoToTab5">
-    <keyboard-shortcut first-keystroke="alt 5" />
-  </action>
-  <action id="GoToTab6">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="GoToTab7">
-    <keyboard-shortcut first-keystroke="alt 7" />
-  </action>
-  <action id="GoToTab8">
-    <keyboard-shortcut first-keystroke="alt 8" />
-  </action>
-  <action id="GoToTab9">
-    <keyboard-shortcut first-keystroke="alt 9" />
-  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="GotoBookmark3">
-    <keyboard-shortcut first-keystroke="ctrl 3" />
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift braceright" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift braceleft" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -95,6 +70,16 @@
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark5" />
+  <action id="ToggleBookmark6" />
+  <action id="ToggleBookmark7" />
+  <action id="ToggleBookmark8" />
+  <action id="ToggleBookmark9" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
