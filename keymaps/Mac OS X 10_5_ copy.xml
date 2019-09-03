@@ -40,7 +40,9 @@
   </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
-  <action id="QuickImplementations" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
