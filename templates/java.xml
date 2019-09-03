@@ -5,4 +5,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="test" value="@Test&#10;public void $EXPR$() {&#10;    &#10;}" description="Prints a value to System.out" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="$EXPR$" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
