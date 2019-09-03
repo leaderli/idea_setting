@@ -1,0 +1,11 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="souta@userDefined" key=".souta" provider="builtin.java" language-level="1.3" topmost="true">
+      <conditions>
+        <condition id="non void" />
+        <condition id="array" />
+      </conditions>
+      <template name="fakeKey" value="System.out.println(&quot;$EXPR$ : &quot; + Arrays.toString($EXPR$));$END$&#10;" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
