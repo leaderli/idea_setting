@@ -1,5 +1,5 @@
 <templateSet group="java">
-  <template name="log4j" value="private static final Logger LOGGER = Logger.getLogger($CLASS$.class);&#10; " description="" toReformat="true" toShortenFQNames="false">
+  <template name="log4j" value="private static final Logger LOGGER = Logger.getLogger($CLASS$.class);&#10; " description="auto log4j" toReformat="true" toShortenFQNames="false">
     <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
