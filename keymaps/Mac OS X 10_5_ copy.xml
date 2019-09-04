@@ -41,10 +41,10 @@
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift braceright" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift braceleft" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt q" />
