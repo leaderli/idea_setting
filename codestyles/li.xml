@@ -36,6 +36,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="SMART_TABS" value="true" />
