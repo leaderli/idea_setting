@@ -40,6 +40,9 @@
   </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
