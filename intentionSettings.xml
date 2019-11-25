@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="TypeScript/Convert type alias to interface" />
+    <ignoreAction name="TypeScript/Generate reference path comment" />
+    <ignoreAction name="TypeScript/Make 'private'" />
+    <ignoreAction name="TypeScript/Make 'protected'" />
+    <ignoreAction name="TypeScript/Make 'public'" />
+  </component>
+</application>
