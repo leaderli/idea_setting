@@ -1,13 +1,4 @@
 <application>
-  <component name="DiffManager">
-    <enableFiles value="true" />
-    <filesTool value="/usr/local/bin/ksdiff " newValue="/usr/local/bin/ksdiff " />
-    <mergeToolParameters value="%1 %2 %3 %4" />
-  </component>
-  <component name="ExternalDiffSettings">
-    <option name="DIFF_DEFAULT" value="true" />
-    <option name="DIFF_EXE_PATH" value="/usr/local/bin/ksdiff " />
-  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
