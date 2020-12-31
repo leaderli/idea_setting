@@ -1,6 +1,8 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
@@ -21,7 +23,9 @@
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
