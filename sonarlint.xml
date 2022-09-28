@@ -1,0 +1,35 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S100">
+          <value>
+            <Rule active="false" key="java:S100" />
+          </value>
+        </entry>
+        <entry key="java:S1118">
+          <value>
+            <Rule active="false" key="java:S1118" />
+          </value>
+        </entry>
+        <entry key="java:S116">
+          <value>
+            <Rule active="false" key="java:S116" />
+          </value>
+        </entry>
+        <entry key="java:S117">
+          <value>
+            <Rule active="false" key="java:S117" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S117" />
+      <Rule active="false" key="java:S100" />
+      <Rule active="false" key="java:S1118" />
+      <Rule active="false" key="java:S116" />
+    </rules>
+  </component>
+</application>

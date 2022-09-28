@@ -1,0 +1,12 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="editor.maximize.in.splits.on.double.click" value="true" />
+        <entry key="editor.normalize.splits" value="true" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="markdown.hide.floating.toolbar" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

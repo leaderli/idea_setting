@@ -1,0 +1,4 @@
+<list display="quick">
+  <action id="MoveTabRight" />
+  <action id="Unsplit" />
+</list>

@@ -1,0 +1,28 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="cout@userDefined" key=".print" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="io.leaderli.litool.core.util.ConsoleUtil.print($EXPR$);$END$" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+    </template>
+    <template id="println@userDefined" key=".println" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="io.leaderli.litool.core.util.ConsoleUtil.println($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="lira@userDefined" key=".lira" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="io.leaderli.litool.core.meta.Lira.of($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="lino@userDefined" key=".lino" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="io.leaderli.litool.core.meta.Lino.of($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

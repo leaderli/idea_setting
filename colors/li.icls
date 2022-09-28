@@ -1,0 +1,214 @@
+<scheme name="li" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-02-09T00:28:49</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2020-06-12T00:10:58</property>
+    <property name="originalScheme">beauty</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff081b" />
+    <option name="SELECTION_BACKGROUND" value="f6ebbc" />
+    <option name="SELECTION_FOREGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="353033" />
+        <option name="BACKGROUND" value="fafadc" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="BACKGROUND" value="dcdcdc" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="JAVA_BRACES">
+      <value />
+    </option>
+    <option name="JAVA_BRACKETS">
+      <value />
+    </option>
+    <option name="JAVA_COMMA">
+      <value />
+    </option>
+    <option name="JAVA_DOT">
+      <value />
+    </option>
+    <option name="JAVA_INVALID_STRING_ESCAPE">
+      <value />
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="9013be" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="14c20d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_OPERATION_SIGN">
+      <value />
+    </option>
+    <option name="JAVA_PARENTH">
+      <value />
+    </option>
+    <option name="JAVA_SEMICOLON">
+      <value />
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="14c20d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6677ff" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="9013be" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff5fbe" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value />
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="cb21d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LAMBDA_PARAMETER_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="1ddb06" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ff9bc7" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

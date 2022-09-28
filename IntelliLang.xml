@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>Gson.fromJson (com.google.gson)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("fromJson").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.google.gson.Gson"))]]></place>
+    </injection>
+  </component>
+</application>

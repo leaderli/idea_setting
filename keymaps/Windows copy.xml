@@ -1,0 +1,51 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="ContextHelp" />
+  <action id="DSM.OpenInEditor" />
+  <action id="Debugger.EditFrameSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="ExternalSystem.OpenConfig" />
+  <action id="FileChooser.GotoJDK">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="alt b" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="Jdbc.OpenEditor" />
+  <action id="NavBar-navigate" />
+  <action id="OpenModuleSettings" />
+  <action id="ProjectViewEditSource" />
+  <action id="RemoteHostView.EditSource" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Sql.EditParameter" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+</keymap>

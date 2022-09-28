@@ -1,0 +1,23 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-06-02T10:33:22</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.6.0.0</property>
+    <property name="modified">2020-06-11T23:32:49</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Andale Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff081b" />
+  </colors>
+</scheme>
