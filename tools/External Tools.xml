@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="byte" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$JDKPath$/bin/javap" />
-      <option name="PARAMETERS" value="-v -private $FileClass$" />
-      <option name="WORKING_DIRECTORY" value="$OutputPath$" />
-    </exec>
-  </tool>
-</toolSet>

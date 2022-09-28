@@ -1,8 +1,0 @@
-<application>
-  <component name="ConfigurationProvider">
-    <option name="ideaFocusedInput" value="com.apple.keylayout.ABC" />
-    <option name="inVimInsertInput" value="Last" />
-    <option name="outOfIdeaInput" value="Last" />
-    <option name="outVimInsertInput" value="com.apple.keylayout.ABC" />
-  </component>
-</application>

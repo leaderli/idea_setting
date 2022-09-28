@@ -1,7 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/Users/li/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/Kotlin/kotlinc" />
-    <macro name="TOMCAT_HOME" value="/Users/li/java/apache-tomcat-7.0.70" />
-  </component>
-</application>

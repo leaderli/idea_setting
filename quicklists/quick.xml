@@ -1,9 +1,0 @@
-<list display="quick">
-  <action id="MoveTabRight" />
-  <action id="QuickImplementations" />
-  <action id="QuickList.$Separator$" />
-  <action id="QuickJavaDoc" />
-  <action id="QuickList.$Separator$" />
-  <action id="Tool_External Tools_byte" />
-  <action id="QuickList.$Separator$" />
-</list>
