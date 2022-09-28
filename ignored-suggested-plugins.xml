@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.selenium" />
+        <option value="idea.plugin.protoeditor" />
+      </list>
+    </option>
+  </component>
+</application>

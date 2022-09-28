@@ -8,9 +8,34 @@
             <Rule active="false" key="java:S100" />
           </value>
         </entry>
+        <entry key="java:S106">
+          <value>
+            <Rule active="false" key="java:S106" />
+          </value>
+        </entry>
+        <entry key="java:S1066">
+          <value>
+            <Rule active="false" key="java:S1066" />
+          </value>
+        </entry>
         <entry key="java:S1118">
           <value>
             <Rule active="false" key="java:S1118" />
+          </value>
+        </entry>
+        <entry key="java:S112">
+          <value>
+            <Rule active="false" key="java:S112" />
+          </value>
+        </entry>
+        <entry key="java:S1133">
+          <value>
+            <Rule active="false" key="java:S1133" />
+          </value>
+        </entry>
+        <entry key="java:S115">
+          <value>
+            <Rule active="false" key="java:S115" />
           </value>
         </entry>
         <entry key="java:S116">
@@ -23,13 +48,138 @@
             <Rule active="false" key="java:S117" />
           </value>
         </entry>
+        <entry key="java:S1172">
+          <value>
+            <Rule active="false" key="java:S1172" />
+          </value>
+        </entry>
+        <entry key="java:S1181">
+          <value>
+            <Rule active="false" key="java:S1181" />
+          </value>
+        </entry>
+        <entry key="java:S119">
+          <value>
+            <Rule active="false" key="java:S119" />
+          </value>
+        </entry>
+        <entry key="java:S1192">
+          <value>
+            <Rule active="false" key="java:S1192" />
+          </value>
+        </entry>
+        <entry key="java:S1214">
+          <value>
+            <Rule active="false" key="java:S1214" />
+          </value>
+        </entry>
+        <entry key="java:S127">
+          <value>
+            <Rule active="false" key="java:S127" />
+          </value>
+        </entry>
+        <entry key="java:S1319">
+          <value>
+            <Rule active="false" key="java:S1319" />
+          </value>
+        </entry>
+        <entry key="java:S135">
+          <value>
+            <Rule active="false" key="java:S135" />
+          </value>
+        </entry>
+        <entry key="java:S1452">
+          <value>
+            <Rule active="false" key="java:S1452" />
+          </value>
+        </entry>
+        <entry key="java:S1659">
+          <value>
+            <Rule active="false" key="java:S1659" />
+          </value>
+        </entry>
+        <entry key="java:S2160">
+          <value>
+            <Rule active="false" key="java:S2160" />
+          </value>
+        </entry>
+        <entry key="java:S2234">
+          <value>
+            <Rule active="false" key="java:S2234" />
+          </value>
+        </entry>
+        <entry key="java:S2386">
+          <value>
+            <Rule active="false" key="java:S2386" />
+          </value>
+        </entry>
+        <entry key="java:S2390">
+          <value>
+            <Rule active="false" key="java:S2390" />
+          </value>
+        </entry>
+        <entry key="java:S3011">
+          <value>
+            <Rule active="false" key="java:S3011" />
+          </value>
+        </entry>
+        <entry key="java:S3776">
+          <value>
+            <Rule active="false" key="java:S3776" />
+          </value>
+        </entry>
+        <entry key="java:S4276">
+          <value>
+            <Rule active="false" key="java:S4276" />
+          </value>
+        </entry>
+        <entry key="java:S5778">
+          <value>
+            <Rule active="false" key="java:S5778" />
+          </value>
+        </entry>
+        <entry key="java:S5961">
+          <value>
+            <Rule active="false" key="java:S5961" />
+          </value>
+        </entry>
+        <entry key="java:S5976">
+          <value>
+            <Rule active="false" key="java:S5976" />
+          </value>
+        </entry>
       </map>
     </option>
     <rules>
+      <Rule active="false" key="java:S1214" />
+      <Rule active="false" key="java:S1452" />
+      <Rule active="false" key="java:S1133" />
+      <Rule active="false" key="java:S1172" />
+      <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="java:S112" />
+      <Rule active="false" key="java:S2390" />
+      <Rule active="false" key="java:S4276" />
       <Rule active="false" key="java:S117" />
-      <Rule active="false" key="java:S100" />
-      <Rule active="false" key="java:S1118" />
+      <Rule active="false" key="java:S5961" />
+      <Rule active="false" key="java:S119" />
+      <Rule active="false" key="java:S2234" />
+      <Rule active="false" key="java:S135" />
       <Rule active="false" key="java:S116" />
+      <Rule active="false" key="java:S115" />
+      <Rule active="false" key="java:S1066" />
+      <Rule active="false" key="java:S1181" />
+      <Rule active="false" key="java:S100" />
+      <Rule active="false" key="java:S2160" />
+      <Rule active="false" key="java:S3011" />
+      <Rule active="false" key="java:S106" />
+      <Rule active="false" key="java:S2386" />
+      <Rule active="false" key="java:S1319" />
+      <Rule active="false" key="java:S1659" />
+      <Rule active="false" key="java:S1118" />
+      <Rule active="false" key="java:S127" />
+      <Rule active="false" key="java:S3776" />
+      <Rule active="false" key="java:S5976" />
+      <Rule active="false" key="java:S5778" />
     </rules>
   </component>
 </application>
