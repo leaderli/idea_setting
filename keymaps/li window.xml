@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Console.Open" />
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
@@ -27,6 +28,9 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="ExportToTextFile" />
   <action id="ExternalSystem.OpenConfig" />
+  <action id="FileChooser.GotoJDK">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -93,6 +97,10 @@
   </action>
   <action id="PreviousTab" />
   <action id="ProjectViewEditSource" />
+  <action id="QuickActionPopup">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="alt e" />
