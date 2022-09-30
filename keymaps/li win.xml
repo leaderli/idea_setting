@@ -1,4 +1,4 @@
-<keymap version="1" name="li" parent="Mac OS X 10.5+">
+<keymap version="1" name="li win">
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
