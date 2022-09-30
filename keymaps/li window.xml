@@ -28,9 +28,6 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="ExportToTextFile" />
   <action id="ExternalSystem.OpenConfig" />
-  <action id="FileChooser.GotoJDK">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -130,6 +127,9 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
