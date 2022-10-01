@@ -5,6 +5,7 @@
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.selenium" />
         <option value="idea.plugin.protoeditor" />
+        <option value="TestNG-J" />
       </list>
     </option>
   </component>
