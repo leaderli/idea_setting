@@ -75,7 +75,7 @@
       <path value="Debug Header Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EvaluateExpression" is_action="true" action_type="1" position="13">
+    <group value="ShowExecutionPoint" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Debug Header Toolbar" />
       <option name="myInitialPosition" value="-1" />
