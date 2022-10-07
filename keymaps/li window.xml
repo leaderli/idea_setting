@@ -5,6 +5,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="ChooseDebugConfiguration" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -15,7 +16,8 @@
   <action id="Console.Open" />
   <action id="ContextHelp" />
   <action id="CopyElement" />
-  <action id="Debug">
+  <action id="Debug" />
+  <action id="DebugClass">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Debugger.EditFrameSource" />
