@@ -65,5 +65,20 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="EvaluateExpression" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Debug Header Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ForceRunToCursor" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Debug Header Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowExecutionPoint" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Debug Header Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
