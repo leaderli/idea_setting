@@ -1,0 +1,237 @@
+<keymap version="1" name="li mac" parent="Mac OS X 10.5+">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
+  <action id="ChooseRunConfiguration" />
+  <action id="ClassNameCompletion" />
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="CodeCompletion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="CopyElement" />
+  <action id="DSM.OpenInEditor">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="DatabaseView.CopyTable" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Debugger.EditFrameSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="Diff.ShowDiff" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorDownWithSelection" />
+  <action id="EditorDuplicate" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+  </action>
+  <action id="EditorRightWithSelection" />
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="Graph.RouteEdges" />
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Jdbc.OpenEditor">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="List-selectLastRowExtendSelection" />
+  <action id="List-selectNextColumnExtendSelection" />
+  <action id="MethodDown" />
+  <action id="Move" />
+  <action id="MoveLineDown" />
+  <action id="MoveStatementDown" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="NextTab" />
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="QuickList.quick">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowRight" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Run" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.EditConfiguration">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="RunDashboard.Stop" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ServiceView.GroupByContributor" />
+  <action id="ShowContent" />
+  <action id="ShowErrorDescription" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="Stop" />
+  <action id="Table-selectNextColumnExtendSelection" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="UsageGrouping.UsageType" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.UpdateProject" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="XDebugger.MoveWatchDown" />
+</keymap>
