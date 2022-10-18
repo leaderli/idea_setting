@@ -79,6 +79,7 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathBar" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -151,6 +152,7 @@
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
     <keyboard-shortcut first-keystroke="meta left" />
@@ -183,6 +185,7 @@
   <action id="Run" />
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="f4" />
