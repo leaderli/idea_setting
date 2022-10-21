@@ -2,6 +2,7 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JavaCodeStyleSettings>
     <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
+    <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <arrangement>
