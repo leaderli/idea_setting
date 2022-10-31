@@ -128,6 +128,11 @@
             <Rule active="false" key="java:S2390" />
           </value>
         </entry>
+        <entry key="java:S2789">
+          <value>
+            <Rule active="false" key="java:S2789" />
+          </value>
+        </entry>
         <entry key="java:S3011">
           <value>
             <Rule active="false" key="java:S3011" />
@@ -162,14 +167,15 @@
     </option>
     <rules>
       <Rule active="false" key="java:S1214" />
-      <Rule active="false" key="java:S1133" />
+      <Rule active="false" key="java:S2789" />
       <Rule active="false" key="java:S1452" />
+      <Rule active="false" key="java:S1133" />
       <Rule active="false" key="java:S1172" />
       <Rule active="false" key="java:S1192" />
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S2390" />
-      <Rule active="false" key="java:S4276" />
       <Rule active="false" key="java:S117" />
+      <Rule active="false" key="java:S4276" />
       <Rule active="false" key="java:S5961" />
       <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S2234" />
@@ -184,14 +190,14 @@
       <Rule active="false" key="java:S2160" />
       <Rule active="false" key="java:S3011" />
       <Rule active="false" key="java:S106" />
-      <Rule active="false" key="java:S1319" />
       <Rule active="false" key="java:S2386" />
+      <Rule active="false" key="java:S1319" />
       <Rule active="false" key="java:S1659" />
       <Rule active="false" key="java:S1118" />
       <Rule active="false" key="java:S3776" />
       <Rule active="false" key="java:S127" />
-      <Rule active="false" key="java:S5976" />
       <Rule active="false" key="java:S5778" />
+      <Rule active="false" key="java:S5976" />
     </rules>
   </component>
 </application>
