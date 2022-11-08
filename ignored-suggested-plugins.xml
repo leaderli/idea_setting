@@ -6,6 +6,10 @@
         <option value="com.intellij.selenium" />
         <option value="idea.plugin.protoeditor" />
         <option value="TestNG-J" />
+        <option value="com.intellij.spring" />
+        <option value="com.intellij.spring.boot" />
+        <option value="com.intellij.spring.data" />
+        <option value="com.intellij.reactivestreams" />
       </list>
     </option>
   </component>
